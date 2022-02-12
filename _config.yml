@@ -1,7 +1,7 @@
 # Site Settings
 lang: en
 title: Prof Ang Diing Shenp Group
-tagline: Bulma Clean Theme
+tagline: NTU
 email: EDSANG at ntu dot edu dot sg
 description: >
   Test website for Prof. Ang Diing Shenp Group. Nanyang Technological University
@@ -9,7 +9,7 @@ baseurl: "/"
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+# gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
