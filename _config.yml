@@ -2,10 +2,10 @@
 lang: en
 title: Prof Ang Diing Shenp Group
 tagline: Bulma Clean Theme
-email: your-email@domain.com
+email: EDSANG at ntu dot edu dot sg
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+  Test website for Prof. Ang Diing Shenp Group. Nanyang Technological University
+baseurl: "/"
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
