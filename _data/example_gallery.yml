@@ -1,10 +1,15 @@
-- title: Image Gallery Title
+- title: People
   images:
-    - link: https://via.placeholder.com/400x225
-      large_link: https://via.placeholder.com/1200x675
-      alt: The alt text for the image
-      description: The image description
-      ratio: is-16by9
+    - link: https://publons.com/media/thumbs/academic/photos/3c1737d2-f774-4242-bb02-24fc2df9be62.png.200x200_q95_crop_detail_upscale.png
+      large_link: https://publons.com/media/thumbs/academic/photos/3c1737d2-f774-4242-bb02-24fc2df9be62.png.200x200_q95_crop_detail_upscale.png
+      alt: Dr. Haider ABBAS
+      description: |-
+        ### [Dr. Haider ABBAS](https://www.haider.website/)
+        Dr. Abbas obtained his B.S degree in electronic engnieering from Sir Syed University of Engineering and Technology, Pakistan.
+        He got his PhD degree Myongji University, South Korea in 2019 and worked as a research fellow at Nano Electronic 
+        Devices & Materials Lab (NEDML) at Hanyang University since 2019. He joined School of EEE at Nanyang Technological University
+        as a research fellow in Janurary, 2022.
+      ratio: is-1by1
     - link: https://via.placeholder.com/400x300
       large_link: https://via.placeholder.com/1200x900
       alt: The alt text for the image
