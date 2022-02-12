@@ -1,60 +1,19 @@
 ---
 title: Publications
-subtitle: Demo page with tabs
+subtitle: 
 layout: page
 show_sidebar: false
 tabs: example_tabs
-menubar: example_menu
 ---
 
 ## Publications
 
-The tabs gets its content from a data file in your site's `_data` directory. Simply set the name of your data file in the page's menubar setting in the frontmatter. 
+* C. J. Gu, D. S. Ang, Y. Gao, R. Y. Gu, Z. Q. Zhao, and C. Zhu. (2017). A vacancy-interstitial defect pair model for positive-bias temperature stress induced electron trapping transformation in the high-k gate n-MOSFET. IEEE Transactions on Electron Devices, 64(6), TBD.
 
-```yml
-title: Page with tabs
-subtitle: Demo page with tabs
-layout: page
-show_sidebar: false
-menubar: example_menu
-tabs: example_tabs
-```
+* Y. Zhou, T. Kawashima, and D. S. Ang. (2017). TiN-mediated multi-level negative photoconductance of the ZrO2 breakdown path. IEEE Journal of the Electron Devices Society, 5(3), 188-192.
 
-Tabs can be used in conjunction with menubar and/or sidebar if you wish. 
+* H. Z. Zhang, D. S. Ang, K. S. Yew, and X. P. Wang. (2016). Observation of self-reset during forming of the TiN/HfOx/TiN resistive switching device. IEEE Electron Device Letters, 37(9), 1116-1119.
 
-## Creating a tabs data file
+* Z. Y. Tung and D. S. Ang. (2016). Impact of voltage-accelerated stress on hole trapping at operating condition. IEEE Electron Device Letters, 37(5), 644-647.
 
-Create a data file in the _data directory and use the following format (if using yml)
-
-```yml
-alignment: is-left
-style: is-boxed
-size: is-large
-items:
-  - name: Tabs
-    link: /page-4/
-    icon: fa-smile-wink
-  - name: Sidebar
-    link: /page-1/
-    icon: fa-square
-  - name: No Sidebar
-    link: /page-2/
-    icon: fa-ellipsis-v
-  - name: Menubar
-    link: /page-3/
-    icon: fa-bars
-```
-
-## Settings
-
-You can control the alignment, style and size of the tabs by using the relevant [Bulma tabs classes](https://bulma.io/documentation/components/tabs/). 
-
-## Active Tab Highlighting
-
-It will automatically mark the active tab based on the current page.
-
-## Icons
-
-You can add icons to your tab by passing in the [Font Awesome icon class](https://fontawesome.com/icons?d=gallery).
-
-If you don't wish to show icons then simply omit the option from your yaml file.
+* A. A. Boo, Z. Y. Tung, and D. S. Ang. (2016). On the correlation between hole-trapping transformation and SILC generation under NBTI stressing. IEEE Electron Device Letters, 37(4), 369-372.
