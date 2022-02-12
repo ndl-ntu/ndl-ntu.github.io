@@ -10,8 +10,7 @@
         Devices & Materials Lab (NEDML) at Hanyang University since 2019. He joined School of EEE at Nanyang Technological University
         as a research fellow in Janurary, 2022.
       ratio: is-1by1
-    - link: https://via.placeholder.com/400x300
-      large_link: https://via.placeholder.com/1200x900
+    - link: https://www.ntu.edu.sg/images/default-source/corporate/ntu-30-anniversary-logoc1850609-db51-4cc8-9788-62c50778e47b.svg
       alt: Dr. JU Xin
       description: |-
         ### [Dr. JU Xin]()
@@ -25,5 +24,14 @@
       alt: Mr. LI Jiayi
       description: |-
         ### [Mr. Li Jiayi](https://shieldjy.github.io/about/)
-        Mr. Li Jiayi obtained his B.Eng degree from Tongji University, China in 2021. He is now a PhD student at Nanyang Technological University(NTU), Singapore.
+        Mr. Li Jiayi obtained his B.Eng degree from Tongji University, China in 2021. He is now a PhD student at Nanyang Technological University, Singapore.
       ratio: is-16by9
+
+- title: Research Student
+  images:
+    - link: 
+    alt:
+    description: |-
+      ### 
+      
+    ratio:
