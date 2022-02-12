@@ -1,6 +1,17 @@
 ---
 layout: page
 title: People
+subtitle: 
+description: People in Prof. Ang Diing Shenp's Group
+gallery: example_gallery
+show_sidebar: false
+---
+
+This is a test page for people.
+
+<!-- ---
+layout: page
+title: People
 subtitle: Test page people
 toc: true
 #toc_title: Custom Title
@@ -24,4 +35,4 @@ show_sidebar: false
 Mr. Li Jiayi obtained his B.Eng degree from Tongji University, China in 2021. He is now a PhD student at Nanyang Technological University(NTU), Singapore.
 
 ## Alumini
-
+ -->
