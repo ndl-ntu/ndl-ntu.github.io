@@ -8,13 +8,13 @@ tabs: example_tabs
 
 ## Publications
 
-* Dan Berco and Diing S. Ang , "Multideck light-induced reset in a transparent bilayer synaptic device", Journal of Vacuum Science & Technology B 39, 053202 (2021) https://doi.org/10.1116/6.0001186
+* Dan Berco and Diing S. Ang . (2021) . Multideck light-induced reset in a transparent bilayer synaptic device. Journal of Vacuum Science & Technology B 39, 053202.  [https://doi.org/10.1116/6.0001186](https://doi.org/10.1116/6.0001186)
 
-* Berco, D. and Shenp Ang, D. (2021), Bioinspired Robotic Vision with Online Learning Capability and Rotation-Invariant Properties. Adv. Intell. Syst., 3: 2100025. https://doi.org/10.1002/aisy.202100025
+* Berco, D. and Shenp Ang, D. (2021) . Bioinspired Robotic Vision with Online Learning Capability and Rotation-Invariant Properties. Adv. Intell. Syst., 3: 2100025. [https://doi.org/10.1002/aisy.202100025](https://doi.org/10.1002/aisy.202100025)
 
 * Xie, H., Guo, Q., Chen, L., Zhang, Y., Ma, Y., Wu, M., ... & Ang, D. S. (2021). 1D Ti-based H2Ti12O25 nanorod@ 2D RGO sheet composite as high-power anode for long-life Li-ion battery. Journal of Alloys and Compounds, 869, 159223.
 
-* Xu, Y., Lai, K., Gu, C., Jiang, T., Shen, X., Zeng, S., Ho, A.H., Ang, D.S. and Zhou, J. (2021), Electrical Tuning of MoOx/Ag Hybrids and Investigation of their Surface-Enhanced Raman Scattering Performance. Phys. Status Solidi RRL, 15: 2000499. https://doi.org/10.1002/pssr.202000499
+* Xu, Y., Lai, K., Gu, C., Jiang, T., Shen, X., Zeng, S., Ho, A.H., Ang, D.S. and Zhou, J. (2021), Electrical Tuning of MoOx/Ag Hybrids and Investigation of their Surface-Enhanced Raman Scattering Performance. Phys. Status Solidi RRL, 15: 2000499. [https://doi.org/10.1002/pssr.202000499](https://doi.org/10.1002/pssr.202000499)
 
 * C. J. Gu, D. S. Ang, Y. Gao, R. Y. Gu, Z. Q. Zhao, and C. Zhu. (2017). A vacancy-interstitial defect pair model for positive-bias temperature stress induced electron trapping transformation in the high-k gate n-MOSFET. IEEE Transactions on Electron Devices, 64(6), TBD.
 
