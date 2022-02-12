@@ -3,7 +3,7 @@ title: Publications
 subtitle: 
 layout: page
 show_sidebar: false
-tabs: example_tabs
+tabs:
 ---
 
 ## Publications
