@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Post test"
+title:  "Dr. Ali is joining us!"
 date:   2022-02-10 14:18:07
-categories: development
+categories: News
 description: "Test by Jiayi"
-# image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
+image: 'https://www.ntu.edu.sg/images/default-source/corporate/ntu-30-anniversary-logoc1850609-db51-4cc8-9788-62c50778e47b.svg'
 published: true
 ---
 
