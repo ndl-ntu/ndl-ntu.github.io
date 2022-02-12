@@ -11,7 +11,7 @@ This is a test page, the information given is not accurate.
 
 ### Prospective students/Research staffs
 
-Currently, our lab have openings for xxx.
+Currently, our lab have opening positions for xxx.
 Please email xxx@ntu.edu.sg with "prospective xxx" including following information:
 
 ### Collaboration partners
