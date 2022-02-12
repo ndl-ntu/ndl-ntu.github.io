@@ -2,7 +2,7 @@
 layout: post
 title:  "Post test"
 date:   2022-02-12 14:18:07
-categories: test
+categories: development
 description: "Test by Jiayi"
 image:
 published: true
