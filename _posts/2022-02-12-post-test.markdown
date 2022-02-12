@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Post test"
-date:   2022-02-10 14:18:07
+date:   2022-02-12 14:18:07
 categories: development
 description: "Test by Jiayi"
-image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
+# image: 'https://www.csrhymes.com//img/static-site-generator.jpg'
 published: true
 ---
 
