@@ -1,7 +1,5 @@
 - name: About
   link: /
-- name: Blog
-  link: /blog/
 - name: Publications
   link: /publications/
 - name: Contact Us
