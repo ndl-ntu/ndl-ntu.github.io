@@ -2,7 +2,7 @@
 title: About Us
 subtitle: This is the test site for Prof. Ang Diing Shenp Group
 layout: page
-callouts: home_callouts
+# callouts: home_callouts
 show_sidebar: true
 ---
 
