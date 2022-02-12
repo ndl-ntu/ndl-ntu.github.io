@@ -1,6 +1,6 @@
 ---
-title: About Us
-subtitle: This is the test site for Prof. Ang Diing Shenp Group
+title: Prof. Ang Diing Shenp Group
+subtitle: This site is under developing.
 layout: page
 hero_image: /assets/img/ntu30logo.png
 callouts: home_callouts
