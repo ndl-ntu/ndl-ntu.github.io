@@ -2,7 +2,7 @@
 title: About Us
 subtitle: This is the test site for Prof. Ang Diing Shenp Group
 layout: page
-# hero_image: 'https://www.ntu.edu.sg/images/default-source/corporate/ntu-30-anniversary-logoc1850609-db51-4cc8-9788-62c50778e47b.svg'
+hero_image: /asset/img/ntu30logo.png
 callouts: home_callouts
 show_sidebar: true
 ---
