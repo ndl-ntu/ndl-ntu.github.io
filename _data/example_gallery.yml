@@ -6,20 +6,26 @@
       description: |-
         ### <a href="https://www.haider.website/">Dr. Haider ABBAS</a>
         #### About
+        <p align = "justify"> 
         Dr. Abbas obtained his B.S degree in electronic engnieering from Sir Syed University of Engineering and Technology, Pakistan.
         He got his PhD degree Myongji University, South Korea in 2019 and worked as a research fellow at Nano Electronic 
         Devices & Materials Lab (NEDML) at Hanyang University since 2019. He joined School of EEE at Nanyang Technological University
         as a research fellow in Janurary, 2022.
+        <\p>
         #### Selected Publications
+        <p align = "justify"> 
         * Haider Abbas, Yawar Abbas, Gul Hassan, Andrey Sergeevich Sokolov, Yu-Rim Jeon, Boncheol Ku, Chi Jung Kang and Changhwan Choi, "The Coexistence of Threshold and Memory Switching Characteristics of ALD HfO2 Memristor Synaptic Arrays for Energy-Efficient Neuromorphic Computing", Nanoscale, 12, 14120-14134 (2020). <a href="https://pubs.rsc.org/en/content/articlelanding/2020/NR/D0NR02335C">Online</a>
         * Haider Abbas, Asif Ali, Jongwan Jung, Quanli Hu, Mi Ra Park, Hyun Ho Lee, Tae-Sik Yoon  and Chi Jung Kang, “Reversible transition of volatile to non-volatile resistive switching and compliance current-dependent multistate switching in IGZO/MnO RRAM devices”, Applied Physics Letters, 114, 093503 (2019). <a href="https://aip.scitation.org/doi/10.1063/1.5082901">Online</a>
+        <\p>
       ratio: is-1by1
     - link: https://www.ntu.edu.sg/images/default-source/corporate/ntu-30-anniversary-logoc1850609-db51-4cc8-9788-62c50778e47b.svg
       alt: Dr. JU Xin
       description: |-
         ### [Dr. JU Xin]()
+        <p align = "justify">
         Dr. JU xin obtained his B.S degree from Tianjin University, China, then he got his M.S degree from Peking University. 
         He obtained his PhD degree from Nanyang Technological Univerisy, Singapore in Oct 2021 and joined as a research fellow since then.
+        <\p>
       ratio: is-4by3
 
 - title: Research Student
