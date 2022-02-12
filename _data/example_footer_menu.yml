@@ -1,5 +1,7 @@
 - name: About
   link: /
+- name: People
+  link: /people/
 - name: Publications
   link: /publications/
 - name: Contact Us
