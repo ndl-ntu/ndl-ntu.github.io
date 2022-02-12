@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Post test"
+date:   2022-02-12 14:18:07
+categories: test
+description: "Test by Jiayi"
+image: 'https://www.ntu.edu.sg/images/default-source/corporate/ntu-30-anniversary-logoc1850609-db51-4cc8-9788-62c50778e47b.svg?sfvrsn=5b13ef08_3'
+published: true
+canonical_url: https://www.csrhymes.com/development/2018/05/28/why-use-a-static-site-generator.html
+---
