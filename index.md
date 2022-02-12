@@ -1,55 +1,15 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: About Us
+subtitle: This is the test site for Prof. Ang Diing Shenp Group
 layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# Biography
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+## A/P Ang Diing Shenp
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
+Dr. Ang obtained both his B. Eng. (hons) and Ph.D. degrees in electrical engineering from the National University of Singapore. He joined the School of EEE, NTU in July 2002 as an assistant professor and was promoted to associate professor in April 2008. Dr. Ang’s research interests lie mainly in device reliability physics and characterization. He has recently become interested in the applications of nano-characterization techniques and silicon nanostructures. Together with his graduate student, their work on the application of scanning probe techniques to study electronic trap generation in alternative high-k dielectrics won them the Bronze prize in the category of Physics, Chemistry of Material for Nano-Scale Devices of the 3rd TSMC Outstanding Student Research Award. Dr. Ang was invited to serve on the technical program committees of the International Reliability Physics Symposium from 2004-2006, and has served on the technical program committees nternational Symposium on the Physical and Failure Analysis of Integrated Circuits since 2004. 
 
-## Ruby Gem
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme).
-
-## GitHub Pages
-
-The theme can be used with GitHub Pages by setting the `remote_theme` in your Jekyll sites `_config.yml`
-
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
-
-## Instructions
-
-For full instructions, please see the Readme at the GitHub repo:
-[https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md](https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md)
-
-## Page Layouts
-
-This demo site showcases the available page layout options.
-
-* Page With Sidebar
-* Page Without Sidebar
-* Page With Menubar
-* Page With Tabs
-* Page Without Footer
-* Page Without Hero
-* Page With Contents
-* Landing Page With Callouts
-* Sponsors Page
-* Image Gallery
-* Recipe Page
-* Blog
-* Post
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
