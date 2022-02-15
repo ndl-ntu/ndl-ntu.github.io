@@ -49,7 +49,7 @@ sass:
   style: compressed
   source_dir: _sass
 
-#google_analytics: UA-code-here
+google_analytics: G-1BFEXD552C
 
 defaults:
   -
