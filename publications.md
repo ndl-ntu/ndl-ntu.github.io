@@ -132,5 +132,5 @@ tabs:
 
 ## Patents
 
-* Ang, D. S., & Zhou, Y. (2019). Sensor element, image sensor, methods of forming and operating the same (US10269860B2). 
+* Ang, D. S., & Zhou, Y. (2019). Sensor element, image sensor, methods of forming and operating the same ([US10269860B2](https://patents.google.com/patent/US10269860B2/en)). 
 
