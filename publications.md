@@ -132,4 +132,5 @@ tabs:
 
 ## Patents
 
-* Ang, Diing Shenp, and Yu Zhou. "Sensor element, image sensor, methods of forming and operating the same." U.S. Patent No. 10,269,860. 23 Apr. 2019.
+* Ang, D. S., & Zhou, Y. (2019). Sensor element, image sensor, methods of forming and operating the same (US10269860B2). 
+
