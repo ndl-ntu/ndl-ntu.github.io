@@ -9,7 +9,7 @@ items:
     image: /img/csrhymes-com.jpg
     image_ratio: is-16by9
     link: https://ntusgprofanggroup.github.io/
-    link_text: View our group website.
+    link_text: Group Website
     tags: RRAM,Synapse,Neuro
     github: 
   # - title: Bulma Clean Theme
