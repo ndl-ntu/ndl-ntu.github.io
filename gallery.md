@@ -1,9 +1,8 @@
 ---
-layout: page-protected
+layout: page
 title: People
 subtitle: 
 description: People in Prof. Ang Diing Shenp's Group
-gallery: example_gallery
 show_sidebar: false
 ---
 
