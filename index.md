@@ -67,7 +67,8 @@ Dr. Ang’s research interests lie mainly in neuromorphic RRAM device, device re
   * 1 June 2014 –31 August 2017
   * Co-Principal Investigator
 
-* Animation as an effective means for the teaching of abstract concepts and facilitation of post-classroom exploration 	EEE NTU
+* Animation as an effective means for the teaching of abstract concepts and facilitation of post-classroom exploration
+  * School of EEE NTU
   * 1 January 2016 –30 June 2017
   * Principal Investigator
 
