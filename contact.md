@@ -13,12 +13,12 @@ OUR LAB has openings FOR RESEARCH STUDENTS (M.Eng and Ph.D.)
 
 #### Singapore Citizen/Singapore PR
 
-We offer **FULL** tuition grant and ~$4500 stipend per month(including CPF)* for fulltime:
+We offer **FULL** tuition grant and ~$4500 stipend per month(including CPF)# for fulltime:
 
 * M.Eng student (2 Years). Details refer to [NTU Admission MEng Programme](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy-(ph.d)-and-master-of-engineering-(m.eng)-programme)
 * Ph.D. student (4 Years) [NTU Admission PhD Programme](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme)
 
-* *Sponsered by EDB and GLOBALFOUNDRIES, Singapore.*
+\# *Sponsered by EDB and GLOBALFOUNDRIES, Singapore.*
 
 ##### Eligibility
 
