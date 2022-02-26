@@ -28,6 +28,11 @@ We offer **FULL** tuition grant and ~$4500 stipend per month(including CPF)# for
 
 #### International Students
 
+We welcome international students from all over the world to join us as M.Eng or Ph.D. students. NTU is an internationally-friendly university and Singapore is an amazing place for you to explore. Below are information of each programme.
+
+* M.Eng student (2 Years) Details refer to [NTU Admission MEng Programme](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy-(ph.d)-and-master-of-engineering-(m.eng)-programme).
+* Ph.D. student (4 Years) Details refer to [NTU Admission PhD Programme](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme).
+
 NTU offers a variety of scholarships covering tuition and monthly stipends for international students. Details refer to [NTU scholarship](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships).
 
 ##### Eligibility
