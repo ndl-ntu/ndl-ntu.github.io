@@ -43,13 +43,15 @@
 
 - title: Alumni
   images:
-    - description: |-
+    - link: favicon.png
+      alt: Alumini
+      description: |-
         ### Shreyan Mondal
         MEng, degree conferred in 2021
         #### Research Topic
         Plasmonic sensors based on the negative photoconductivity effect in soft electrical breakdown wide bandgap oxides
       ratio: is-16by9
-    - link: https://www.ntu.edu.sg/images/default-source/corporate/ntu-30-anniversary-logoc1850609-db51-4cc8-9788-62c50778e47b.svg
+    - link: favicon.png
       alt: Alumini
       description: |-
         ### Toh Rui Tze
