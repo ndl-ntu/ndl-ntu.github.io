@@ -23,9 +23,10 @@ Dr. Ang’s research interests lie mainly in neuromorphic RRAM device, device re
 
 ## On-going
 
-* Enabling synaptic logic transistor via gate-dielectric defect characterization  
-* MOE AcRF Tier-2
-* Principal Investigator
+* Enabling synaptic logic transistor via gate-dielectric defect characterization
+
+  * MOE AcRF Tier-2
+  * Principal Investigator
 
 ## Competed
 
@@ -49,8 +50,7 @@ Dr. Ang’s research interests lie mainly in neuromorphic RRAM device, device re
 
 * Development of high-performance power amplifier devices on thin-film SOI through device engineering  
 
-  * Economic Development Board Singapore
-
+  * Economic Development Board Singapore  
     GLOBALFOUNDRIES Singapore
 
   * 1 August 2014 – 31 July 2019
@@ -109,8 +109,7 @@ Dr. Ang’s research interests lie mainly in neuromorphic RRAM device, device re
 
 * Joint Industrial Postgraduate Programme
 
-  * Economic Development Board Singapore
-
+  * Economic Development Board Singapore  
     United Microelectronics Corporation (Singapore Branch)
 
   * August 2007 –July 2010
