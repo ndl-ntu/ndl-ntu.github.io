@@ -78,7 +78,8 @@ Dr. Ang’s research interests lie mainly in neuromorphic RRAM device, device re
   * Principal Investigator
 
 * Joint Industrial Postgraduate Programme
-  * Economic Development Board Singapore
+
+  * Economic Development Board Singapore  
     GLOBALFOUNDRIES Singapore
   * August 2007 – July 2016
   * Principal Investigator
