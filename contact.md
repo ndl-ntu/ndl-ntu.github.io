@@ -30,7 +30,7 @@ We offer **FULL** tuition grant and ~$4500 stipend per month(including CPF)* for
 
 NTU offers a variety of scholarships covering tuition and monthly stipends for international students. Details refer to [NTU scholarship](https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships).
 
-Although these scholarships could be competitive sometimes, the applicants are strongly encouraged to try eligible ones. For any inquiries regarding scholarships, please feel free to email us for further information.
+Although these scholarships could be competitive sometimes, the applicants are strongly encouraged to try eligible ones. For any inquiries regarding scholarships, please feel free to email us at (EDSANG at NTU dot EDU dot SG) for further information.
 
 ### Collaboration partners
 
