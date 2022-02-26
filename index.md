@@ -15,8 +15,9 @@ show_sidebar: true
 
 Dr. Ang obtained both his B. Eng. (Hons) and Ph.D. degrees in electrical engineering from the National University of Singapore. He joined the School of EEE, NTU in July 2002 as an assistant professor and was promoted to associate professor in April 2008. He is American Chemical Society (ACS) member since 2019 and IEEE senior member since 2009. Dr. Ang served as IEEE Electron Device Society – Device Reliability Physics Committee Member(Jan 2013 – Dec 2017) and sub-committee member of IEEE International Reliability Physics Symposium for four years, IEEE International Integrated Reliability Workshop for five years, and IEEE International Symposium on the Physical and Failure Analysis of Integrated Circuits since 2004. He was listed in the 2000 Outstanding Intellectuals of the 21st Century (2008) by the International Biographical Centre, Cambridge, England and in Marquis *Who’s Who in the World* for seven years.
 
-Dr. Ang’s research interests lie mainly in neuromorphic RRAM device, device reliability physics and characterization.
+</p>
 
+Dr. Ang’s research interests lie mainly in neuromorphic RRAM device, device reliability physics and characterization.
 
 # Research Projects/Grants
 
@@ -130,6 +131,3 @@ Dr. Ang’s research interests lie mainly in neuromorphic RRAM device, device re
   * MOE AcRF Tier-2
   * 1 April 2007 – 30 September 2010
   * Co-Principal Investigator
-
-
-</p>
