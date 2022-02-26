@@ -42,9 +42,9 @@ NTU offers a variety of scholarships covering tuition and monthly stipends for i
 #### Contact
 
 Although these scholarships could be competitive sometimes, the applicants are strongly encouraged to try eligible ones.  
-**For any inquiries regarding applications/scholarships, please feel free to email us at (<EDSANG at NTU dot EDU dot SG>) for further information.**  
+**For any inquiries regarding applications/scholarships, please feel free to email us at ([EDSANG at NTU dot EDU dot SG]()) for further information.**  
 You are encouraged to email with title "*Prospective PhD/MEng Student_ NAME*". The body can be a short **personal statement** for us to know you, including your **academic/career development** and **published papers or projects**(if any). A **brief CV** attached is also helpful.
 
 ### Reserch fellow/Collaboration partners
 
-If you are seeking research fellow position/collaboration, please email us at (<EDSANG at NTU dot EDU dot SG>) for further connections.
+If you are seeking research fellow position/collaboration, please email us at ([EDSANG at NTU dot EDU dot SG]()) for further connections.
