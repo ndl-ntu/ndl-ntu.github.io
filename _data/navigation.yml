@@ -29,8 +29,13 @@
 #       link: /gallery/
 #     - name: Recipe Page
 #       link: /example-recipe/
-- name: Publications
-  link: /publications/
+- name: Works
+  link: /#
+  dropdown:
+    - name: Publications
+      link: /publications/
+    - name: Projects
+      link: /projects/
 - name: People
   link: /people/
 - name: Showcase
