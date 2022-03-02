@@ -130,7 +130,7 @@ tabs:
 
 * Boo, A. A., Tung, Z. Y., & Ang, D. S. (2016). New Observations on the Correlation Between Hole-Trapping Transformation and SILC Generation Under NBTI Stressing. IEEE Electron Device Letters, 37(4), 369-372. [10.1109/led.2016.2531752](https://doi.org/10.1109/led.2016.2531752)
 
-# 2015 and before
+# Before 2016
 
 * W. H. Tham*, L. K. Bera, D. S. Ang, S. B. Dolmanan, T. N. Bhat, and S. Tripathy “AlGaN/GaN MIS-HEMTs with a common gold-free metal-stack for source/drain/gate,” IEEE Electron Device Letters, vol. 36, no. 12, pp. 1291-1294, Dec. 2015.	
 
@@ -255,71 +255,3 @@ tabs:
 * R. Ranjan, K. L. Pey, C. H. Tung, D. S. Ang, L. J. Tang, T. Kauerauf, R. Degraeve, G. Groeseneken, S. De Gendt, and L. K. Bera, “Ultrafast progressive breakdown associated with metal-like filament formation of breakdown path in HfO2/TaN/TiN transistor,” Applied Physics Letters., vol. 88, no. 12, art. no. 122907, Mar. 2006.
 
 * R. Ranjan, K. L. Pey, C. H. Tung, L. J. Tang, D. S. Ang, G. Groeseneken, S. De Gendt, and L. K. Bera, “Breakdown-induced thermochemical reactions in HfO2 high-/poly-silicon gate stacks”, Applied Physics Letters, vol. 87, no. 24, art. no. 242907, Dec. 2005.
-
-
-## Patents/PCT/Technology Disclosures
-
-### Granted
-
-2.	Inventors	:	D. S. Ang and Y. Zhou
-	Title of Invention	:	Sensor element, image sensor, methods of forming and operating the same
-	Date of Filing	: 4 December 2017
-	Accorded Filing Date	: 19 July 2016
-	US Application No.	: 15/579307	
-	Date of Patent	:	23 April 2019
-	Patent No.	:	US 10,269,860 B2
-
-1.	Inventors		:	Y. T. Chan, K. C. Tee, Y. A. Nga, Z. Lun, W. L. Goh, D. S. Ang
-	Title of Invention	:	Method of forming a partially depleted silicon on insulator (PDSOI) transistor with a pad lock body extension
-	Date of Patent		:	14 February 2006
-	Patent No.		:	US 6,998,682 B2
-
-### Application
-
-#### Patent Applications
-
-1.	Inventors			: D. S. Ang and Y. Zhou
-	Title of Invention	: Sensor element, image sensor, methods of forming and operating the same
-	Date of Filing		: 28 January 2018
-	Accorded Filing Date	: 19 July 2016
-	China Application No.	: 201680043617.9
-
-
-#### PCT Applications
-
-1.	Inventors	:	D. S. Ang and Y. Zhou
-	Title of Invention	: Sensor element, image sensor, methods of forming and operating the same
-	Date Filed			: 19 July 2016
-	Application No.		: PCT-SG2016-050343
-	NTU Ref.			: PAT-SG2016-050343
-
-
-#### Provisional Patents
-
-2.	Inventors		:	D. S. Ang, Y. Zhou, and M. K. Bera
-	Title of Invention	: Negative photoconductivity in soft-breakdown dielectrics as the basis for a new oxide-based image sensor and a novel oxide reliability rejuvenation technique
-	Date Filed			: 24 July 2015
-	Application No.		: 10201505778X
-	NTU Ref.			: PAT/170/15/15/SG PRV
-
-1.	Inventors		:	D. S. Ang and K. S. Yew
-	Title of Invention	:	A multi-step deposition cum ultra-violet ozone and rapid thermal two-step annealing method for high-k/metal gate stack fabrication
-	Date Filed		:	31 August 2012
-	Application No.		: 61/695,501
-	NTU Ref.			: PAT/158/12/12/US PRV
-	(Remark: Enforcement concern prevented progression to a PCT application.)
-
-
-#### Technology Disclosures
-
-3.	Inventors		:	D. Berco and D. S. Ang
-	Title of Invention	:	Artificial cogni-retina for bionic and machine vision
-	Date			:	17 April 2019
-
-2.	Inventors			:	D. S. Ang, Y. Zhou, and M. K. Bera
-	Title of Invention	:	A CMOS-compatible oxide image sensor based on the negative photoconductivity behaviour of the soft-breakdown HfO2 dielectric
-	Date		:	3 June 2015 
-
-1.	Inventors			:	D. S. Ang and K. S. Yew
-	Title of Invention	:	A multi-step deposition cum ultra-violet ozone and rapid thermal two-step annealing method for high-k/metal gate stack fabrication
-	Date			:	13 August 2012
