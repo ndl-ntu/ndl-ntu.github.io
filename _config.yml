@@ -1,6 +1,6 @@
 # Site Settings
 lang: en
-title: Prof Ang Diing Shenp Group
+title: Neuromorphic Device Lab
 tagline: NTU
 email: EDSANG at ntu dot edu dot sg
 description: >
@@ -12,7 +12,7 @@ permalink: pretty
 # gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 theme_color: '#020c66'
-#fixed_navbar: top
+fixed_navbar: top
 # remote_theme: chrisrhymes/bulma-clean-theme
 
 paginate: 5
