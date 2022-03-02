@@ -16,7 +16,7 @@ show_sidebar: true
   * MOE AcRF Tier-2
   * Principal Investigator
 
-## Competed
+## Completed
 
 * Understanding charge-trapping evolution in small-dimension logic/memory devices  
 
