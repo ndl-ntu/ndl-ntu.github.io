@@ -1,6 +1,6 @@
 ---
-title: Neuromorphic Device Lab
-subtitle: 
+title: Projects
+subtitle: Neuromorphic Device Lab
 layout: page
 hero_image: /assets/img/ntu30logo.png
 callouts: home_callouts
