@@ -1,6 +1,6 @@
 ---
 title: Contact us
-subtitle: 
+subtitle: Neuromorphic Device Lab
 layout: page
 hero_image: /assets/img/ntu30logo.png
 show_sidebar: false

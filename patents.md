@@ -1,6 +1,6 @@
 ---
 title: Patents
-subtitle: 
+subtitle: Neuromorphic Device Lab
 layout: page
 show_sidebar: false
 tabs:
