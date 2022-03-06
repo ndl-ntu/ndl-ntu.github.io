@@ -25,7 +25,6 @@ disqus:
   # shortname: my_disqus_shortname
   shortname: 
 
-
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
