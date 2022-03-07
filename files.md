@@ -9,3 +9,8 @@ toc: true
 ## Lab Notes
 
 * [Jiayi's Lab Notes](https://entuedu-my.sharepoint.com/:f:/g/personal/jiayi004_e_ntu_edu_sg/EumpEeYTNK9Dk9fcg-wJW94Bsaks6iMKTj-WWTwdnTTlzA?e=rTeIOF) (Login to NTU Microsoft account for access. Access restricted to current group members)
+
+<h1>The iframe element</h1>
+
+<iframe src="https://entuedu-my.sharepoint.com/:f:/g/personal/jiayi004_e_ntu_edu_sg/EumpEeYTNK9Dk9fcg-wJW94Bsaks6iMKTj-WWTwdnTTlzA&action=embedview" title="W3Schools Free Online Web Tutorials">
+</iframe>
