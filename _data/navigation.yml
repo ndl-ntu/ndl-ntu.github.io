@@ -45,6 +45,6 @@
 - name: News
   link: /blog/
 - name: Files
-  link: /file/
+  link: /files/
 - name: Contact Us
   link: /contact/
