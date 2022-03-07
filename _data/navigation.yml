@@ -40,9 +40,11 @@
       link: /patents/ 
 - name: People
   link: /people/
-- name: Showcase
-  link: /showcase/
+# - name: Showcase
+#   link: /showcase/
 - name: News
   link: /blog/
+- name: Files
+  link: /file/
 - name: Contact Us
   link: /contact/
