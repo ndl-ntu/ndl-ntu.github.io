@@ -1,5 +1,19 @@
 - title: Research Staff
   images:
+    - link: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rIkywgYAAAAJ&citpid=1.jpeg
+      large_link: https://scholar.googleusercontent.com/citations?view_op=view_photo&user=rIkywgYAAAAJ&citpid=1.jpeg
+      alt: Dr. Asif Ali
+      description: |-
+        ### <a href="https://scholar.google.co.kr/citations?user=rIkywgYAAAAJ&hl=en">Dr. Asif Ali</a>
+        #### About
+        <p align = "justify"> 
+        Dr. Asif Ali obtained his PhD degree from Sejong University, South Korea in 2022 and joined School of EEE at Nanyang Technological University
+        as a research fellow since March, 2022.
+        </p>
+        #### Selected Publications
+        * <p align = "justify"> Ali, Asif, et al. "Dependence of InGaZnO and SnO2 thin film stacking sequence for the resistive switching characteristics of conductive bridge memory devices." Applied Surface Science 525 (2020): 146390. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169433220311478">Online</a></p>
+        * <p align = "justify"> Haider Abbas, Asif Ali, Jongwan Jung, Quanli Hu, Mi Ra Park, Hyun Ho Lee, Tae-Sik Yoon  and Chi Jung Kang, “Reversible transition of volatile to non-volatile resistive switching and compliance current-dependent multistate switching in IGZO/MnO RRAM devices”, Applied Physics Letters, 114, 093503 (2019). <a href="https://aip.scitation.org/doi/10.1063/1.5082901">Online</a></p>
+      ratio: is-1by1
     - link: https://publons.com/media/thumbs/academic/photos/3c1737d2-f774-4242-bb02-24fc2df9be62.png.200x200_q95_crop_detail_upscale.png
       large_link: https://publons.com/media/thumbs/academic/photos/3c1737d2-f774-4242-bb02-24fc2df9be62.png.200x200_q95_crop_detail_upscale.png
       alt: Dr. Haider ABBAS
@@ -29,20 +43,6 @@
         #### Selected Publications
         * <p align = "justify"> X. Ju, D. S. Ang and C. Gu, "Impact of Channel Hot-Hole Stressing on Gate-Oxide Trap’s Emission," in IEEE Transactions on Electron Devices, vol. 67, no. 11, pp. 4720-4727, Nov. 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9199307">Online</a></p>
         * <p align = "justify"> H. Zhang, X. Ju, K. S. Yew, and D. S. Ang, “Implementation of simple but powerful Trilayer oxide-based artificial synapses with a tailored bio-synapse-like structure,” ACS Applied Materials & Interfaces, 12(1), pp.1036-1045. <a href="https://pubs.acs.org/doi/10.1021/acsami.9b17026">Online</a></p>
-      ratio: is-1by1
-    - link: 
-      large_link: 
-      alt: Dr. Asif Ali
-      description: |-
-        ### <a href="https://scholar.google.co.kr/citations?user=rIkywgYAAAAJ&hl=en">Dr. Asif Ali</a>
-        #### About
-        <p align = "justify"> 
-        Dr. Asif Ali obtained his PhD degree from Sejong University, South Korea in 2022 and joined School of EEE at Nanyang Technological University
-        as a research fellow since March, 2022.
-        </p>
-        #### Selected Publications
-        * <p align = "justify"> Ali, Asif, et al. "Dependence of InGaZnO and SnO2 thin film stacking sequence for the resistive switching characteristics of conductive bridge memory devices." Applied Surface Science 525 (2020): 146390. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0169433220311478">Online</a></p>
-        * <p align = "justify"> Haider Abbas, Asif Ali, Jongwan Jung, Quanli Hu, Mi Ra Park, Hyun Ho Lee, Tae-Sik Yoon  and Chi Jung Kang, “Reversible transition of volatile to non-volatile resistive switching and compliance current-dependent multistate switching in IGZO/MnO RRAM devices”, Applied Physics Letters, 114, 093503 (2019). <a href="https://aip.scitation.org/doi/10.1063/1.5082901">Online</a></p>
       ratio: is-1by1
 
 - title: Research Student
