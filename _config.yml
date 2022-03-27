@@ -6,7 +6,7 @@ email: EDSANG at ntu dot edu dot sg
 description: >
   Test website for Prof. Ang Diing Shenp Group. Nanyang Technological University
 baseurl: "/"
-url: "https://ntusgprofanggroup.github.io/"
+url: "https://ndl-ntu.github.io/"
 permalink: pretty
 #favicon: /path/to/favicon.png
 # gh_sponsor: chrisrhymes
