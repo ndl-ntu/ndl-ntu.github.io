@@ -34,8 +34,10 @@
   dropdown:
     - name: Publications
       link: /publications/
-    - name: Projects
-      link: /projects/
+    - name: Highlights
+      link: /highlights/
+    # - name: Projects
+    #   link: /projects/
     - name: Patents
       link: /patents/ 
 - name: People
