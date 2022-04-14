@@ -10,6 +10,8 @@ tabs:
 
 ### 2021
 
+* X. Ju and D. S. Ang, "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor," in IEEE Electron Device Letters, [10.1109/LED.2022.3162639](https://doi.org/10.1109/LED.2022.3162639).
+
 * Dan Berco and D. S. Ang . (2021) . Multideck light-induced reset in a transparent bilayer synaptic device. Journal of Vacuum Science & Technology B 39, 053202.  [doi.org/10.1116/6.0001186](https://doi.org/10.1116/6.0001186)
 
 * Berco, D. and D. S. Ang . (2021) . Bioinspired Robotic Vision with Online Learning Capability and Rotation-Invariant Properties. Adv. Intell. Syst., 3: 2100025. [10.1002/aisy.202100025](https://doi.org/10.1002/aisy.202100025)
