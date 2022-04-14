@@ -2,35 +2,50 @@ intro: |-
   Test showcase site.
 items:
   - title: Enabling synaptic logic transistor via gate-dielectric defect characterization
-    subtitle: 
+    subtitle: Ongoing
     description: |-
 
-
       ## Publication
-      X. Ju and D. S. Ang, "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor," in IEEE Electron Device Letters, [Online](https://doi.org/10.1109/LED.2022.3162639).
+      X. Ju and D. S. Ang, "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor," in IEEE Electron Device Letters
       ## Abstract
       We show that a high-k gated n-MOSFET can embody both the memory plasticity of a synapse and leaky-integration of a neuron, by virtue of the rich temporal dynamics of charge capture/emission by gate-oxide defects. In addition, a tunable leaky-integrate function is demonstrated. The lower limit of energy per input spike is on the order of fJ, which provides room for low-power trigger circuit design and scalability. This work points to the prospect of a gate-engineered logic transistor serving as the universal building block of hardware spiking neural networks, thereby accelerating the realization of compact, energy efficient neuromorphic computers given the relative maturity of the transistor technology.
 
     image: 'https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/aamick/2020/aamick.2020.12.issue-1/acsami.9b17026/20200102/images/medium/am9b17026_0001.gif'
     image_ratio: is-16by9
-    link: https://ieeexplore.ieee.org/abstract/document/9743457/keywords#keywords
-    link_text: Online
+    link: https://ieeexplore.ieee.org/abstract/document/9743457
     tags: Logic gates,Neurons,Transistors,Synapses,Electron traps
 
   - title: Understanding charge-trapping evolution in small-dimension logic/memory devices
-    subtitle: 
+    subtitle: 2017–2021
     description: |-
+
       ## Publication
-      * X. Ju, D. S. Ang and C. Gu, "Impact of Channel Hot-Hole Stressing on Gate-Oxide Trap’s Emission," in IEEE Transactions on Electron Devices, vol. 67, no. 11, pp. 4720-4727, Nov. 2020, doi: 10.1109/TED.2020.3019982.
+      X. Ju, D. S. Ang and C. Gu, "Impact of Channel Hot-Hole Stressing on Gate-Oxide Trap’s Emission," in IEEE Transactions on Electron Devices
       ## Abstract
       Fluctuating parametric shifts that arise from the stochastic capture/emission by oxide traps in small gate-area MOSFETs have triggered considerable interest due to their impact on timing-sensitive circuits. To date, studies have only reported the effect of gate voltage stress on oxide traps, while the effect of drain voltage stress is equally important but is seldom studied. This work examines the impact of channel hot-hole (CHH) stress on oxide traps in a nanoscale p-MOSFET. A change in the traps' emission time constants under operating gate voltage is observed after the CHH stress. Traps which are relatively inactive (capture once and does not emit within the measurement timeframe) may be rendered much more active (exhibit many capture and emission events) after the CHH stress due to a decrease in the emission time constant. On the other hand, traps which are active may become inactive after the CHH stress due to an increase of the emission time constant. Reversion to the pre-CHH-stress behavior is observed after extended rest under unbiased condition. The traps could then undergo similar changes in emission behavior when the CHH stress is reapplied.
-    image: ''
+    
+    image: 'https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/mediastore_new/IEEE/content/media/16/9237191/9199307/ju2-3019982-large.gif'
     image_ratio: is-16by9
     link: https://ieeexplore.ieee.org/abstract/document/9199307
     link_text: Online
     tags: Strees,Monitoring,Logic gates,Hot carriers,Electron Traps,MOSFET
 
-# items:
+  - title: Negative photoconductance/optical memory of soft-breakdown wide-bandgap oxides
+    subtitle: 2017-2020
+    description: |-
+
+      ## Publication
+      Kumar, D., Kalaga, P. S., & Ang, D. S. (2020). Visible Light Detection and Memory Capabilities in MgO/HfO₂ Bilayer-Based Transparent Structure for Photograph Sensing. IEEE Transactions on Electron Devices
+
+      ## Abstract
+      Photograph response in transparent devices has been a hot area of investigation, with several material systems being used to generate a response to illumination. In this study, we propose an ITO/MgO/HfO 2 /ITO bilayer (BL) transparent resistive switching (RS) device that exhibits a photograph response through defect engineering in the switching layer, which resulted in a subsurface active RS location in the formed conductive filament, thus reducing the loss of oxygen through the polycrystalline electrode. We observe that the switching performance is enhanced in the ITO/MgO/HfO 2 /ITO BL device as compared to the ITO/HfO 2 /ITO single-layer device with the insertion of MgO layer between the ITO top electrode and HfO 2 RS layer. The device shows excellent ON/ OFF ratio (~10 7 ), high and stable dc electrical set and optical reset endurance (>1000 cycles without degradation), excellent retention (>10 4 s at 85 °C), high transparency (>85% transmittance in the visible spectrum), and a response time of 30 μs for the optical reset. This study lays the foundation for future work involving oxide defect-based optical functionalization in RS devices with the possibility for being used in photograph sensing.
+
+    image: 'https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/mediastore_new/IEEE/content/media/16/9204488/9167426/kumar2abcd-3014271-large.gif'
+    image_ratio: is-16by9
+    link: https://ieeexplore.ieee.org/document/9167426
+    link_text: Online
+    tags: Indium tin oxide,Optical device fabrication,Electrodes,Optical sensors,Optical switches,Hafnium oxide
+
 #   - title: 
 #     subtitle: 
 #     description: |-
