@@ -4,8 +4,10 @@ items:
   - title: Enabling synaptic logic transistor via gate-dielectric defect characterization
     subtitle: 
     description: |-
+
+
       ## Publication
-      * X. Ju and D. S. Ang, "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor," in IEEE Electron Device Letters, [Online](https://doi.org/10.1109/LED.2022.3162639).
+      X. Ju and D. S. Ang, "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor," in IEEE Electron Device Letters, [Online](https://doi.org/10.1109/LED.2022.3162639).
       ## Abstract
       We show that a high-k gated n-MOSFET can embody both the memory plasticity of a synapse and leaky-integration of a neuron, by virtue of the rich temporal dynamics of charge capture/emission by gate-oxide defects. In addition, a tunable leaky-integrate function is demonstrated. The lower limit of energy per input spike is on the order of fJ, which provides room for low-power trigger circuit design and scalability. This work points to the prospect of a gate-engineered logic transistor serving as the universal building block of hardware spiking neural networks, thereby accelerating the realization of compact, energy efficient neuromorphic computers given the relative maturity of the transistor technology.
 
@@ -13,8 +15,8 @@ items:
     image_ratio: is-16by9
     link: https://ieeexplore.ieee.org/abstract/document/9743457/keywords#keywords
     link_text: Online
-    tags: Logic gates,Neurons,Transistors,Synapses,Regulation,Electron traps,Voltage control
-items:
+    tags: Logic gates,Neurons,Transistors,Synapses,Electron traps
+
   - title: Understanding charge-trapping evolution in small-dimension logic/memory devices
     subtitle: 
     description: |-
@@ -26,7 +28,8 @@ items:
     image_ratio: is-16by9
     link: https://ieeexplore.ieee.org/abstract/document/9199307
     link_text: Online
-    tags: Strees,Monitoring,Logic gates,Stress measurement,Hot carriers,Electron Traps,MOSFET
+    tags: Strees,Monitoring,Logic gates,Hot carriers,Electron Traps,MOSFET
+
 # items:
 #   - title: 
 #     subtitle: 
