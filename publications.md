@@ -8,6 +8,12 @@ tabs:
 
 ## Publications
 
+### 2022
+
+* Abbas, H., Li, J. & Ang, D. S. Conductive Bridge Random Access Memory (CBRAM): Challenges and Opportunities for Memory and Neuromorphic Computing Applications. Micromachines 13, 725, [doi:10.3390/mi13050725](https://www.mdpi.com/2072-666X/13/5/725) (2022).
+
+* X. Ju and D. S. Ang, "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor," in IEEE Electron Device Letters, vol. 43, no. 5, pp. 793-796, May 2022, [doi: 10.1109/LED.2022.3162639](https://ieeexplore.ieee.org/abstract/document/9743457).
+
 ### 2021
 
 * X. Ju and D. S. Ang, "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor," in IEEE Electron Device Letters, [10.1109/LED.2022.3162639](https://doi.org/10.1109/LED.2022.3162639).
