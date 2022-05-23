@@ -2,11 +2,11 @@ style: is-light
 items:
   - title: Neuromorphic Device
     subtitle: 
-    icon: fa-copy
+    icon: <i class="fa-solid fa-brain-circuit"></i>
+  - title: Retinomorphic Device
+    subtitle: 
+    icon: fa-eye
+    icon_brand: true
   - title: High-K Transistors
     subtitle: 
-    icon: fa-mail-bulk
-  # - title: 
-  #   subtitle: 
-  #   icon: fa-github
-  #   icon_brand: true
+    icon: fa-microchip
