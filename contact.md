@@ -7,6 +7,10 @@ show_sidebar: false
 menubar: example_menu
 ---
 
+{% include notification.html
+message="NTU application course of current semester (Year 22-23 Semester 1) is closed. Please refer to this page later for updates or contact us for more information."
+dismissable="true" %}
+
 ### Prospective students
 
 OUR LAB has openings FOR RESEARCH STUDENTS (M.Eng and Ph.D.)

@@ -1,7 +1,3 @@
-{% include notification.html
-message="This notification is dismissable"
-status="is-info"
-dismissable="true" %}
 ---
 layout: page
 title: People
