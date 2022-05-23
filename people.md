@@ -7,4 +7,7 @@ gallery: example_gallery
 show_sidebar: false
 ---
 
-This is a test page for people.
+{% include notification.html
+message="This notification is dismissable"
+status="is-info"
+dismissable="true" %}
