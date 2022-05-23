@@ -8,10 +8,18 @@ menubar: example_menu
 ---
 
 {% include notification.html
-message="NTU application course of current semester (Year 22-23 Semester 1) is closed. Please refer to this page later for updates or contact us for more information."
+message=" Important info for prospective students
+
+NTU application course of current semester (Year 22-23 Semester 1) is closed.
+
+Please refer to this page later for updates or contact us for more information."
+
 dismissable="true" %}
 {% include notification.html
-message="For research staff candidates, please contact us for more information."
+message="Important info for research staff candidates
+
+Please contact us for more information."
+
 dismissable="true" %}
 
 ### Prospective students
