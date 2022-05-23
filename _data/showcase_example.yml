@@ -38,8 +38,8 @@ items:
     image: 'https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/aamick/2020/aamick.2020.12.issue-1/acsami.9b17026/20200102/images/medium/am9b17026_0001.gif'
     image_ratio: is-16by9
     link: https://ieeexplore.ieee.org/abstract/document/9743457
-    tags: Logic gates,Neurons,Transistors,Synapses,Electron traps
-
+    tags: RRAM, Retinomorphic, Cone, Artificial Synapse
+  
   - title: Enabling synaptic logic transistor via gate-dielectric defect characterization
     subtitle: Ongoing
     description: |-

@@ -1,6 +1,45 @@
 intro: |-
   
 items:
+- title: Retinomorphic devices and systems
+    subtitle: Ongoing
+    description: |-
+
+      ## Publication
+      1. Berco, D. & Shenp Ang, D. Bioinspired Robotic Vision with Online Learning Capability and Rotation‐Invariant Properties. Advanced Intelligent Systems 3, 2100025, doi:10.1002/aisy.202100025 (2021).
+      
+      2. Berco, D. & Ang, D. S. Multideck light-induced reset in a transparent bilayer synaptic device. Journal of Vacuum Science & Technology B 39, 053202, doi:10.1116/6.0001186 (2021).
+      
+      3. Kumar, D., Kalaga, P. S., & Ang, D. S. (2020). Visible Light Detection and Memory Capabilities in MgO/HfO₂ Bilayer-Based Transparent Structure for Photograph Sensing. IEEE Transactions on Electron Devices, 67(10), 4274-4280. https://doi.org/10.1109/ted.2020.3014271 
+      
+      4. Kalaga, P. S., Kumar, D., Ang, D. S., & Tsakadze, Z. (2020). Highly Transparent ITO/HfO2/ITO Device for Visible-Light Sensing. IEEE Access, 8, 91648-91652. https://doi.org/10.1109/access.2020.2994383 
+     
+      5. Berco, D., Ang, D. S., & Zhang, H. Z. (2020). An Optoneuronic Device with Realistic Retinal Expressions for Bioinspired Machine Vision. Advanced Intelligent Systems, 2(2), 1900115. https://doi.org/10.1002/aisy.201900115 
+      
+      6. Berco, D., Ang, D. S., & Kalaga, P. S. (2020). Programmable Photoelectric Memristor Gates for In Situ Image Compression. Advanced Intelligent Systems, 2(9), 2000079. https://doi.org/10.1002/aisy.202000079 
+      
+      7. Hassan, M. Y., & Ang, D. S. (2019). On-Demand Visible-Light Sensing with Optical Memory Capabilities Based on an Electrical-Breakdown-Triggered Negative Photoconductivity Effect in the Ubiquitous Transparent Hafnia. ACS Applied Materials & Interfaces, 11(45), 42339-42348. https://doi.org/10.1021/acsami.9b13552 
+      
+      8. Berco, D., & Shenp Ang, D. (2019). Recent Progress in Synaptic Devices Paving the Way toward an Artificial Cogni‐Retina for Bionic and Machine Vision. Advanced Intelligent Systems, 1(1), 1900003. https://doi.org/10.1002/aisy.201900003 
+      
+      9. Berco, D., & Ang, D. S. (2019). Inducing alternating nanoscale rectification in a dielectric material for bidirectional-trigger artificial synapses. Journal of Vacuum Science & Technology B, 37(6), 061806. https://doi.org/10.1116/1.5123665 
+
+      ## Abstract
+      Reliable image perception is critical for living organisms. 
+      Biologic sensory organs and nervous systems evolved interdependently to allow apprehension of visual information regardless of spatial orientation. 
+      By contrast, convolutional neural networks usually have limited tolerance to rotational transformations. 
+      There are software-based approaches used to address this issue, such as artificial rotation of training data or preliminary image processing. 
+      However, these workarounds require a large computational effort and are mostly done offline.
+      This work presents a bioinspired, robotic vision system with inherent rotation-invariant properties that may be taught either offline or in real time by feeding back error indications. 
+
+      ## Patent
+      Ang, D. S., & Zhou, Y. (2019). Sensor element, image sensor, methods of forming and operating the same (US10269860B2). 
+
+    image: 'https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/aamick/2020/aamick.2020.12.issue-1/acsami.9b17026/20200102/images/medium/am9b17026_0001.gif'
+    image_ratio: is-16by9
+    link: https://ieeexplore.ieee.org/abstract/document/9743457
+    tags: RRAM, Retinomorphic, Cone, Artificial Synapse
+  
   - title: Enabling synaptic logic transistor via gate-dielectric defect characterization
     subtitle: Ongoing
     description: |-
@@ -13,7 +52,6 @@ items:
     image: 'https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/aamick/2020/aamick.2020.12.issue-1/acsami.9b17026/20200102/images/medium/am9b17026_0001.gif'
     image_ratio: is-16by9
     link: https://ieeexplore.ieee.org/abstract/document/9743457
-    link_text: Online
     tags: Logic gates,Neurons,Transistors,Synapses,Electron traps
 
   - title: Understanding charge-trapping evolution in small-dimension logic/memory devices
@@ -21,11 +59,15 @@ items:
     description: |-
 
       ## Publication
-      X. Ju, D. S. Ang and C. Gu, "Impact of Channel Hot-Hole Stressing on Gate-Oxide Trap’s Emission," in IEEE Transactions on Electron Devices
+      1. X. Ju, D. S. Ang and C. Gu, "Impact of Channel Hot-Hole Stressing on Gate-Oxide Trap’s Emission," in IEEE Transactions on Electron Devices
+      2. Ju, X., & Ang, D. S. (2020). Alteration of Gate-Oxide Trap Capture/Emission Time Constants by Channel Hot-Carrier Effect in the Metal-Oxide-Semiconductor Field-Effect Transistor. IEEE Access, 8, 14048-14053. https://doi.org/10.1109/access.2020.2966577 
+      3. Ju, X., & Ang, D. S. (2019, 2019-03-01). Impact of Hot-Carrier Stress on Oxide Trap Switching Activity in Nanoscale FETs. 2019 China Semiconductor Technology International Conference (CSTIC), 
+      4. Ju, X., & Ang, D. S. (2019, 2019-03-01). Response of Switching Hole Traps in the Small-Area P-MOSFET Under Channel Hot-Hole Effect. 2019 IEEE International Reliability Physics Symposium (IRPS), 
+      5. Gu, C., Zhou, C., Ang, D. S., Ju, X., Gu, R., & Duan, T. (2019). The role of the disordered HfO2 network in the high-κ n-MOSFET shallow electron trapping. Journal of Applied Physics, 125(2), 025705. https://doi.org/10.1063/1.5059381 
       ## Abstract
       Fluctuating parametric shifts that arise from the stochastic capture/emission by oxide traps in small gate-area MOSFETs have triggered considerable interest due to their impact on timing-sensitive circuits. To date, studies have only reported the effect of gate voltage stress on oxide traps, while the effect of drain voltage stress is equally important but is seldom studied. This work examines the impact of channel hot-hole (CHH) stress on oxide traps in a nanoscale p-MOSFET. A change in the traps' emission time constants under operating gate voltage is observed after the CHH stress. Traps which are relatively inactive (capture once and does not emit within the measurement timeframe) may be rendered much more active (exhibit many capture and emission events) after the CHH stress due to a decrease in the emission time constant. On the other hand, traps which are active may become inactive after the CHH stress due to an increase of the emission time constant. Reversion to the pre-CHH-stress behavior is observed after extended rest under unbiased condition. The traps could then undergo similar changes in emission behavior when the CHH stress is reapplied.
     
-    image: 'https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/16/9237191/9199307/ju2-3019982-large.gif'
+    image: 'https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/mediastore_new/IEEE/content/media/16/9237191/9199307/ju2-3019982-large.gif'
     image_ratio: is-16by9
     link: https://ieeexplore.ieee.org/abstract/document/9199307
     link_text: Online
@@ -36,17 +78,40 @@ items:
     description: |-
 
       ## Publication
-      Kumar, D., Kalaga, P. S., & Ang, D. S. (2020). Visible Light Detection and Memory Capabilities in MgO/HfO₂ Bilayer-Based Transparent Structure for Photograph Sensing. IEEE Transactions on Electron Devices
+      1. Kumar, D., Kalaga, P. S., & Ang, D. S. (2020). Visible Light Detection and Memory Capabilities in MgO/HfO₂ Bilayer-Based Transparent Structure for Photograph Sensing. IEEE Transactions on Electron Devices
+      
+      2. Berco, D., & Ang, D. S. (2020). Analysis of large bandgap dielectrics by dual plasmon-photon excitation. Journal of Physics D: Applied Physics, 53(25), 25LT02. https://doi.org/10.1088/1361-6463/ab81d2 
+
+      3. Hassan, M. Y., & Ang, D. S. (2019). On-Demand Visible-Light Sensing with Optical Memory Capabilities Based on an Electrical-Breakdown-Triggered Negative Photoconductivity Effect in the Ubiquitous Transparent Hafnia. ACS Applied Materials & Interfaces, 11(45), 42339-42348. https://doi.org/10.1021/acsami.9b13552 
+
+      4. Berco, D., & Ang, D. S. (2019). Inducing alternating nanoscale rectification in a dielectric material for bidirectional-trigger artificial synapses. Journal of Vacuum Science & Technology B, 37(6), 061806. https://doi.org/10.1116/1.5123665 
+
+      5. Zhou, Y., Ang, D. S., Kalaga, P. S., & Gollu, S. R. (2018, 2018-03-01). Oxide breakdown path for optical sensing at the nanoscale level. 2018 IEEE International Reliability Physics Symposium (IRPS), 
+
+      6. Zhou, Y., Ang, D. S., & Kalaga, P. S. (2018). Optically reversible electrical soft-breakdown in wide-bandgap oxides—A factorial study. Journal of Applied Physics, 123(16), 161555. https://doi.org/10.1063/1.5002606 
+
+      7. Kawashima, T., Yew, K. S., Zhou, Y., Ang, D. S., Zhang, H., & Kyuno, K. (2018). Ar-Plasma-Modulated Optical Reset in the SiO2/Cu Conductive-Bridge Resistive Memory Stack. ECS Transactions, 86(3), 55-64. https://doi.org/10.1149/08603.0055ecst 
+
+      8. Kawashima, T., Yew, K. S., Zhou, Y., Ang, D. S., Zhang, H. Z., & Kyuno, K. (2018). Argon-plasma-controlled optical reset in the SiO2/Cu filamentary resistive memory stack. Applied Physics Letters, 112(21), 213505. https://doi.org/10.1063/1.5031053 
+
+      9. Hassan, M. Y., Zhou, Y., Gu, C., Liu, H., Yang, J. K., & Ang, D. S. (2018). Plasmon-Assisted Zone-Selective Repair of Nanoscale Electrical Breakdown Paths in Metal/Oxide/Metal Structures for Near-Field Optical Sensing. ACS Applied Nano Materials, 1(8), 4340-4350. https://doi.org/10.1021/acsanm.8b01257 
+
+      10. Zhou, Y., Kawashima, T., & Ang, D. S. (2017). TiN-Mediated Multi-Level Negative Photoconductance of the ZrO2 Breakdown Path. IEEE Journal of the Electron Devices Society, 5(3), 188-192. https://doi.org/10.1109/jeds.2017.2678469 
+
+      11. Zhang, H. Z., Ang, D. S., Zhou, Y., & Wang, X. P. (2017). Enlarged read window in the asymmetric ITO/HfOx/TiN complementary resistive switch. Applied Physics Letters, 111(4), 043501. https://doi.org/10.1063/1.4995252 
+
+      12. Kawashima, T., Zhou, Y., Yew, K. S., Zhang, H. Z., & Ang, D. S. (2017, 2017-03-01). Metal-electrode-dependent negative photoconductance response of the nanoscale conducting filament in the SiO2-metal stack. 2017 China Semiconductor Technology International Conference (CSTIC), 
+
+      13. Kawashima, T., Zhou, Y., Yew, K. S., & Ang, D. S. (2017). Optical reset modulation in the SiO2/Cu conductive-bridge resistive memory stack. Applied Physics Letters, 111(11), 113505. https://doi.org/10.1063/1.5003107 
 
       ## Abstract
       Photograph response in transparent devices has been a hot area of investigation, with several material systems being used to generate a response to illumination. In this study, we propose an ITO/MgO/HfO 2 /ITO bilayer (BL) transparent resistive switching (RS) device that exhibits a photograph response through defect engineering in the switching layer, which resulted in a subsurface active RS location in the formed conductive filament, thus reducing the loss of oxygen through the polycrystalline electrode. We observe that the switching performance is enhanced in the ITO/MgO/HfO 2 /ITO BL device as compared to the ITO/HfO 2 /ITO single-layer device with the insertion of MgO layer between the ITO top electrode and HfO 2 RS layer. The device shows excellent ON/ OFF ratio (~10 7 ), high and stable dc electrical set and optical reset endurance (>1000 cycles without degradation), excellent retention (>10 4 s at 85 °C), high transparency (>85% transmittance in the visible spectrum), and a response time of 30 μs for the optical reset. This study lays the foundation for future work involving oxide defect-based optical functionalization in RS devices with the possibility for being used in photograph sensing.
 
-    image: 'https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/16/9204488/9167426/kumar2abcd-3014271-large.gif'
+    image: 'https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/mediastore_new/IEEE/content/media/16/9204488/9167426/kumar2abcd-3014271-large.gif'
     image_ratio: is-16by9
     link: https://ieeexplore.ieee.org/document/9167426
     link_text: Online
     tags: Indium tin oxide,Optical device fabrication,Electrodes,Optical sensors,Optical switches,Hafnium oxide
-
 #   - title: 
 #     subtitle: 
 #     description: |-
