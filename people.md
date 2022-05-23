@@ -1,3 +1,7 @@
+{% include notification.html
+message="This notification is dismissable"
+status="is-info"
+dismissable="true" %}
 ---
 layout: page
 title: People
@@ -6,8 +10,3 @@ description: People in Prof. Ang Diing Shenp's Group
 gallery: example_gallery
 show_sidebar: false
 ---
-
-{% include notification.html
-message="This notification is dismissable"
-status="is-info"
-dismissable="true" %}
