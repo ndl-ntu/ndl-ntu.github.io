@@ -6,7 +6,6 @@ items:
   - title: Retinomorphic Device
     subtitle: 
     icon: fa-eye
-    icon_brand: true
   - title: High-K Transistors
     subtitle: 
     icon: fa-microchip
