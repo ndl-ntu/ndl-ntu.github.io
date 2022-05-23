@@ -2,7 +2,7 @@ style: is-light
 items:
   - title: Neuromorphic Device
     subtitle: 
-    icon: fa-brain-circuit
+    icon: fa-solid fa-brain-circuit
   - title: Retinomorphic Device
     subtitle: 
     icon: fa-eye
