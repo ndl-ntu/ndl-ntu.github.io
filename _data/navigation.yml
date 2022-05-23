@@ -29,6 +29,8 @@
 #       link: /gallery/
 #     - name: Recipe Page
 #       link: /example-recipe/
+- name: Research
+  link: /highlights/
 - name: Works
   link: /#
   dropdown:
