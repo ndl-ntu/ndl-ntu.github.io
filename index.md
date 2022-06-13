@@ -7,32 +7,15 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
-
-<!-- {% include notification.html
-message="frontiers
-
-in Neuroscience
-
-**CALL FOR PAPER**
-
-**TOPIC**: Neuromorphic Computing-Convergence of Neuroscience and Electronics
-
-# SUBMIT [HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)!
-
-<img src="/assets/img/fns.png" alt="Frontiers in Neuroscience" width="200"/>"
-
-status="is-info"
-dismissable="true" %} -->
 {% include notification.html
-message="frontiers
-
-in Neuroscience
+message="![Frontiers in Neuroscience](https://www.frontiersin.org/files/Taxonomy/2992.JPEG)
 
 **CALL FOR PAPER**
 
 **TOPIC**: Neuromorphic Computing-Convergence of Neuroscience and Electronics
 
-# SUBMIT [HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)!
+## SUBMIT [HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)!
+"
 
 status="is-info"
 dismissable="true" %}
