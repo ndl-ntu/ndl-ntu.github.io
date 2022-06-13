@@ -4,7 +4,7 @@ title:  "[Research]IEEE Electron Device Letters: Synapse and Tunable Leaky-Integ
 date:   2022-03-28 11:47:02
 categories: Publications
 description: "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor"
-image: 'https://www.ntu.edu.sg/images/default-source/corporate/ntu-30-anniversary-logoc1850609-db51-4cc8-9788-62c50778e47b.svg'
+image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/1920px-IEEE_logo.svg'
 published: true
 
 ---
