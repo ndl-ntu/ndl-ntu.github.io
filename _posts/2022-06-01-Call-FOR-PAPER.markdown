@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[CALL FOR PAPERS]  Frontiers in Neuroscience: Neuromorphic Computing-Convergence of Neuroscience and Electronics"
+title:  "[CALL FOR PAPERS]  Neuromorphic Computing-Convergence of Neuroscience and Electronics"
 date:   2022-06-01 15:18:02
 categories: Publications
 description: "Neuromorphic Computing-Convergence of Neuroscience and Electronics"
