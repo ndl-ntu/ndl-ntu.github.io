@@ -8,21 +8,17 @@ show_sidebar: true
 ---
 
 {% include notification.html
-message="frontiers
+message="**frontiers in Neuroscience**
 
-in Neuroscience
-
-**CALL FOR PAPER**
+**CALL FOR PAPERs**
 
 **TOPIC**: Neuromorphic Computing-Convergence of Neuroscience and Electronics
 
-# SUBMIT [HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)!
+SUBMIT **[HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)**!
 "
 
 status="is-info"
 dismissable="true" %}
-
-<img src="/assets/img/fns.png" alt="frontiers in Neuroscience" width="200"/>
 
 # Biography
 
