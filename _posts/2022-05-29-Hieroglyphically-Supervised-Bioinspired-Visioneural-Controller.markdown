@@ -20,7 +20,7 @@ Unlike an intelligent microcontroller, biologic neural networks maintain active 
 
 **Keywords: artificial neural controls artificial visual perceptions bioinspired machine vision bioinspired machine vision cognitive artificial vision robotic retinas**
 
-## Access [HERE](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200066)(OA)
+## Access [HERE](https://onlinelibrary.wiley.com/doi/full/10.1002/aisy.202200066)![OA](https://www.openaccess.nl/sites/www.openaccess.nl/files/documenten/open-access-logo-png-transparent.png)
 
 ![Wiley Adv. Int. Sys.](https://onlinelibrary.wiley.com/pb-assets/journal-banners/26404567-1552645020053.jpg)
 
