@@ -21,7 +21,7 @@ We show that a high-k gated n-MOSFET can embody both the memory plasticity of a 
 
 **Keywords: Artificial synapse/neuron, neuromorphic computing, spiking neural network**
 
-## Access [HERE](https://ieeexplore.ieee.org/abstract/document/9743457/)(OA)
+## Access [HERE](https://ieeexplore.ieee.org/abstract/document/9743457/)
 
 ![IEEE](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/1920px-IEEE_logo.svg.png)
 
