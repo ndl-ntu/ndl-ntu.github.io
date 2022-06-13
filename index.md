@@ -7,6 +7,19 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
+{% include notification.html
+message="![Frontiers in Neuroscience](https://www.frontiersin.org/files/Taxonomy/2992.JPEG)
+
+**CALL FOR PAPER**
+
+**TOPIC**: Neuromorphic Computing-Convergence of Neuroscience and Electronics
+
+## SUBMIT [HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)!
+"
+
+status="is-info"
+dismissable="true" %}
+
 # Biography
 
 ## Prof. ANG Diing Shenp
