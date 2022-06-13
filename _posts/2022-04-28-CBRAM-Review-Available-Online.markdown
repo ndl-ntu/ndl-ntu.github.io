@@ -9,11 +9,10 @@ published: true
 ---
 
 Haider ABBAS, Jiayi LI and Diing Shenp ANG *
-![OA](https://www.openaccess.nl/sites/www.openaccess.nl/files/documenten/open-access-logo-png-transparent.png)
+
+<img src="https://www.openaccess.nl/sites/www.openaccess.nl/files/documenten/open-access-logo-png-transparent.png" alt="OA_Logo" width="200"/>
 
 ---
-
-## Access [HERE](https://www.mdpi.com/2072-666X/13/5/725/htm)
 
 ## Abstract
 
@@ -24,3 +23,6 @@ Due to a rapid increase in the amount of data, there is a huge demand for the de
 ![Figure 2](https://www.mdpi.com/micromachines/micromachines-13-00725/article_deploy/html/images/micromachines-13-00725-g002.png)
 Figure 2. The schematic representation of a CBRAM cell with a detailed classification of the materials that are used for CE, AE and switching medium in a CBRAM device. The switching materials are classified into two categories: metal oxides [17,18,19,20] and non-oxides. The non-oxides are further classified as chalcogenides [21,22,23], 2D materials [24,25,26,27], organic materials [28,29] and other emerging materials [30,31,32].
 
+
+## Access [HERE](https://www.mdpi.com/2072-666X/13/5/725/htm)
+<img src="https://www.openaccess.nl/sites/www.openaccess.nl/files/documenten/open-access-logo-png-transparent.png" alt="OA_Logo" width="200"/>
