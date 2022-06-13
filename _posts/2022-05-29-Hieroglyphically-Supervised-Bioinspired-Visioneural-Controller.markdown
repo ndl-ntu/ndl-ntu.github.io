@@ -10,7 +10,7 @@ published: true
 ---
 
 Dan BERCO \* , Chih-Hao CHIU, Diing Shenp ANG \*
-
+![OA](https://www.openaccess.nl/sites/www.openaccess.nl/files/documenten/open-access-logo-png-transparent.png)
 
 ---
 

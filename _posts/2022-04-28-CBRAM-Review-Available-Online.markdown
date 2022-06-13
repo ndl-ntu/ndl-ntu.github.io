@@ -8,8 +8,8 @@ image: 'https://www.mdpi.com/micromachines/micromachines-13-00725/article_deploy
 published: true
 ---
 
-By Haider Abbas,Jiayi Li and Diing Shenp Ang *
-
+Haider ABBAS, Jiayi LI and Diing Shenp ANG *
+![OA](https://www.openaccess.nl/sites/www.openaccess.nl/files/documenten/open-access-logo-png-transparent.png)
 
 ---
 
