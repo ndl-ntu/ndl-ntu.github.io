@@ -6,6 +6,18 @@ show_sidebar: false
 toc: true
 ---
 
+## Meeting Repository
+
+{% include notification.html
+message="**Access restricted to current group members**
+
+Login to NTU Microsoft 365 account for acess."
+
+status="is-info"
+dismissable="true" %}
+
+* [Presentations](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=RaCuF8https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=RaCuF8)
+
 ## Standard Operation Procedure
 
 {% include notification.html
@@ -40,14 +52,3 @@ dismissable="true" %}
 
 * [Jiayi's Lab Notes](https://entuedu-my.sharepoint.com/:f:/g/personal/jiayi004_e_ntu_edu_sg/EumpEeYTNK9Dk9fcg-wJW94Bsaks6iMKTj-WWTwdnTTlzA?e=rTeIOF)
 
-## Meeting Repository
-
-{% include notification.html
-message="**Access restricted to current group members**
-
-Login to NTU Microsoft 365 account for acess."
-
-status="is-info"
-dismissable="true" %}
-
-* [Presentations](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=RaCuF8https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=RaCuF8)
