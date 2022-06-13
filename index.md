@@ -10,7 +10,7 @@ show_sidebar: true
 {% include notification.html
 message="
 
-<img src="/assets/img/fns.png" alt="Frontiers in Neuroscience" width="200"/>
+<!-- <img src="/assets/img/fns.png" alt="Frontiers in Neuroscience" width="200"/> -->
 
 frontiers
 
