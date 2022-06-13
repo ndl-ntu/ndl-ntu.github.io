@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "CBRAM Review on Micromachines Available Online"
+title:  "[REVIEW]Micromachines: Conductive Bridge Random Access Memory (CBRAM): Challenges and Opportunities for Memory and Neuromorphic Computing Applications"
 date:   2022-04-28 12:22:05
 categories: Publications
 description: "Conductive Bridge Random Access Memory (CBRAM): Challenges and Opportunities for Memory and Neuromorphic Computing Applications"

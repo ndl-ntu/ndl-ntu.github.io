@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New Publication Available on IEEE Electron Device Letters: Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor"
+title:  "[Research]IEEE Electron Device Letters: Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor"
 date:   2022-03-28 11:47:02
 categories: Publications
 description: "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor"
@@ -23,5 +23,5 @@ We show that a high-k gated n-MOSFET can embody both the memory plasticity of a 
 
 ## Access [HERE](https://ieeexplore.ieee.org/abstract/document/9743457/)(OA)
 
-<!-- ![Wiley Adv. Int. Sys.](https://onlinelibrary.wiley.com/pb-assets/journal-banners/26404567-1552645020053.jpg) -->
+![IEEE](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/IEEE_logo.svg/1920px-IEEE_logo.svg.png)
 

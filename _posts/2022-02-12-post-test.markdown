@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dr. Ali is joining us!"
+title:  "[NEWS]Dr. Ali is joining us!"
 date:   2022-02-10 14:18:07
 categories: News
 description: "Congratulations!"

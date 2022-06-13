@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hieroglyphically Supervised Bioinspired Visioneural Controller on Advanced Intelligent Systems Available Online"
+title:  "[Research]Advanced Intelligent Systems: Hieroglyphically Supervised Bioinspired Visioneural Controller"
 date:   2022-05-29 15:18:02
 categories: Publications
 description: "Hieroglyphically Supervised Bioinspired Visioneural Controller"
