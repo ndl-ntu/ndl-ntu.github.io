@@ -16,7 +16,7 @@ Login to NTU Microsoft 365 account for acess."
 status="is-info"
 dismissable="true" %}
 
-* [Presentations](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=RaCuF8https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=RaCuF8)
+* [Presentations](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=CYi5pl)
 
 ## Standard Operation Procedure
 
