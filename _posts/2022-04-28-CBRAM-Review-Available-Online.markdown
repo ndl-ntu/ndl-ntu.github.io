@@ -25,4 +25,7 @@ Figure 2. The schematic representation of a CBRAM cell with a detailed classific
 
 
 ## Access [HERE](https://www.mdpi.com/2072-666X/13/5/725/htm)
-<img src="https://www.openaccess.nl/sites/www.openaccess.nl/files/documenten/open-access-logo-png-transparent.png" alt="OA_Logo" width="200"/>
+
+<p style="text-align:center"> 
+<img src="https://www.openaccess.nl/sites/www.openaccess.nl/files/documenten/open-access-logo-png-transparent.png" alt="OA_Logo"/>
+</p>

@@ -9,8 +9,9 @@ published: true
 
 ---
 
-Dan BERCO \* , Chih-Hao CHIU, Diing Shenp ANG \*
+<p style="text-align:center"> 
 <img src="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-neuroscience.png" alt="Logo" width="200"/>
+</p>
 
 ---
 
@@ -35,8 +36,6 @@ Types of articles include review papers, communications/original research papers
 
 
 *Important Note*: All contributions to this Research Topic must be within the scope of the section and journal to which they are submitted, as defined in their mission statements. Frontiers reserves the right to guide an out-of-scope manuscript to a more suitable section or journal at any stage of peer review.
-
-![Wiley Adv. Int. Sys.](https://onlinelibrary.wiley.com/pb-assets/journal-banners/26404567-1552645020053.jpg)
 
 ## Access [HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)
 <img src="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-neuroscience.png" alt="OA_Logo"/>
