@@ -4,13 +4,12 @@ title:  "CBRAM Review on Micromachines Available Online"
 date:   2022-04-28 12:22:05
 categories: Publications
 description: "Conductive Bridge Random Access Memory (CBRAM): Challenges and Opportunities for Memory and Neuromorphic Computing Applications"
-image: 'https://www.ntu.edu.sg/images/default-source/corporate/ntu-30-anniversary-logoc1850609-db51-4cc8-9788-62c50778e47b.svg'
+image: 'https://www.mdpi.com/micromachines/micromachines-13-00725/article_deploy/html/images/micromachines-13-00725-g013.png'
 published: true
 ---
 
 By Haider Abbas,Jiayi Li and Diing Shenp Ang *
-School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 639798, Singapore
-Author to whom correspondence should be addressed.
+
 
 ---
 

@@ -9,7 +9,8 @@ published: true
 
 ---
 
-Xin JU, Diing Shenp ANG*
+Xin JU, Diing Shenp ANG *
+
 Published in: IEEE Electron Device Letters ( Volume: 43, Issue: 5, May 2022)
 
 ---

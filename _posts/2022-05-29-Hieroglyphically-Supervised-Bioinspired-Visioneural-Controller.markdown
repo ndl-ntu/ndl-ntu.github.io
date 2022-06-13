@@ -4,13 +4,13 @@ title:  "Hieroglyphically Supervised Bioinspired Visioneural Controller on Advan
 date:   2022-05-29 15:18:02
 categories: Publications
 description: "Hieroglyphically Supervised Bioinspired Visioneural Controller"
-image: 'https://www.ntu.edu.sg/images/default-source/corporate/ntu-30-anniversary-logoc1850609-db51-4cc8-9788-62c50778e47b.svg'
+image: 'https://onlinelibrary.wiley.com/cms/asset/47cc1198-68cf-45be-8918-cdb1b01b5052/aisy202200066-fig-0003-m.jpg'
 published: true
 
 ---
 
-Dan Berco*, Chih-Hao Chiu, Diing Shenp Ang*
-First published: 29 May 2022 https://doi.org/10.1002/aisy.202200066
+Dan BERCO \* , Chih-Hao CHIU, Diing Shenp ANG \*
+
 
 ---
 
