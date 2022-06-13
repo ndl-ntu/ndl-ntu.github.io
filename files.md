@@ -18,6 +18,18 @@ dismissable="true" %}
 
 * [Presentations](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=CYi5pl)
 
+## Final Year Project (FYP)
+
+{% include notification.html
+message="**Access restricted to current FYP students**
+
+Login to NTU Microsoft 365 account for acess."
+
+status="is-info"
+dismissable="true" %}
+
+* [FYP files](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/FYP?csf=1&web=1&e=FC8Qe9)
+
 ## Standard Operation Procedure
 
 {% include notification.html
