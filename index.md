@@ -10,6 +10,10 @@ show_sidebar: true
 {% include notification.html
 message="![Frontiers in Neuroscience](/assets/img/fns.png)
 
+## frontiers
+
+## in Neuroscience
+
 **CALL FOR PAPER**
 
 **TOPIC**: Neuromorphic Computing-Convergence of Neuroscience and Electronics
