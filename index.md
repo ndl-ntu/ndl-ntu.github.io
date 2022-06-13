@@ -8,7 +8,9 @@ show_sidebar: true
 ---
 
 {% include notification.html
-message="<img src="/assets/img/fns.png" alt="frontiers in Neuroscience" width="200"/>
+message="frontiers
+
+in Neuroscience
 
 **CALL FOR PAPER**
 
