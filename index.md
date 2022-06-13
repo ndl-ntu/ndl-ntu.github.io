@@ -8,9 +8,7 @@ show_sidebar: true
 ---
 
 {% include notification.html
-message=" <img src="/assets/img/fns.png" alt="Frontiers in Neuroscience" width="200"/>
-
-frontiers
+message=" frontiers
 
 in Neuroscience
 
@@ -19,6 +17,9 @@ in Neuroscience
 **TOPIC**: Neuromorphic Computing-Convergence of Neuroscience and Electronics
 
 SUBMIT **[HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)**!
+
+<img src="/assets/img/fns.png" alt="Frontiers in Neuroscience" width="200"/>
+
 "
 
 status="is-info"
