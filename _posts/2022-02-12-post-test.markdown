@@ -8,6 +8,9 @@ image: 'https://www.ntu.edu.sg/images/default-source/corporate/ntu-30-anniversar
 published: true
 ---
 
+
+---
+
 ## About Dr. ALI Asif
 
 Dr. Ali obtained his B.S degree in electronics from Comsats University Islamabad, Pakistan. He got his master's degree in Electronic Engineering from Myongji University, South Korea in 2017 and worked there as a graduate research student at Nano Scale Device Lab (NSDL). In 2022, he obtained his PhD degree in Nanotechnology and Advanced Material Engineering as fulltime graduate research student in Nano Device Lab (NDL) at Sejong University , South Korea. He recently joined School of EEE at Nanyang Technological University as a research fellow since March 2022.
