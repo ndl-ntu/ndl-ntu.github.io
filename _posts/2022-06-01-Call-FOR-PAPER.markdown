@@ -4,10 +4,12 @@ title:  "[CALL FOR PAPERS]  Neuromorphic Computing-Convergence of Neuroscience a
 date:   2022-06-01 15:18:02
 categories: Publications
 description: "Neuromorphic Computing-Convergence of Neuroscience and Electronics"
-# image: 'https://www.frontiersin.org/files/Taxonomy/2992.JPEG'
+image: 'https://www.frontiersin.org/files/Taxonomy/2992.JPEG'
 published: true
 
 ---
+
+CALL FOR RESEARCH PAPERS! [HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)
 
 <p style="text-align:center"> 
 
