@@ -8,7 +8,15 @@ show_sidebar: true
 ---
 
 {% include notification.html
-message=" frontiers
+message="**Access restricted to current group members**
+
+Login to NTU Microsoft 365 account for acess."
+
+status="is-info"
+dismissable="true" %}
+
+{% include notification.html
+message="frontiers
 
 in Neuroscience
 
@@ -18,9 +26,7 @@ in Neuroscience
 
 SUBMIT **[HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)**!
 
-<img src="/assets/img/fns.png" alt="Frontiers in Neuroscience" width="200"/>
-
-"
+<img src="/assets/img/fns.png" alt="Frontiers in Neuroscience" width="200"/>"
 
 status="is-info"
 dismissable="true" %}
