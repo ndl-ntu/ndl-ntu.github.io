@@ -22,6 +22,8 @@ in Neuroscience
 status="is-info"
 dismissable="true" %}
 
+<img src="/assets/img/fns.png" alt="frontiers in Neuroscience" width="200"/>
+
 # Biography
 
 ## Prof. ANG Diing Shenp
