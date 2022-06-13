@@ -4,9 +4,9 @@ title: Neuromorphic Device Lab
 tagline: NTU
 email: EDSANG at ntu dot edu dot sg
 description: >
-  Test website for Prof. Ang Diing Shenp Group. Nanyang Technological University
+  Prof. Ang Diing Shenp Group. Nanyang Technological University
 baseurl: "/"
-url: "https://ndl-ntu.github.io/"
+url: "ndl-ntu.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
 # gh_sponsor: chrisrhymes
