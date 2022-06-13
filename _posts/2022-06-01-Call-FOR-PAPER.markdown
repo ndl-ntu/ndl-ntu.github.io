@@ -10,6 +10,9 @@ published: true
 ---
 
 <p style="text-align:center"> 
+
+<img src="https://3718aeafc638f96f5bd6-d4a9ca15fc46ba40e71f94dec0aad28c.ssl.cf1.rackcdn.com/journal-neuroscience.png" alt="OA_Logo"/>
+
 <img src="https://www.frontiersin.org/files/Taxonomy/2992.JPEG" alt="Logo"/>
 </p>
 
