@@ -9,7 +9,7 @@ published: true
 
 ---
 
-## CALL FOR RESEARCH PAPERS! [HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)
+## SUBMIT [HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)!
 
 <p style="text-align:center"> 
 
