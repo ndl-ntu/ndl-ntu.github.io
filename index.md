@@ -17,12 +17,20 @@ in Neuroscience
 
 **TOPIC**: Neuromorphic Computing-Convergence of Neuroscience and Electronics
 
-SUBMIT **[HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)**!
+# SUBMIT [HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)!
 
 <img src="/assets/img/fns.png" alt="Frontiers in Neuroscience" width="200"/>"
 
 status="is-info"
 dismissable="true" %}
+<!-- {% include notification.html
+message="frontiers
+
+in Neuroscience
+Login to NTU Microsoft 365 account for acess."
+
+status="is-info"
+dismissable="true" %} -->
 
 # Biography
 
