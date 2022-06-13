@@ -7,13 +7,6 @@ callouts: home_callouts
 show_sidebar: true
 ---
 
-{% include notification.html
-message="**Access restricted to current group members**
-
-Login to NTU Microsoft 365 account for acess."
-
-status="is-info"
-dismissable="true" %}
 
 {% include notification.html
 message="frontiers
