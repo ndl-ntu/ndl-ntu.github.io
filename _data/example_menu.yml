@@ -4,8 +4,10 @@
       link: /
     - name: People
       link: /people
-    - name: Publications
-      link: /publications
+    - name: Research
+      link: /highlights
+    - name: Contact
+      link: /contact
 
     # - name: Pages
     #   link: /#
