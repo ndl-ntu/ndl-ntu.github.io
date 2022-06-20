@@ -124,7 +124,7 @@ tabs:
 
 * Tung, Z. Y., & Ang, D. S. (2016, 2016-04-01). Alteration of oxide-trap switching activity at operating condition by voltage-accelerated stressing. **2016 IEEE International Reliability Physics Symposium (IRPS)**.
 
-* Toh, R. T., Parthasarathy, S., Sun, T., Zhang, S., Purakh, R. V., Zhu, C. S., Nune, V. S., Wong, J. S., Govindarajan, M., Yoo, Y. K., Chew, K. W., & Ang, D. S. (2016, 2016-12-01). A 300mm foundry HRSOI technology with variable silicon thickness for integrated FEM applications. **2016 IEEE International Electron Devices Meeting (IEDM)**.
+* Toh, R. T., Parthasarathy, S., Sun, T., Zhang, S., Purakh, R. V., Zhu, C. S., Nune, V. S., Wong, J. S., Govindarajan, M., Yoo, Y. K., Chew, K. W., & Ang, D. S. (2016, 2016-12-01). A 300mm foundry HRSOI technology with variable silicon thickness for integrated FEM applications. **2016 IEEE International Electron Devices Meeting (IEDM)**. [2016 IEDM/10.1109/IEDM.2016.7838031](https://ieeexplore.ieee.org/document/7838031)
 
 * Tham, W. H., Ang, D. S., Bera, L. K., Dolmanan, S. B., Bhat, T. N., Lin, V. K. X., & Tripathy, S. (2016). Comparison of the AlxGa1–xN/GaN Heterostructures Grown on Silicon-on-Insulator and Bulk-Silicon Substrates. **IEEE Transactions on Electron Devices**, 63(1), 345-352. [10.1109/ted.2015.2501410](https://doi.org/10.1109/ted.2015.2501410) 
 
