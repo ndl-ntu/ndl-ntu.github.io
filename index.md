@@ -14,7 +14,7 @@ message="**frontiers in Neuroscience**
 
 **TOPIC**: Neuromorphic Computing-Convergence of Neuroscience and Electronics
 
-SUBMIT **[HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics){:target="_blank"}**!
+SUBMIT **[HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)**!
 "
 
 status="is-info"
