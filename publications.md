@@ -18,7 +18,7 @@ tabs:
 
 * Dan Berco and D. S. Ang . (2021) . Multideck light-induced reset in a transparent bilayer synaptic device. Journal of Vacuum Science & Technology B 39, 053202.  [doi.org/10.1116/6.0001186](https://doi.org/10.1116/6.0001186){:target="_blank"}
 
-* Berco, D. and D. S. Ang . (2021) . Bioinspired Robotic Vision with Online Learning Capability and Rotation-Invariant Properties. Adv. Intell. Syst., 3: 2100025. [10.1002/aisy.202100025](https://doi.org/10.1002/aisy.202100025){:target="_blank"}
+* Berco, D. and D. S. Ang . (2021) . Bioinspired Robotic Vision with Online Learning Capability and Rotation-Invariant Properties. **Adv. Intell. Syst.**, 3: 2100025. [10.1002/aisy.202100025](https://doi.org/10.1002/aisy.202100025){:target="_blank"}
 
 * Xie, H., Guo, Q., Chen, L., Zhang, Y., Ma, Y., Wu, M., ... & Ang, D. S. (2021). 1D Ti-based H2Ti12O25 nanorod@ 2D RGO sheet composite as high-power anode for long-life Li-ion battery. Journal of Alloys and Compounds, 869, 159223.
 
@@ -34,15 +34,15 @@ tabs:
 
 * Ju, X., & Ang, D. S. (2020, 2020-04-01). Gate-Oxide Trapping Enabled Synaptic Logic Transistor. 2020 IEEE International Reliability Physics Symposium (IRPS)
 
-* Berco, D., Ang, D. S., & Kalaga, P. S. (2020). Programmable Photoelectric Memristor Gates for In Situ Image Compression. Advanced Intelligent Systems, 2(9), 2000079. [10.1002/aisy.202000079](https://doi.org/10.1002/aisy.202000079){:target="_blank"}
+* Berco, D., Ang, D. S., & Kalaga, P. S. (2020). Programmable Photoelectric Memristor Gates for In Situ Image Compression. **Advanced Intelligent Systems**, 2(9), 2000079. [10.1002/aisy.202000079](https://doi.org/10.1002/aisy.202000079){:target="_blank"}
 
 * Duan, T., Xu, K., Liu, Z., Gu, C., Pan, J., Ang, D. S., Zhang, R., Wang, Y., & Ma, X. (2020). A novel fabrication technique for three-dimensional concave nanolens arrays. Journal of Materiomics, 6. [10.1016/j.jmat.2020.04.003](https://doi.org/10.1016/j.jmat.2020.04.003){:target="_blank"}
 
 * Duan, T., Gu, C., Ang, D. S., Xu, K., & Liu, Z. (2020). A novel fabrication technique for high-aspect-ratio nanopillar arrays for SERS application. RSC Advances, 10(73), 45037-45041. [10.1039/d0ra09145f](https://doi.org/10.1039/d0ra09145f){:target="_blank"}
 
-* Berco, D., Ang, D. S., & Zhang, H. Z. (2020). An Optoneuronic Device with Realistic Retinal Expressions for Bioinspired Machine Vision. Advanced Intelligent Systems, 2(2), 1900115. [10.1002/aisy.201900115](https://doi.org/10.1002/aisy.201900115){:target="_blank"}
+* Berco, D., Ang, D. S., & Zhang, H. Z. (2020). An Optoneuronic Device with Realistic Retinal Expressions for Bioinspired Machine Vision. **Advanced Intelligent Systems**, 2(2), 1900115. [10.1002/aisy.201900115](https://doi.org/10.1002/aisy.201900115){:target="_blank"}
 
-* Berco, D., Ang, D. S., & Kalaga, P. S. (2020). Programmable Photoelectric Memristor Gates for In Situ Image Compression. Advanced Intelligent Systems, 2(9), 2000079. [10.1002/aisy.202000079](https://doi.org/10.1002/aisy.202000079){:target="_blank"}
+* Berco, D., Ang, D. S., & Kalaga, P. S. (2020). Programmable Photoelectric Memristor Gates for In Situ Image Compression. **Advanced Intelligent Systems**, 2(9), 2000079. [10.1002/aisy.202000079](https://doi.org/10.1002/aisy.202000079){:target="_blank"}
 
 * Berco, D., & Ang, D. S. (2020). Analysis of large bandgap dielectrics by dual plasmon-photon excitation. Journal of Physics D: Applied Physics, 53(25), 25LT02. [](https://doi.org/10.1088/1361-6463/ab81d2){:target="_blank"}
 
@@ -66,7 +66,7 @@ tabs:
 
 * Gu, C., Zhou, C., Ang, D. S., Ju, X., Gu, R., & Duan, T. (2019). The role of the disordered HfO2 network in the high-κ n-MOSFET shallow electron trapping. Journal of Applied Physics, 125(2), 025705. [10.1063/1.5059381](https://doi.org/10.1063/1.5059381){:target="_blank"}
 
-* Berco, D., & Shenp Ang, D. (2019). Recent Progress in Synaptic Devices Paving the Way toward an Artificial Cogni‐Retina for Bionic and Machine Vision. Advanced Intelligent Systems, 1(1), 1900003. [10.1002/aisy.201900003](https://doi.org/10.1002/aisy.201900003){:target="_blank"}
+* Berco, D., & Shenp Ang, D. (2019). Recent Progress in Synaptic Devices Paving the Way toward an Artificial Cogni‐Retina for Bionic and Machine Vision. **Advanced Intelligent Systems**, 1(1), 1900003. [10.1002/aisy.201900003](https://doi.org/10.1002/aisy.201900003){:target="_blank"}
 
 * Berco, D., & Ang, D. S. (2019). Inducing alternating nanoscale rectification in a dielectric material for bidirectional-trigger artificial synapses. Journal of Vacuum Science & Technology B, 37(6), 061806. [10.1116/1.5123665](https://doi.org/10.1116/1.5123665){:target="_blank"}
 
