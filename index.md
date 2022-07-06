@@ -8,14 +8,11 @@ show_sidebar: true
 ---
 
 {% include notification.html
-message="**frontiers in Neuroscience**
+message=" **Important info for prospective students**
 
-**CALL FOR PAPERs**
+NTU application course of next semester (**Year 22-23 Semester 2**) is OPEN (1 Jun to 30 Jul).
 
-**TOPIC**: Neuromorphic Computing-Convergence of Neuroscience and Electronics
-
-SUBMIT **[HERE](https://www.frontiersin.org/research-topics/31730/neuromorphic-computing-convergence-of-neuroscience-and-electronics)**!
-"
+Please refer to [NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) for application or contact us for more information."
 
 status="is-info"
 dismissable="true" %}
