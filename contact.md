@@ -10,9 +10,9 @@ menubar: example_menu
 {% include notification.html
 message=" **Important info for prospective students**
 
-NTU application course of current semester (Year 22-23 Semester 1) is closed.
+NTU application course of next semester (**Year 22-23 Semester 2**) is OPEN (1 Jun to 30 Jul).
 
-Please refer to this page later for updates or contact us for more information."
+Please refer to [NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) for application or contact us for more information."
 
 dismissable="true" %}
 
