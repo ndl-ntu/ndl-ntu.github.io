@@ -34,4 +34,4 @@ Prof. Ang’s research interests lie mainly in neuromorphic RRAM device, device 
 </p>
 
 [![](https://www.rsc-cdn.org/pubs-core/2022.0.45/content/NewImages/orcid_16x16.png)](https://orcid.org/0000-0002-8139-1984)
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png)](https://scholar.google.co.kr/citations?user=vPrA2cMAAAAJ&hl=en&inst=10972715779114120479&oi=ao)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png)](https://scholar.google.co.kr/citations?user=vPrA2cMAAAAJ&hl=en&inst=10972715779114120479&oi=ao)
