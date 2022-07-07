@@ -66,7 +66,7 @@
 
 - title: Alumni
   images:
-    - link: https://github.com/ndl-ntu/ndl-ntu.github.io/blob/master/assets/img/blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Pranav Sairam Kalaga
@@ -75,7 +75,7 @@
         Negative photoconductivity of soft-breakdown wide bandgap oxides 
         ![Micron](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Micron_Technology_logo.svg/2560px-Micron_Technology_logo.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Shreyan Mondal
@@ -84,7 +84,7 @@
         Plasmonic sensors based on the negative photoconductivity effect in soft electrical breakdown wide bandgap oxides
         ![NTU](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/1920px-Nanyang_Technological_University.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Toh Rui Tze
@@ -93,7 +93,7 @@
         RF power amplifier enablement and integration on thin-film high resistivity SOI
         ![GF](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/1920px-GlobalFoundries_logo.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Tung Zhi Yan
@@ -102,7 +102,7 @@
         Bias temperature instability study on switching defects in SiON and high-κ gate dielectrics
         ![GF](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/1920px-GlobalFoundries_logo.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Zhang Haizhong
@@ -112,7 +112,7 @@
         A study on complementary resistive switching characteristics in resistive random access memory for-next generation non-volatile memory technology
         ![AStar Logo](https://upload.wikimedia.org/wikipedia/en/8/8b/A%2ASTAR_logo.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Zhou Yu
@@ -120,7 +120,7 @@
         #### Research Topic
         Characterization of nanoscale conducting filament in high-κ oxides by scanning tunneling microscopy and conductive atomic force microscopy
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Tham Wai Hoe
@@ -129,7 +129,7 @@
         Fabrication and characterization of AlGaN/GaN high electron mobility transistors on silicon
         ![GF](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/1920px-GlobalFoundries_logo.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Duan Tianli
@@ -138,7 +138,7 @@
         High-κ metal gate for advanced transistor applications
         ![SusTech](https://upload.wikimedia.org/wikipedia/en/1/11/SUSTech_University_Logo.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Teo Zhi Qiang
@@ -147,7 +147,7 @@
         Characterization of dynamic NBTI by ultra-fast charge pumping and ultra-fast switching methods
         ![Micron](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Micron_Technology_logo.svg/2560px-Micron_Technology_logo.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Gu Chenjie
@@ -156,7 +156,7 @@
         Atomistic simulation study of high-κ oxide defects for understanding gate stack and RRAM reliability
         ![Ningbo University](https://zfchu.github.io/images/nbu.jpg)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Boo Ann Ann
@@ -165,7 +165,7 @@
         On the “switching defects” in the SiON and high-κ gate dielectrics subjected to bias-temperature stressing
         ![GF](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/1920px-GlobalFoundries_logo.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Yew Kwang Sing
@@ -174,7 +174,7 @@
         Nanoscale characterization of advanced high-κ gate dielectric stacks via scanning tunneling microscopy
         ![GF](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/1920px-GlobalFoundries_logo.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Gao Yuan
@@ -182,7 +182,7 @@
         #### Research Topic
         Dynamic bias-temperature instability study in metal gate/high-κ dielectric stacks
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Ho Jun Jie, Terence 
@@ -190,7 +190,7 @@
         #### Research Topic
         An in-depth investigation of the negative-bias temperature instability of p-MOSFETs
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Du Guoan
@@ -199,7 +199,7 @@
         Electrical characterization of bias temperature instability in MOSFETs with the ultrathin SiON and La-doped HfSiO gate dielectrics
         ![UMC](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/UMC-Logo.svg/1920px-UMC-Logo.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Hu Youzhou 
@@ -207,7 +207,7 @@
         #### Research Topic
         Improved electrical characterization of negative-bias temperature instability
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Lai Chung Sing, Simon
@@ -215,7 +215,7 @@
         #### Research Topic
         Electrical characterization of decoupled-plasma-nitrided MOSFETs under negative-bias temperature instability (NBTI)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Ong Yi Ching 
@@ -224,7 +224,7 @@
         Analysis of high dielectric-constant gate stack reliability for nanoscale CMOS devices application via scanning tunneling microscopy
         ![](https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Tsmc.svg/1200px-Tsmc.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Phua Wee Hong, Timothy (NUS) 
@@ -233,7 +233,7 @@
         #### Research Topic
         Hot-carrier mechanisms in advanced NMOS transistors
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Wang Shuang 
@@ -241,7 +241,7 @@
         #### Research Topic
         Characterization of negative-bias temperature instability of the ultra-thin oxynitride gate P-MOSFET
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Zhang Yu
@@ -249,7 +249,7 @@
         #### Research Topic
         The impact of channel engineering on hot-electron injection in the deep submicrometer flash memory cell
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Chan Yeen Tat 
@@ -258,7 +258,7 @@
         #### Research Topic
         Process and device characterization of advanced SOI devices
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Huang Jinsheng (NUS)
@@ -268,7 +268,7 @@
         Stress-induced leakage current in dual-gate CMOSFETs with ultra-thin nitrided gate oxides
         ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vishay_Logo.svg/1200px-Vishay_Logo.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Liao Hong (NUS)
@@ -278,7 +278,7 @@
         Characterization of hot-carrier reliability in deep submicron MOSFETs
         ![UMC](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/UMC-Logo.svg/1920px-UMC-Logo.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Xia Jinghua (NUS)
@@ -288,7 +288,7 @@
         Current-voltage hysteresis characterization of deep-submicron MOS devices
         ![](https://upload.wikimedia.org/wikipedia/de/thumb/d/d2/Chartered_Semiconductor_Manufacturing_logo.svg/2560px-Chartered_Semiconductor_Manufacturing_logo.svg.png)
       ratio: is-16by9
-    - link: blank.png
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
         ### Lun Zhao (NUS)
