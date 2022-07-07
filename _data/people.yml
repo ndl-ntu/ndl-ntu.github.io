@@ -56,11 +56,11 @@
     - link: https://shieldjy.github.io/assets/img/jiayi_pic.jpg
       alt: Mr. LI Jiayi
       description: |-
-        ### <a href="https://shieldjy.github.io/about/">Mr. LI Jiayi</a>
+        ### <a href="https://shieldjy.github.io/about/">Mr. LI Jiayi</a> [![](https://www.rsc-cdn.org/pubs-core/2022.0.45/content/NewImages/orcid_16x16.png)](https://orcid.org/0000-0001-5016-4239)
         #### About
         Mr. Li Jiayi obtained his B.Eng degree from Tongji University, China in 2021. He is now a PhD student at Nanyang Technological University, Singapore.
         #### Selected Publications
-        * <p align = "justify"> * Abbas, H., Li, J. & Ang, D. S. Conductive Bridge Random Access Memory (CBRAM): Challenges and Opportunities for Memory and Neuromorphic Computing Applications. Micromachines 13, 725, [online](https://www.mdpi.com/2072-666X/13/5/725)</p>
+        * <p align = "justify"> * Abbas, H., Li, J. & Ang, D. S. Conductive Bridge Random Access Memory (CBRAM): Challenges and Opportunities for Memory and Neuromorphic Computing Applications. Micromachines 13, 725, <a href="https://www.mdpi.com/2072-666X/13/5/725">online</a></p>
         
       ratio: is-16by9
 
