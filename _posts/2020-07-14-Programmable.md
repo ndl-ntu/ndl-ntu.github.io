@@ -9,7 +9,7 @@ published: true
 
 ---
 
-Dan BERCO \* , Chih-Hao CHIU, Diing Shenp ANG \*
+Dan Berco \*, Diing Shenp Ang\*, Pranav Sairam Kalaga
 
 <img src="https://www.openaccess.nl/sites/www.openaccess.nl/files/documenten/open-access-logo-png-transparent.png" alt="OA_Logo" width="200"/>
 
