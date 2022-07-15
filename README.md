@@ -1,4 +1,6 @@
-# Neuromorphic Device Lab(NDL)  Nanyang Technological University, Singapore
+# Neuromorphic Device Lab(NDL)
+
+## Nanyang Technological University, Singapore
 
 ## Description and disclaimer
 
