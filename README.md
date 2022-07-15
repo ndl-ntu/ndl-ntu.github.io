@@ -1,4 +1,4 @@
-# Neuromorphic Device Lab at Nanyang Technological University, Singapore
+# Neuromorphic Device Lab  Nanyang Technological University, Singapore
 
 ## Description and disclaimer
 
