@@ -5,11 +5,11 @@
 ## Description and disclaimer
 
 This is the group website of Prof. ANG Diing Shenp, who is an associate professor at school of electrical and electronic engineering, NTU.
-The website is now maintained by LI Jiayi, PhD student at NDL. Copyrights by Dr. Ang Diing Shenp. 
+The website is now maintained by LI Jiayi, PhD student at NDL. 
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<p style="text-align:center"><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
 
-All right reserved, 2022.
+<p style="text-align:center">Copyrights by Dr. Ang Diing Shenp. All rights reserved, 2022.</p>
 
 ## bulma-clean-theme
 
