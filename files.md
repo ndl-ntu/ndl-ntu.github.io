@@ -20,26 +20,9 @@ dismissable="true" %}
 
 ## Final Year Project (FYP)
 
-{% include notification.html
-message="**Access restricted to current FYP students**
-
-Login to NTU Microsoft 365 account for acess."
-
-status="is-info"
-dismissable="true" %}
-
-* [FYP files](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/FYP?csf=1&web=1&e=FC8Qe9)
+### [FYP files](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/FYP?csf=1&web=1&e=FC8Qe9)
 
 ## Standard Operation Procedure
-
-{% include notification.html
-message="**Access restricted to current group members**
-
-Login to NTU Microsoft 365 account for acess.
-Download is restricted."
-
-status="is-info"
-dismissable="true" %}
 
 ### Fabrication Equipment SOP
 * [Cleaning SOP](https://entuedu-my.sharepoint.com/:w:/g/personal/jiayi004_e_ntu_edu_sg/EXj5aiJ5m79Bp3utOmFsnVcBs1eJl-rTWH-_bGgaTZR_eQ?e=kF8EBy)
@@ -53,14 +36,6 @@ dismissable="true" %}
 
 
 ## Lab Notes
-
-{% include notification.html
-message="**Access restricted to current group members**
-
-Login to NTU Microsoft 365 account for acess."
-
-status="is-info"
-dismissable="true" %}
 
 * [Jiayi's Lab Notes](https://entuedu-my.sharepoint.com/:f:/g/personal/jiayi004_e_ntu_edu_sg/EumpEeYTNK9Dk9fcg-wJW94Bsaks6iMKTj-WWTwdnTTlzA?e=rTeIOF)
 

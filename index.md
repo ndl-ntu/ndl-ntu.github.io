@@ -10,7 +10,7 @@ show_sidebar: true
 {% include notification.html
 message=" **Important info for prospective students**
 
-NTU application course of next semester (**Year 22-23 Semester 2**) is OPEN (1 Jun to 30 Jul).
+NTU application course of next semester (**Year 23-24 Semester 1**) will be OPEN (1 Oct to 31 Jun).
 
 Please refer to [NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) for application or contact us for more information."
 
