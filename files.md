@@ -16,7 +16,7 @@ dismissable="true" %}
 
 ## Meeting Repository
 
-* [Presentations](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=CYi5pl)
+* [Slides](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=CYi5pl)
 
 ## Final Year Project (FYP)
 
