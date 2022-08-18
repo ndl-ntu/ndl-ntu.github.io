@@ -9,7 +9,9 @@ toc: true
 {% include notification.html
 message="**Access restricted to current group members**
 
-Login to NTU Microsoft 365 account for acess."
+Login to NTU Microsoft 365 account for access.
+
+For external users, request [HERE](/request) for files."
 
 status="is-info"
 dismissable="true" %}
@@ -33,4 +35,3 @@ dismissable="true" %}
 
 * [Jiayi's Lab Notes](https://entuedu-my.sharepoint.com/:f:/g/personal/jiayi004_e_ntu_edu_sg/EumpEeYTNK9Dk9fcg-wJW94Bsaks6iMKTj-WWTwdnTTlzA?e=rTeIOF)
 
-<div data-embed-src="https://kontactr.com/form/2716b3bba3806ff"></div><script src="https://d3vxmrleduyji.cloudfront.net/js/e.js"></script>
