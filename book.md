@@ -3,13 +3,11 @@ title: Equipment Booking System
 subtitle: Neuromorphic Device Lab
 layout: page
 show_sidebar: false
-toc: true
 ---
 
 {% include notification.html
 message="**Access restricted to current group members**
-
-Login to NTU Microsoft 365 account for acess."
+"
 
 status="is-info"
 dismissable="true" %}

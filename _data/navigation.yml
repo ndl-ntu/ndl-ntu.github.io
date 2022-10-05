@@ -50,5 +50,7 @@
   link: /blog/
 - name: Files
   link: /files/
+- name: Booking
+  link: /book/
 - name: Contact Us
   link: /contact/
