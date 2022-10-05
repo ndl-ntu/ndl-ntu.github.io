@@ -10,12 +10,12 @@ menubar: example_menu
 {% include notification.html
 message=" **Important info for prospective students**
 
-NTU application course of next semester (**Year 23-24 Semester 1**) will be OPEN (1 Oct to 31 Jun).
+NTU application course of next semester (**Year 23-24 Semester 1**) will is OPEN NOW (to 31 Jun).
 
 Please refer to [NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) for application or contact us for more information."
 
+status="is-info"
 dismissable="true" %}
-
 
 {% include notification.html
 message="**Important info for research staff candidates**
