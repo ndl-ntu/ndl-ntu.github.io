@@ -1,0 +1,18 @@
+---
+title: Equipment Booking System
+subtitle: Neuromorphic Device Lab
+layout: page
+show_sidebar: false
+toc: true
+---
+
+{% include notification.html
+message="**Access restricted to current group members**
+
+Login to NTU Microsoft 365 account for acess."
+
+status="is-info"
+dismissable="true" %}
+
+<script src="//widget.simplybook.asia/v2/widget/widget.js"></script>
+<script>var widget = new SimplybookWidget({"widget_type":"button","url":"https:\/\/ndlntu.simplybook.asia","theme":"default","theme_settings":{"timeline_hide_unavailable":"1","hide_past_days":"0","timeline_show_end_time":"0","timeline_modern_display":"as_slots","sb_base_color":"#3050ba","display_item_mode":"block","booking_nav_bg_color":"#264cc9","body_bg_color":"#f7f7f7","sb_review_image":"","dark_font_color":"#494949","light_font_color":"#ffffff","btn_color_1":"#5e7da7","sb_company_label_color":"#ffffff","hide_img_mode":"0","show_sidebar":"1","sb_busy":"#dad2ce","sb_available":"#d3e0f1"},"timeline":"modern","datepicker":"top_calendar","is_rtl":false,"app_config":{"allow_switch_to_ada":0,"predefined":[]},"button_title":"Book","button_background_color":"#3040ba","button_text_color":"#ffffff","button_position":"right","button_position_offset":"55%"});</script>
