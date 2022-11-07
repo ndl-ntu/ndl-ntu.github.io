@@ -88,7 +88,6 @@
         #### About
         Mr. LIM BOON WEE is now an undergrad intern student at NDL, NTU.
       ratio: is-1by1
-  images:
     - link: https://media-exp1.licdn.com/dms/image/C4D03AQHNUnW72r4fuQ/profile-displayphoto-shrink_800_800/0/1517013046111?e=1673481600&v=beta&t=3c3jn7qLULsS0spdPivgyDUIB2kBaRHHFw_clM3SIH0
       alt: Mr. PANG YONG LIANG
       description: |-
@@ -97,7 +96,6 @@
         #### About
         Mr. PANG YONG LIANG is now an undergrad intern student at NDL, NTU.
       ratio: is-16by9
-  images:
     - link: https://media-exp1.licdn.com/dms/image/C5603AQGb90U9wm9X5Q/profile-displayphoto-shrink_800_800/0/1653662753570?e=1673481600&v=beta&t=EVJ7mrVb6r60nHV7nCDV4jvv3NKw1N51nf1lvJ1Cne4
       alt: Mr. TEO BOON HONG
       description: |-
@@ -106,7 +104,6 @@
         #### About
         Mr. TEO BOON HONG is now an undergrad intern student at NDL, NTU.
       ratio: is-1by1
-  images:
     - link: https://media-exp1.licdn.com/dms/image/C4E03AQGuoFhHrR7mHQ/profile-displayphoto-shrink_800_800/0/1618407644786?e=1673481600&v=beta&t=qrO2ZTG00GMRBOtxqp536eFV81jL81oGI0suGV-FMtc
       alt: Mr. THAW TINT TE TUN
       description: |-
@@ -160,7 +157,7 @@
         PhD, degree conferred in 2017. Now working at Fuzhou University.
         #### Research Topic
         A study on complementary resistive switching characteristics in resistive random access memory for-next generation non-volatile memory technology
-        ![FZU](https://www1.fzu.edu.cn/themes/30480/fzu_new/images/logo.png)
+        ![FZU](https://www.fzu.edu.cn/images/logo.png)
       ratio: is-16by9
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
