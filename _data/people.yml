@@ -116,7 +116,7 @@
         Mr. THAW TINT TE TUN is now an undergrad intern student at NDL, NTU.
       ratio: is-1by1   
 - title: Alumni
-  images: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
+  images: 
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
