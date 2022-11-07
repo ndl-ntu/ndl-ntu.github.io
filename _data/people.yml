@@ -80,29 +80,29 @@
 
 - title: Undergraduate Intern
   images:
-    - link: 
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Mr. LIM BOON WEE
       description: |-
         ### <a href="https://www.linkedin.com/in/lim-boon-wee/">Mr. LIM BOON WEE</a> 
-        [![linkdedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/lim-boon-wee/)
+        [![linkdedin](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png)](https://www.linkedin.com/in/lim-boon-wee/)
         #### About
         Mr. LIM BOON WEE is now an undergrad intern student at NDL, NTU.
       ratio: is-16by9
   images:
-    - link: 
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Mr. PANG YONG LIANG
       description: |-
         ### <a href="https://www.linkedin.com/in/pang-yong-liang-a85340132/">Mr. PANG YONG LIANG</a> 
-        [![linkdedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/pang-yong-liang-a85340132/)
+        [![linkdedin](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png)](https://www.linkedin.com/in/pang-yong-liang-a85340132/)
         #### About
         Mr. PANG YONG LIANG is now an undergrad intern student at NDL, NTU.
       ratio: is-16by9
   images:
-    - link: 
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Mr. TEO BOON HONG
       description: |-
         ### <a href="https://www.linkedin.com/in/boon-hong-teo/">Mr. TEO BOON HONG</a> 
-        [![linkdedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/boon-hong-teo/)
+        [![linkdedin](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png)](https://www.linkedin.com/in/boon-hong-teo/)
         #### About
         Mr. TEO BOON HONG is now an undergrad intern student at NDL, NTU.
       ratio: is-16by9
@@ -111,12 +111,12 @@
       alt: Mr. THAW TINT TE TUN
       description: |-
         ### <a href="https://www.linkedin.com/in/thaw-tint-te-tun/">Mr. THAW TINT TE TUN</a> 
-        [![linkdedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/thaw-tint-te-tun/)
+        [![linkdedin](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/72px-LinkedIn_icon_circle.svg.png)](https://www.linkedin.com/in/thaw-tint-te-tun/)
         #### About
         Mr. THAW TINT TE TUN is now an undergrad intern student at NDL, NTU.
-      ratio: is-16by9   
+      ratio: is-1by1   
 - title: Alumni
-  images:
+  images: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
