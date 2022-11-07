@@ -62,7 +62,7 @@
         ![AStar Logo](https://upload.wikimedia.org/wikipedia/en/8/8b/A%2ASTAR_logo.png) ![NTU](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/1920px-Nanyang_Technological_University.svg.png)
       ratio: is-1by1
 
-- title: Research Student
+- title: Graduate Research Student
   images:
     - link: https://shieldjy.github.io/assets/img/jiayi_pic.jpg
       alt: Mr. LI Jiayi
@@ -78,6 +78,43 @@
         
       ratio: is-16by9
 
+- title: Undergraduate Intern
+  images:
+    - link: 
+      alt: Mr. LIM BOON WEE
+      description: |-
+        ### <a href="https://www.linkedin.com/in/lim-boon-wee/">Mr. LIM BOON WEE</a> 
+        [![linkdedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/lim-boon-wee/)
+        #### About
+        Mr. LIM BOON WEE is now an undergrad intern student at NDL, NTU.
+      ratio: is-16by9
+  images:
+    - link: 
+      alt: Mr. PANG YONG LIANG
+      description: |-
+        ### <a href="https://www.linkedin.com/in/pang-yong-liang-a85340132/">Mr. PANG YONG LIANG</a> 
+        [![linkdedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/pang-yong-liang-a85340132/)
+        #### About
+        Mr. PANG YONG LIANG is now an undergrad intern student at NDL, NTU.
+      ratio: is-16by9
+  images:
+    - link: 
+      alt: Mr. TEO BOON HONG
+      description: |-
+        ### <a href="https://www.linkedin.com/in/boon-hong-teo/">Mr. TEO BOON HONG</a> 
+        [![linkdedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/boon-hong-teo/)
+        #### About
+        Mr. TEO BOON HONG is now an undergrad intern student at NDL, NTU.
+      ratio: is-16by9
+  images:
+    - link: https://media-exp1.licdn.com/dms/image/C4E03AQGuoFhHrR7mHQ/profile-displayphoto-shrink_800_800/0/1618407644786?e=1673481600&v=beta&t=qrO2ZTG00GMRBOtxqp536eFV81jL81oGI0suGV-FMtc
+      alt: Mr. THAW TINT TE TUN
+      description: |-
+        ### <a href="https://www.linkedin.com/in/thaw-tint-te-tun/">Mr. THAW TINT TE TUN</a> 
+        [![linkdedin](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/thaw-tint-te-tun/)
+        #### About
+        Mr. THAW TINT TE TUN is now an undergrad intern student at NDL, NTU.
+      ratio: is-16by9   
 - title: Alumni
   images:
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
