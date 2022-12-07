@@ -15,9 +15,10 @@ For external users, request [HERE](/request) for files."
 status="is-info"
 dismissable="true" %}
 
-## Meeting Repository
+## Repositories
 
-* [Slides](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=CYi5pl)
+* [Shared Literatures](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/SharedLiterature?csf=1&web=1&e=oNJDOU)
+* [Meeting Repos](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=CYi5pl)
 
 ## Final Year Project (FYP)
 
