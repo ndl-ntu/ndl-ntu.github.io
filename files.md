@@ -22,13 +22,13 @@ dismissable="true" %}
 
 ## Final Year Project (FYP)
 
-### [FYP files](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/FYP?csf=1&web=1&e=FC8Qe9)
+* [FYP files](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/FYP?csf=1&web=1&e=FC8Qe9)
 
 ## Fabrication Documents
 
-### [Standard Operating Procedures](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Fabrication/FabricationSOP?csf=1&web=1&e=3V2sSR)
+* [Standard Operating Procedures](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Fabrication/FabricationSOP?csf=1&web=1&e=3V2sSR)
 
-### [Process Flow](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Fabrication/ProcessFlow?csf=1&web=1&e=TfdV8R)
+* [Process Flow](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Fabrication/ProcessFlow?csf=1&web=1&e=TfdV8R)
 
 
 ## Lab Notes
