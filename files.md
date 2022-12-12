@@ -17,15 +17,14 @@ dismissable="true" %}
 
 ## [Repositories](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Repositories?csf=1&web=1&e=kitax1)
 
-* [Shared Literatures](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/SharedLiterature?csf=1&web=1&e=oNJDOU)
+* [Shared Literatures](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Repositories/SharedLiterature?csf=1&web=1&e=7lOGxB)
 * [Meeting Repos](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=CYi5pl)
 * [Simulation](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Repositories/Simulation?csf=1&web=1&e=SH65ij)
 
 ### [Fabrication Documents](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Repositories/Fabrication?csf=1&web=1&e=ip6kCc)
 
-* [Standard Operating Procedures](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Fabrication/FabricationSOP?csf=1&web=1&e=3V2sSR)
-
-* [Process Flow](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Fabrication/ProcessFlow?csf=1&web=1&e=TfdV8R)
+* Standard Operating Procedures
+* Process Flow
 
 ## Final Year Project (FYP)
 
