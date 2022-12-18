@@ -10,7 +10,7 @@ tabs:
 
 ### 2022
 
-* Abbas, H.\*, Ali, A., Li, J., Thaw, T. T. & Ang, D. S.\* Forming-free, Self-compliance WTe2-based Conductive Bridge RAM with Highly Uniform Multilevel Switching for High-density Memory. **IEEE Electron Device Letters**. *[accepeted on 17 Dec 2022]*
+* Abbas, H.\*, Ali, A., Li, J., Tun, T. T. T. & Ang, D. S.\* Forming-free, Self-compliance WTe2-based Conductive Bridge RAM with Highly Uniform Multilevel Switching for High-density Memory. **IEEE Electron Device Letters**. *[accepeted on 17 Dec 2022]*
 
 * Abbas, H., Li, J. & Ang, D. S. Conductive Bridge Random Access Memory (CBRAM): Challenges and Opportunities for Memory and Neuromorphic Computing Applications. Micromachines 13, 725, [doi:10.3390/mi13050725](https://www.mdpi.com/2072-666X/13/5/725){:target="_blank"} (2022).**[invited]**
 
