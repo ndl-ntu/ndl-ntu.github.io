@@ -10,11 +10,11 @@ tabs:
 
 ### 2022
 
-* Abbas, H.\*, Ali, A., Li, J., Thaw, T. T. & Ang, D. S.\* Forming-free, Self-compliance WTe2-based Conductive Bridge RAM with Highly Uniform Multilevel Switching for High-density Memory. IEEE Electron Device Letters. *[accepeted 17 Dec 2022]*
+* Abbas, H.\*, Ali, A., Li, J., Thaw, T. T. & Ang, D. S.\* Forming-free, Self-compliance WTe2-based Conductive Bridge RAM with Highly Uniform Multilevel Switching for High-density Memory. **IEEE Electron Device Letters**. *[accepeted on 17 Dec 2022]*
 
 * Abbas, H., Li, J. & Ang, D. S. Conductive Bridge Random Access Memory (CBRAM): Challenges and Opportunities for Memory and Neuromorphic Computing Applications. Micromachines 13, 725, [doi:10.3390/mi13050725](https://www.mdpi.com/2072-666X/13/5/725){:target="_blank"} (2022).**[invited]**
 
-* X. Ju and D. S. Ang, "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor," in IEEE Electron Device Letters, vol. 43, no. 5, pp. 793-796, May 2022, [doi: 10.1109/LED.2022.3162639](https://ieeexplore.ieee.org/abstract/document/9743457){:target="_blank"}.
+* X. Ju and D. S. Ang, "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor," in **IEEE Electron Device Letters**, vol. 43, no. 5, pp. 793-796, May 2022, [doi: 10.1109/LED.2022.3162639](https://ieeexplore.ieee.org/abstract/document/9743457){:target="_blank"}.
 
 ### 2021
 
