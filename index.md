@@ -10,7 +10,13 @@ show_sidebar: true
 {% include notification.html
 message=" **Important info for prospective students**
 
-NTU application course of next semester (**Year 23-24 Semester 2**) will be open on 1st Jun to 31 Jul.
+PhD **scholarship opportunities** for Jan/Aug 2024 admission.
+
+Research areas: Conductive Bridge Random Access Memory and Semiconductor Devices for Neuromorphic Computing
+
+We are looking for dedicated PhD student researchers. Interested? Contact us.
+
+NTU application course of next semester (**Year 23-24 Semester 2**) is open from 1st Jun to 31 Jul.
 
 Please refer to [NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) for application or contact us for more information."
 

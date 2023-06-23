@@ -10,7 +10,13 @@ menubar: example_menu
 {% include notification.html
 message=" **Important info for prospective students**
 
-NTU application course of next semester (**Year 23-24 Semester 2**) will be open on 1st Jun to 31 Jul.
+PhD **scholarship opportunities** for Jan/Aug 2024 admission.
+
+Research areas: Conductive Bridge Random Access Memory and Semiconductor Devices for Neuromorphic Computing
+
+We are looking for dedicated PhD student researchers. Interested? Contact us.
+
+NTU application course of next semester (**Year 23-24 Semester 2**) is open from 1st Jun to 31 Jul.
 
 Please refer to [NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) for application or contact us for more information."
 
@@ -47,6 +53,8 @@ We offer **FULL** tuition grant and ~$4500 stipend per month(including CPF)# for
 * NTU admission requirement for [Ph.D.](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [M.Eng](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy-(ph.d)-and-master-of-engineering-(m.eng)-programme#admission). Note that GRE/GATE is required.
 
 #### International Students
+
+[UPDATED 23 JUN 2023] We have opening **SCHOLARSHIPS** for fulltime PhD students!
 
 We welcome international students from all over the world to join us as M.Eng or Ph.D. students. NTU is an internationally-friendly university and Singapore is an amazing place for you to explore. Below are information of each programme.
 
