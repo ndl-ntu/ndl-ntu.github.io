@@ -8,20 +8,37 @@ show_sidebar: true
 ---
 
 {% include notification.html
+message=" **Important info for all prospective students**
+
+Scholarship opportunities available for ALL PhD level research in the following areas:
+
+1. Conductive Bridge Random Access Memory
+2. Semiconductor Devices for Retinomorphic/Neuromorphic Computing
+
+Scholarships now available for **Jan 2024 admission**. On-line application deadline: 31 July 2023
+
+## Interested? Contact us.
+ 
+Don’t know whether you will qualify? Check [NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) for admission criteria and online application procedure or **talk with us**.
+
+status="is-warning"
+dismissable="true" %}
+
+{% include notification.html
 message=" **Important info for prospective students**
 
-PhD **scholarship opportunities** for Jan/Aug 2024 admission.
+Ph.D. research scholarship funded by Singapore Economic Development Board and GlobalFoundries Singapore are also available for **Jan 2024 admission**.
 
-Research areas: Conductive Bridge Random Access Memory and Semiconductor Devices for Neuromorphic Computing
+Research topics:
 
-We are looking for dedicated PhD student researchers. Interested? Contact us.
+1. Machine learning aided modelling/prediction of RF reliability of power amplifier for 6G and above communications
+2. Conducting bridge random access memory (CBRAM) enabled RF switches for 6G and above communications
 
-NTU application course of next semester (**Year 23-24 Semester 2**) is open from 1st Jun to 31 Jul.
-
-Please refer to [NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) for application or contact us for more information."
+May only eligible to *Singaporeans/Singapore Permanent Residents*. Applicants must have good undergraduate academic performance (GPA > 4.0/5.0) from Local universities or equivalent GPA from other universities.
 
 status="is-info"
 dismissable="true" %}
+
 
 ## Prof. ANG Diing Shenp
 
