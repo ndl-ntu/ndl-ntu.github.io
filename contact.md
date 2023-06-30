@@ -21,6 +21,7 @@ Scholarships now available for **Jan 2024 admission**. On-line application deadl
  
 Don’t know whether you will qualify? Check [NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) for admission criteria and online application procedure or **talk with us**.
 
+status="is-info"
 dismissable="true" %}
 
 {% include notification.html
