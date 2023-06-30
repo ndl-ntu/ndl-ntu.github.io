@@ -17,7 +17,7 @@ Scholarship opportunities available for ALL PhD level research in the following 
 
 Scholarships now available for **Jan 2024 admission**. On-line application deadline: 31 July 2023
 
-## Interested? Contact us.
+**Interested? Contact us.**
  
 Don’t know whether you will qualify? Check [NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) for admission criteria and online application procedure or **talk with us**.
 
