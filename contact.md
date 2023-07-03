@@ -19,7 +19,7 @@ Scholarships now available for **Jan 2024 admission**. On-line application deadl
 
 **Interested? Contact us.**
  
-Don’t know whether you will qualify? Check [NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) for admission criteria and online application procedure or **talk with us**."
+Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) or **talk with us**."
 
 status="is-warning"
 dismissable="true" %}
@@ -34,7 +34,7 @@ Research topics:
 1. Machine learning aided modelling/prediction of RF reliability of power amplifier for 6G and above communications
 2. Conducting bridge random access memory (CBRAM) enabled RF switches for 6G and above communications
 
-May only eligible to *Singaporeans/Singapore Permanent Residents*. Applicants must have good undergraduate academic performance (GPA > 4.0/5.0) from Local universities or equivalent GPA from other universities."
+Only eligible to *Singaporeans/Singapore Permanent Residents*. Applicants must have good undergraduate academic performance (GPA > 4.0/5.0) from Local universities or equivalent GPA from other universities."
 
 status="is-info"
 dismissable="true" %}
