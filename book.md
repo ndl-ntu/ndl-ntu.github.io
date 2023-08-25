@@ -12,7 +12,7 @@ This site is under maintenance
 
 "
 
-status="is-alart"
+status="is-alert"
 dismissable="true" %}
 
 
