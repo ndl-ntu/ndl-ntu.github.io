@@ -15,7 +15,7 @@ Scholarship opportunities available for ALL PhD level research in the following 
 1. Conductive Bridge Random Access Memory
 2. Semiconductor Devices for Retinomorphic/Neuromorphic Computing
 
-Scholarships now available for **Jan 2024 admission**. On-line application deadline: 31 July 2023
+Scholarships now available for **Aug 2024 admission**. On-line application deadline: 31 Jan 2024
 
 **Interested? Contact us.**
  
