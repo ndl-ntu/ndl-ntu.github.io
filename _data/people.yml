@@ -80,61 +80,61 @@
 - title: Undergraduate Intern
   images:
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-        alt: Mr. Aw Xin Zhong
-        description: |-
-          ### <a href="https://www.linkedin.com/in/xin-zhong-aw-8a8393232/">Mr. Aw Xin Zhong</a> 
-          #### About
-          Mr. Aw Xin Zhong is an undergrad intern student at NDL, NTU.
-        ratio: is-1by1
+      alt: Mr. Aw Xin Zhong
+      description: |-
+        ### <a href="https://www.linkedin.com/in/xin-zhong-aw-8a8393232/">Mr. Aw Xin Zhong</a> 
+        #### About
+        Mr. Aw Xin Zhong is an undergrad intern student at NDL, NTU.
+      ratio: is-1by1
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-        alt: Mr. Chua Wei Liang
-        description: |-
-          ### <a href="https://www.linkedin.com/in/weiliangchua99/">Mr. Chua Wei Liang</a> 
-          #### About
-          Mr. Chua Wei Liang is an undergrad intern student at NDL, NTU.
-        ratio: is-1by1
+      alt: Mr. Chua Wei Liang
+      description: |-
+        ### <a href="https://www.linkedin.com/in/weiliangchua99/">Mr. Chua Wei Liang</a> 
+        #### About
+        Mr. Chua Wei Liang is an undergrad intern student at NDL, NTU.
+      ratio: is-1by1
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-        alt: Mr. Chua Zong Xian
-        description: |-
-          ### Mr. Aw Xin Zhong
-          #### About
-          Mr. Chua Zong Xian is an undergrad intern student at NDL, NTU.
-        ratio: is-1by1
+      alt: Mr. Chua Zong Xian
+      description: |-
+        ### Mr. Aw Xin Zhong
+        #### About
+        Mr. Chua Zong Xian is an undergrad intern student at NDL, NTU.
+      ratio: is-1by1
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-        alt: Mr. Goh Zu Hong
-        description: |-
-          ### <a href="https://www.linkedin.com/in/goodboyzuzu/">Mr. Goh Zu Hong</a> 
-          #### About
-          Mr. Goh Zu Hong is an undergrad intern student at NDL, NTU.
-        ratio: is-1by1
+      alt: Mr. Goh Zu Hong
+      description: |-
+        ### <a href="https://www.linkedin.com/in/goodboyzuzu/">Mr. Goh Zu Hong</a> 
+        #### About
+        Mr. Goh Zu Hong is an undergrad intern student at NDL, NTU.
+      ratio: is-1by1
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-        alt: Mr. Loh Zhen Xuan
-        description: |-
-          ### Mr. Loh Zhen Xuan
-          #### About
-          Mr. Loh Zhen Xuan is an undergrad intern student at NDL, NTU.
-        ratio: is-1by1
+      alt: Mr. Loh Zhen Xuan
+      description: |-
+        ### Mr. Loh Zhen Xuan
+        #### About
+        Mr. Loh Zhen Xuan is an undergrad intern student at NDL, NTU.
+      ratio: is-1by1
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-        alt: Mr. Tan Teng Kiat Darel
-        description: |-
-          ### <a href="https://www.linkedin.com/in/darel-tan//">Mr. Tan Teng Kiat Darel</a> 
-          #### About
-          Mr. Tan Teng Kiat Darel is an undergrad intern student at NDL, NTU.
-        ratio: is-1by1
+      alt: Mr. Tan Teng Kiat Darel
+      description: |-
+        ### <a href="https://www.linkedin.com/in/darel-tan//">Mr. Tan Teng Kiat Darel</a> 
+        #### About
+        Mr. Tan Teng Kiat Darel is an undergrad intern student at NDL, NTU.
+      ratio: is-1by1
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-        alt: Ms. Tee Xiao Hui Sherry
-        description: |-
-          ### <a href="https://www.linkedin.com/in/sherry-tee-037269209/">Ms. Tee Xiao Hui Sherry</a> 
-          #### About
-          Ms. Tee Xiao Hui Sherry is an undergrad intern student at NDL, NTU.
-        ratio: is-1by1
+      alt: Ms. Tee Xiao Hui Sherry
+      description: |-
+        ### <a href="https://www.linkedin.com/in/sherry-tee-037269209/">Ms. Tee Xiao Hui Sherry</a> 
+        #### About
+        Ms. Tee Xiao Hui Sherry is an undergrad intern student at NDL, NTU.
+      ratio: is-1by1
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-        alt: Mr. Toh Sio Huan
-        description: |-
-          ### Mr. Toh Sio Huan
-          #### About
-          Mr. Toh Sio Huan is an undergrad intern student at NDL, NTU.
-        ratio: is-1by1
+      alt: Mr. Toh Sio Huan
+      description: |-
+        ### Mr. Toh Sio Huan
+        #### About
+        Mr. Toh Sio Huan is an undergrad intern student at NDL, NTU.
+      ratio: is-1by1
     
 - title: Alumni
   images:
