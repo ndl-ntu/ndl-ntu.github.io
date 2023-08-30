@@ -28,8 +28,9 @@ dismissable="true" %}
 
 ## Final Year Project (FYP)
 
+* [General Info](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/FYP/General%20Info?csf=1&web=1&e=C6g9qi)
 * [FYP references](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/FYP/Reading%20Material?csf=1&web=1&e=VDmIHP)
-* [FYP project repository](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/FYP/Project%20Repo?csf=1&web=1&e=JuRJo2)
+<!-- * [FYP project repository](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/FYP/Project%20Repo?csf=1&web=1&e=JuRJo2) -->
 
 ## Lab Notes
 
