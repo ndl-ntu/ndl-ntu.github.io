@@ -27,7 +27,7 @@ Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/progr
 
 ## Singaporeans/ Singapore Permanent Residents
 
-Ph.D. research scholarship funded by Singapore Economic Development Board and GlobalFoundries Singapore are also available for **Jan 2024 admission**.
+Ph.D. research scholarship funded by Singapore Economic Development Board and GlobalFoundries Singapore are also available for **Aug 2024 admission**.
 
 ### Research topics:
 

@@ -27,7 +27,7 @@ dismissable="true" %}
 {% include notification.html
 message=" **Important info for prospective students**
 
-Ph.D. research scholarship funded by Singapore Economic Development Board and GlobalFoundries Singapore are also available for **Jan 2024 admission**.
+Ph.D. research scholarship funded by Singapore Economic Development Board and GlobalFoundries Singapore are also available for **Aug 2024 admission**.
 
 Research topics:
 
