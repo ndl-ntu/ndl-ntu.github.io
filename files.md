@@ -38,6 +38,8 @@ dismissable="true" %}
 
 ## Meeting Notes
 
+* [Oct 2023 Onwards](https://entuedu.sharepoint.com/:w:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting/Meeting%20Notes%20Oct%2023%20Onwards.docx?d=w00fd4179b100489883fc4cea48e58eda&csf=1&web=1&e=53X4Nz)
+
 <div class="word-container">
-<iframe src="https://entuedu.sharepoint.com/teams/NeuromorphicDeviceLab/_layouts/15/Doc.aspx?sourcedoc={00fd4179-b100-4898-83fc-4cea48e58eda}&amp;action=embedview&amp;wdEmbedCode=1&amp;wdPrint=1" width="1024px" height="768px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+    <iframe src="https://entuedu.sharepoint.com/teams/NeuromorphicDeviceLab/_layouts/15/Doc.aspx?sourcedoc={00fd4179-b100-4898-83fc-4cea48e58eda}&amp;action=embedview&amp;wdEmbedCode=1&amp;wdPrint=1" width="1024px" height="768px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 </div>
