@@ -38,5 +38,6 @@ dismissable="true" %}
 
 ## Meeting Notes
 
+<div class="word-container">
 <iframe src="https://entuedu.sharepoint.com/teams/NeuromorphicDeviceLab/_layouts/15/Doc.aspx?sourcedoc={00fd4179-b100-4898-83fc-4cea48e58eda}&amp;action=embedview&amp;wdEmbedCode=1&amp;wdPrint=1" width="1024px" height="768px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> document, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-
+</div>
