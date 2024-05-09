@@ -8,6 +8,10 @@ tabs:
 
 ## Publications
 
+### 2024
+
+* Yuan, K., ..., Ang, D.S. and Gu, C., 2024. A WOx/MoOx hybrid oxide based SERS FET and investigation on its tunable SERS performance. Physical Chemistry Chemical Physics, 26(14), pp.10814-10823. [doi: 10.1039/D4CP00641K](https://doi.org/10.1039/D4CP00641K){:target="_blank"}
+
 ### 2023
 
 * Li, Jiayi, Haider Abbas, Diing Shenp Ang, Asif Ali, and Xin Ju. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. **Nanoscale Horizons** (2023). [doi: 10.1039/D3NH00180F](https://doi.org/10.1039/D3NH00180F){:target="_blank"}
