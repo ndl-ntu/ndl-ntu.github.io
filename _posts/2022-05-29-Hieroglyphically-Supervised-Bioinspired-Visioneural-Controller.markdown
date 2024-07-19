@@ -4,7 +4,7 @@ title:  "[Research]Advanced Intelligent Systems: Hieroglyphically Supervised Bio
 date:   2022-05-29 15:18:02
 categories: Publications
 description: "Hieroglyphically Supervised Bioinspired Visioneural Controller"
-image: 'https://onlinelibrary.wiley.com/cms/asset/47cc1198-68cf-45be-8918-cdb1b01b5052/aisy202200066-fig-0003-m.jpg'
+image: 'https://onlinelibrary.wiley.com/pb-assets/journal-banners/26404567-1715936332940.jpg'
 published: true
 
 ---
