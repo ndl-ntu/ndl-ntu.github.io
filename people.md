@@ -7,9 +7,9 @@ gallery: people
 show_sidebar: false
 ---
 
-### Past years undergrad students (FYP)
+## Past years undergrad students (FYP)
 
-#### AY23-24
+### AY23-24
 
 * Mr. Aw Xin Zhong
 * Mr. Chua Wei Liang
@@ -20,7 +20,7 @@ show_sidebar: false
 * Ms. Tee Xiao Hui Sherry
 * Ms. Toh Sio Huan
 
-#### AY22-23
+### AY22-23
 
 * [Mr. Lim Boon Wee](https://www.linkedin.com/in/lim-boon-wee/) (ST Engineering)
 * [Mr. PANG YONG LIANG](https://www.linkedin.com/in/pang-yong-liang-a85340132/)

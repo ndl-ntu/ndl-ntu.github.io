@@ -19,28 +19,6 @@
         * <p align = "justify"> Asif Ali, et al. Thickness-dependent monochalcogenide GeSe-based CBRAM for memory and artificial electronic synapses. <strong>Nano Res</strong>. 15, 2263–2277 (2022).  <a href="https://doi.org/10.1007/s12274-021-3793-1">Online</a></p>
         ![NTU](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/1920px-Nanyang_Technological_University.svg.png)
       ratio: is-1by1
-    - link: https://publons.com/media/thumbs/academic/photos/3c1737d2-f774-4242-bb02-24fc2df9be62.png.200x200_q95_crop_detail_upscale.png
-      large_link: https://publons.com/media/thumbs/academic/photos/3c1737d2-f774-4242-bb02-24fc2df9be62.png.200x200_q95_crop_detail_upscale.png
-      alt: Dr. Haider ABBAS
-      description: |-
-        ### <a href="https://sites.google.com/view/HaiderAbbas">Dr. Haider ABBAS</a> 
-        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/0000-0003-4372-2639)
-        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?user=Gr-rIZIAAAAJ&hl=en)
-        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/profile/Haider-Abbas-4)
-        #### About
-        <p align = "justify"> 
-        Dr. Abbas obtained his B.S degree in electronic engnieering from Sir Syed University of Engineering and Technology, Pakistan.
-        He got his PhD degree Myongji University, South Korea in 2019 and worked as a research fellow at Nano Electronic 
-        Devices & Materials Lab (NEDML) at Hanyang University since 2019. He joined School of EEE at Nanyang Technological University
-        as a research fellow in Janurary, 2022.
-        </p>
-        #### Selected Publications
-        * <p align = "justify"> Haider Abbas, et al. "The Coexistence of Threshold and Memory Switching Characteristics of ALD HfO2 Memristor Synaptic Arrays for Energy-Efficient Neuromorphic Computing", <strong>Nanoscale</strong>, 12, 14120-14134 (2020). <a href="https://pubs.rsc.org/en/content/articlelanding/2020/NR/D0NR02335C">Online</a></p>
-        * <p align = "justify"> Haider Abbas, Asif Ali, et al. “Reversible transition of volatile to non-volatile resistive switching and compliance current-dependent multistate switching in IGZO/MnO RRAM devices”, <strong>Applied Physics Letters</strong>, 114, 093503 (2019). <a href="https://aip.scitation.org/doi/10.1063/1.5082901">Online</a></p>
-        
-        
-        ![NTU](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/1920px-Nanyang_Technological_University.svg.png)
-      ratio: is-1by1
     - link: https://s4.ax1x.com/2022/02/24/bFnvOU.jpg
       large_link: https://s4.ax1x.com/2022/02/24/bFnvOU.jpg
       alt: Dr. JU Xin
@@ -122,6 +100,28 @@
     
 - title: Alumni
   images:
+    - link: https://publons.com/media/thumbs/academic/photos/3c1737d2-f774-4242-bb02-24fc2df9be62.png.200x200_q95_crop_detail_upscale.png
+      large_link: https://publons.com/media/thumbs/academic/photos/3c1737d2-f774-4242-bb02-24fc2df9be62.png.200x200_q95_crop_detail_upscale.png
+      alt: Dr. Haider ABBAS
+      description: |-
+        ### <a href="https://sites.google.com/view/HaiderAbbas">Dr. Haider ABBAS</a> 
+        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/0000-0003-4372-2639)
+        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?user=Gr-rIZIAAAAJ&hl=en)
+        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/profile/Haider-Abbas-4)
+        #### About
+        <p align = "justify"> 
+        Dr. Abbas obtained his B.S degree in electronic engnieering from Sir Syed University of Engineering and Technology, Pakistan.
+        He got his PhD degree Myongji University, South Korea in 2019 and worked as a research fellow at Nano Electronic 
+        Devices & Materials Lab (NEDML) at Hanyang University since 2019. He joined School of EEE at Nanyang Technological University
+        as a research fellow in Janurary, 2022. Now Dr. Abbas works as Assistant Professor at Sejong University, Korea.
+        </p>
+        #### Selected Publications
+        * <p align = "justify"> Haider Abbas, et al. "The Coexistence of Threshold and Memory Switching Characteristics of ALD HfO2 Memristor Synaptic Arrays for Energy-Efficient Neuromorphic Computing", <strong>Nanoscale</strong>, 12, 14120-14134 (2020). <a href="https://pubs.rsc.org/en/content/articlelanding/2020/NR/D0NR02335C">Online</a></p>
+        * <p align = "justify"> Haider Abbas, Asif Ali, et al. “Reversible transition of volatile to non-volatile resistive switching and compliance current-dependent multistate switching in IGZO/MnO RRAM devices”, <strong>Applied Physics Letters</strong>, 114, 093503 (2019). <a href="https://aip.scitation.org/doi/10.1063/1.5082901">Online</a></p>
+        
+        
+        ![Sejong](http://www.sejong.ac.kr/indexNew/imgs/header/logo.png)
+      ratio: is-1by1
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
