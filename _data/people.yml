@@ -64,7 +64,7 @@
 - title: Graduate Research Student
   images:
     - link: 
-      alt: Mr. Elliot Sew
+      alt: Mr. Elliot SEW
       description: |-
         ### <a href="https://www.linkedin.com/in/elliot-seow-662153202/">Mr. Elliot SEW</a> 
         [![orcid](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/xx)
@@ -97,7 +97,7 @@
         Mr. Liao Jia Hui obtained his B.Eng degree from NTU in 2024. He is now a PhD student at Nanyang Technological University, Singapore.
       ratio: is-16by9
     - link: 
-      alt: Mr. Long Zijian
+      alt: Mr. LONG Zijian
       description: |-
         ### <a href="">Mr. Long Zijian</a> 
         [![orcid](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/xxx)
@@ -107,7 +107,7 @@
         Mr. Long Zijian is now a MSc. student (Electronics) at Nanyang Technological University, Singapore.
       ratio: is-16by9
     - link: 
-      alt: Mr. He Zhiyuan
+      alt: Mr. HE Zhiyuan
       description: |-
         ### <a href="">Mr. He Zhiyuan</a> 
         [![orcid](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/xxx)
@@ -119,98 +119,9 @@
 
 - title: Undergraduate Intern
   images:
-    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Mr. Aw Xin Zhong
-      description: |-
-        ### <a href="https://www.linkedin.com/in/xin-zhong-aw-8a8393232/">Mr. Aw Xin Zhong</a> 
-        #### About
-        Mr. Aw Xin Zhong is an undergrad intern student at NDL, NTU.
-      ratio: is-1by1
-    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Mr. Chua Wei Liang
-      description: |-
-        ### <a href="https://www.linkedin.com/in/weiliangchua99/">Mr. Chua Wei Liang</a> 
-        #### About
-        Mr. Chua Wei Liang is an undergrad intern student at NDL, NTU.
-      ratio: is-1by1
-    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Mr. Chua Zong Xian
-      description: |-
-        ### Mr. Chua Zong Xian
-        #### About
-        Mr. Chua Zong Xian is an undergrad intern student at NDL, NTU.
-      ratio: is-1by1
-    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Mr. Goh Zu Hong
-      description: |-
-        ### <a href="https://www.linkedin.com/in/goodboyzuzu/">Mr. Goh Zu Hong</a> 
-        #### About
-        Mr. Goh Zu Hong is an undergrad intern student at NDL, NTU.
-      ratio: is-1by1
-    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Mr. Loh Zhen Xuan
-      description: |-
-        ### Mr. Loh Zhen Xuan
-        #### About
-        Mr. Loh Zhen Xuan is an undergrad intern student at NDL, NTU.
-      ratio: is-1by1
-    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Mr. Tan Teng Kiat Darel
-      description: |-
-        ### <a href="https://www.linkedin.com/in/darel-tan//">Mr. Tan Teng Kiat Darel</a> 
-        #### About
-        Mr. Tan Teng Kiat Darel is an undergrad intern student at NDL, NTU.
-      ratio: is-1by1
-    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Ms. Tee Xiao Hui Sherry
-      description: |-
-        ### <a href="https://www.linkedin.com/in/sherry-tee-037269209/">Ms. Tee Xiao Hui Sherry</a> 
-        #### About
-        Ms. Tee Xiao Hui Sherry is an undergrad intern student at NDL, NTU.
-      ratio: is-1by1
-    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Ms. Toh Sio Huan
-      description: |-
-        ### Mr. Toh Sio Huan
-        #### About
-        Mr. Toh Sio Huan is an undergrad intern student at NDL, NTU.
-      ratio: is-1by1
     
 - title: Alumni
   images:
-    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Mr. LIM BOON WEE
-      description: |-
-        ### <a href="https://www.linkedin.com/in/lim-boon-wee/">Mr. LIM BOON WEE</a> 
-        [![linkdedin](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cib-linkedin_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-linkedin_%28CoreUI_Icons_v1.0.0%29.svg.png)](https://www.linkedin.com/in/lim-boon-wee/)
-        #### About
-        Mr. LIM BOON WEE was an undergrad intern student at NDL, NTU. He is now working as Cloud Engineer at ST Engineering.
-        ![ST Engineering](https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/ST_Engineering_Logo.svg/250px-ST_Engineering_Logo.svg.png)
-      ratio: is-1by1
-    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Mr. PANG YONG LIANG
-      description: |-
-        ### <a href="https://www.linkedin.com/in/pang-yong-liang-a85340132/">Mr. PANG YONG LIANG</a> 
-        [![linkdedin](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cib-linkedin_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-linkedin_%28CoreUI_Icons_v1.0.0%29.svg.png)](https://www.linkedin.com/in/pang-yong-liang-a85340132/)
-        #### About
-        Mr. PANG YONG LIANG was an undergrad intern student at NDL, NTU.
-      ratio: is-1by1
-    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Mr. TEO BOON HONG
-      description: |-
-        ### <a href="https://www.linkedin.com/in/boon-hong-teo/">Mr. TEO BOON HONG</a> 
-        [![linkdedin](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cib-linkedin_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-linkedin_%28CoreUI_Icons_v1.0.0%29.svg.png)](https://www.linkedin.com/in/boon-hong-teo/)
-        #### About
-        Mr. TEO BOON HONG was an undergrad intern student at NDL, NTU.
-      ratio: is-1by1
-    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Mr. THAW TINT TE TUN
-      description: |-
-        ### <a href="https://www.linkedin.com/in/thaw-tint-te-tun/">Mr. THAW TINT TE TUN</a> 
-        [![linkdedin](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Cib-linkedin_%28CoreUI_Icons_v1.0.0%29.svg/32px-Cib-linkedin_%28CoreUI_Icons_v1.0.0%29.svg.png)](https://www.linkedin.com/in/thaw-tint-te-tun/)
-        #### About
-        Mr. THAW TINT TE TUN was an undergrad intern student at NDL, NTU. He is now a PhD student at NUS ECE.
-      ratio: is-1by1   
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
@@ -219,7 +130,7 @@
         #### Research Topic
         Negative photoconductivity of soft-breakdown wide bandgap oxides 
         ![Micron](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Micron_Technology_logo.svg/2560px-Micron_Technology_logo.svg.png)
-      ratio: is-16by9
+      ratio: is-16by9  
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumini
       description: |-
