@@ -19,7 +19,8 @@ dismissable="true" %}
 
 * [Shared Literatures](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Repositories/SharedLiterature?csf=1&web=1&e=7lOGxB)
 * [Meeting Repos](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Weekly%20Meeting?csf=1&web=1&e=CYi5pl)
-* [Simulation](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Repositories/Simulation?csf=1&web=1&e=SH65ij)
+<!-- * [Simulation](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Repositories/Simulation?csf=1&web=1&e=SH65ij) -->
+* [Group Publications](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Group%20Publications?csf=1&web=1&e=HDjZbG)
 
 ### [Fabrication Documents](https://entuedu.sharepoint.com/:f:/r/teams/NeuromorphicDeviceLab/Shared%20Documents/Repositories/Fabrication?csf=1&web=1&e=ip6kCc)
 

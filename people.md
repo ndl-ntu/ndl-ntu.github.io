@@ -17,6 +17,7 @@ show_sidebar: false
 * Mr. Goh Zu Hong
 * Mr. Loh Zhen Xuan
 * [Mr. Tan Teng Kiat Darel](https://www.linkedin.com/in/darel-tan/) (AMD)
+* Mr. Wee Jun Lin
 * Ms. Tee Xiao Hui Sherry
 * Ms. Toh Sio Huan
 
