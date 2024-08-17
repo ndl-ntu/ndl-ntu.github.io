@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "[Res]JMST: Emulation of short-term and long-term synaptic plasticity with high uniformity in chalcogenide-based diffusive memristor device for neuromorphic applications"
+date:   2024-08-17 8:00:00
+categories: Publications
+description: "WTe2 chalcogenide-based diffusive memristor devices are fabricated. Volatile and nonvolatile switching characteristics were achieved in the chalcogenide-based diffusive memristor device.The Wte2 diffusive memristor provides a distinct solution to the common problems of variability in electronic synaptic devices.  The Wte2 switching material provided a high level of switching uniformity, allowing for the emulation of numerous crucial biological synaptic functions with both short- and longterm synaptic behaviors with high uniformity. A higher recognition accuracy of ∼92% is attained for pattern recognition using the MNIST handwritten digits."
+image: 'https://ars.els-cdn.com/content/image/X10050302.jpg'
+published: true
+
+
+---
+
+Haider Abbas*, Jiayi Li, Asif Ali, Sajjad Hussain, Jongwan Jung, and Diing Shenp Ang*
+
+---
+
+## Abstract
+
+Emerging bio-inspired computing systems simulate the cognitive functions of the brain for the realization of future computing systems. For the development of such efficient neuromorphic electronics, the emulation of short-term and long-term synaptic plasticity behaviors of the biological synapses is an essential step. However, the electronic synaptic devices suffer from higher variability issues which hinder the application of such devices to build neuromorphic systems. For practical applications, it is essential to minimize the cycle-to-cycle and device-to-device variations in the synaptic functions of artificial electronic synapses. This study involves the fabrication of diffusive memristor devices using Wte2 chalcogenide as the main switching material. The choice of the switching material provides a facile solution to the variability problem. The greater uniformity in the switching characteristics of the Wte2-based memristor offers higher uniformity for the synaptic emulation. These devices exhibit both volatile and nonvolatile switching properties, allowing them to emulate both short-term and long-term synaptic functions. The Wte2-based electronic synaptic devices present a high degree of uniformity for the emulation of various essential biological synaptic functions including short-term potentiation (STP), long-term potentiation (LTP), long-term depression (LTD), spike-rate-dependent plasticity (SRDP), and spike-timing-dependent plasticity (STDP). A higher recognition accuracy of ∼92% is attained for pattern recognition using the modified National Institute of Standards and Technology (MNIST) handwritten digits, which is attributed to the enhanced linearity and higher uniformity of LTP/LTD characteristics.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S1005030224007941-ga1_lrg.jpg)
+
+
+## Access [HERE](https://www.sciencedirect.com/science/article/abs/pii/S1005030224007941)
+
+![JMST](https://ars.els-cdn.com/content/image/X10050302.jpg)
