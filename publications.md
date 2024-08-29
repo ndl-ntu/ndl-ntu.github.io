@@ -25,19 +25,7 @@ tabs:
 
 ### 2023
 
-* Li, Jiayi, Haider Abbas, Diing Shenp Ang, Asif Ali, and Xin Ju. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. **Nanoscale Horizons** (2023). [doi: 10.1039/D3NH00180F](https://doi.org/10.1039/D3NH00180F){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1039/D3NH00180F" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<a class="__dimensions_badge_embed__" 
-   data-doi="10.1039/D3NH00180F" 
-   data-style="small_rectangle">
-</a>
-
-<p>
-    Li, Jiayi, Haider Abbas, Diing Shenp Ang, Asif Ali, and Xin Ju. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. 
-    <strong>Nanoscale Horizons</strong> (2023). 
-    <a href="https://doi.org/10.1039/D3NH00180F" target="_blank">doi: 10.1039/D3NH00180F</a> 
-    <span class="__dimensions_badge_embed__" data-doi="10.1039/D3NH00180F" data-style="small_circle"></span>
-</p>
+* Li, Jiayi, Haider Abbas, Diing Shenp Ang, Asif Ali, and Xin Ju. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. **Nanoscale Horizons** (2023). [doi: 10.1039/D3NH00180F](https://doi.org/10.1039/D3NH00180F){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1039/D3NH00180F" data-style="__dimensions_badge_embed__"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Xu, Y., Chen, R., Jiang, S., Zhou, L., Jiang, T., Gu, C., Ang, D. S., Petti, L., Zhang, Q., Shen, X., Han, J., & Zhou, J. (2023). Insights into the Semiconductor SERS Activity: The Impact of the Defect-Induced Energy Band Offset and Electron Lifetime Change. **ACS Applied Materials & Interfaces**. [doi: 10.1021/acsami.3c06363](https://doi.org/10.1021/acsami.3c06363){:target="_blank"}
 
