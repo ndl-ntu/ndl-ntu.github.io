@@ -54,7 +54,7 @@ tabs:
    data-style="small_rectangle">
 </a>
 
-* X. Ju and D. S. Ang, "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor," in **IEEE Electron Device Letters**, vol. 43, no. 5, pp. 793-796, May 2022, [doi: 10.1109/LED.2022.3162639](https://ieeexplore.ieee.org/abstract/document/9743457){:target="_blank"}.
+* X. Ju and D. S. Ang, "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor," in **IEEE Electron Device Letters**, vol. 43, no. 5, pp. 793-796, May 2022, [doi: 10.1109/LED.2022.3162639](https://ieeexplore.ieee.org/abstract/document/9743457){:target="_blank"}. <span class="__dimensions_badge_embed__" data-doi="10.1109/LED.2022.3162639" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ### 2021
 
