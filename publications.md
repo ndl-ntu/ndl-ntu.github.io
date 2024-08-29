@@ -10,9 +10,6 @@ tabs:
 
 ### 2024
 * Haider Abbas, Jiayi Li, Asif Ali, ..., Ang, D.S., 2024. Emulation of short-term and long-term synaptic plasticity with high uniformity in chalcogenide-based diffusive memristor device for neuromorphic applications. **Journal of Materials Science & Technology**, TBA. [doi: 10.1016/j.jmst.2024.07.033](https://doi.org/10.1016/j.jmst.2024.07.033){:target="_blank"}
-
-<iframe  height="50" data="http://api.elsevier.com/content/abstract/citation-count?doi=10.1016/j.jmst.2024.07.033&httpAccept=text/html&apiKey=9c7124b24ddac85546a2bfeac451fdc4"></iframe>
-
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <a class="__dimensions_badge_embed__" 
    data-doi="10.1016/j.jmst.2024.07.033" 
@@ -20,22 +17,47 @@ tabs:
 </a>
 
 * Yuan, K., ..., Ang, D.S. and Gu, C., 2024. A WOx/MoOx hybrid oxide based SERS FET and investigation on its tunable SERS performance. Physical Chemistry Chemical Physics, 26(14), pp.10814-10823. [doi: 10.1039/D4CP00641K](https://doi.org/10.1039/D4CP00641K){:target="_blank"}
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<a class="__dimensions_badge_embed__" 
+   data-doi="10.1039/D4CP00641K" 
+   data-style="small_rectangle">
+</a>
 
 ### 2023
 
 * Li, Jiayi, Haider Abbas, Diing Shenp Ang, Asif Ali, and Xin Ju. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. **Nanoscale Horizons** (2023). [doi: 10.1039/D3NH00180F](https://doi.org/10.1039/D3NH00180F){:target="_blank"}
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<a class="__dimensions_badge_embed__" 
+   data-doi="10.1039/D3NH00180F" 
+   data-style="small_rectangle">
+</a>
 
 * Xu, Y., Chen, R., Jiang, S., Zhou, L., Jiang, T., Gu, C., Ang, D. S., Petti, L., Zhang, Q., Shen, X., Han, J., & Zhou, J. (2023). Insights into the Semiconductor SERS Activity: The Impact of the Defect-Induced Energy Band Offset and Electron Lifetime Change. **ACS Applied Materials & Interfaces**. [doi: 10.1021/acsami.3c06363](https://doi.org/10.1021/acsami.3c06363){:target="_blank"}
 
 * Asif Ali, Haider Abbas, Jiayi Li, Diing Shenp Ang; GeS conducting-bridge resistive memory device with IGZO buffer layer for highly uniform and repeatable switching. **Appl. Phys. Lett.** 15 May 2023; 122 (20): 203503. [doi: 10.1063/5.0149760](https://doi.org/10.1063/5.0149760){:target="_blank"}
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<a class="__dimensions_badge_embed__" 
+   data-doi="10.1063/5.0149760" 
+   data-style="small_rectangle">
+</a>
 
 * Abbas, H.\*, Ali, A., Li, J., Tun, T. T. T. & Ang, D. S.\* Forming-free, Self-compliance WTe2-based Conductive Bridge RAM with Highly Uniform Multilevel Switching for High-density Memory. **IEEE Electron Device Letters**, vol. 44, no. 2, pp. 253-256, Feb. 2023, [doi: 10.1109/LED.2022.3231646](https://ieeexplore.ieee.org/document/9997563){:target="_blank"}
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<a class="__dimensions_badge_embed__" 
+   data-doi="10.1109/LED.2022.3231646" 
+   data-style="small_rectangle">
+</a>
 
 * Huang, X., Wang, F., Ma, L., Wang, J., Zhang, T., Hao, X., ... & Ang, D. S. (2023). Reversion of catalyst valence states for highly efficient water oxidation. Catalysis Science & Technology.
 
 ### 2022
 
 * Abbas, H., Li, J. & Ang, D. S. Conductive Bridge Random Access Memory (CBRAM): Challenges and Opportunities for Memory and Neuromorphic Computing Applications. Micromachines 13, 725, [doi:10.3390/mi13050725](https://www.mdpi.com/2072-666X/13/5/725){:target="_blank"} (2022).**[invited]**
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<a class="__dimensions_badge_embed__" 
+   data-doi="10.3390/mi13050725" 
+   data-style="small_rectangle">
+</a>
 
 * X. Ju and D. S. Ang, "Synapse and Tunable Leaky-Integrate Neuron Functions Enabled by Oxide Trapping Dynamics in a Single Logic Transistor," in **IEEE Electron Device Letters**, vol. 43, no. 5, pp. 793-796, May 2022, [doi: 10.1109/LED.2022.3162639](https://ieeexplore.ieee.org/abstract/document/9743457){:target="_blank"}.
 
