@@ -9,19 +9,9 @@ tabs:
 ## Publications
 
 ### 2024
-* Haider Abbas, Jiayi Li, Asif Ali, ..., Ang, D.S., 2024. Emulation of short-term and long-term synaptic plasticity with high uniformity in chalcogenide-based diffusive memristor device for neuromorphic applications. **Journal of Materials Science & Technology**, TBA. [doi: 10.1016/j.jmst.2024.07.033](https://doi.org/10.1016/j.jmst.2024.07.033){:target="_blank"}
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<a class="__dimensions_badge_embed__" 
-   data-doi="10.1016/j.jmst.2024.07.033" 
-   data-style="small_rectangle">
-</a>
+* Haider Abbas, Jiayi Li, Asif Ali, ..., Ang, D.S., 2024. Emulation of short-term and long-term synaptic plasticity with high uniformity in chalcogenide-based diffusive memristor device for neuromorphic applications. **Journal of Materials Science & Technology**, TBA. [doi: 10.1016/j.jmst.2024.07.033](https://doi.org/10.1016/j.jmst.2024.07.033){:target="_blank"} <span class="small_rectangle" data-doi="10.1016/j.jmst.2024.07.033" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Yuan, K., ..., Ang, D.S. and Gu, C., 2024. A WOx/MoOx hybrid oxide based SERS FET and investigation on its tunable SERS performance. Physical Chemistry Chemical Physics, 26(14), pp.10814-10823. [doi: 10.1039/D4CP00641K](https://doi.org/10.1039/D4CP00641K){:target="_blank"}
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<a class="__dimensions_badge_embed__" 
-   data-doi="10.1039/D4CP00641K" 
-   data-style="small_rectangle">
-</a>
+* Yuan, K., ..., Ang, D.S. and Gu, C., 2024. A WOx/MoOx hybrid oxide based SERS FET and investigation on its tunable SERS performance. Physical Chemistry Chemical Physics, 26(14), pp.10814-10823. [doi: 10.1039/D4CP00641K](https://doi.org/10.1039/D4CP00641K){:target="_blank"} <span class="small_rectangle" data-doi="10.1039/D4CP00641K" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ### 2023
 
