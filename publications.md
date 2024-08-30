@@ -63,7 +63,7 @@ tabs:
 
 * Ju, X., Ang, D. S., & Gu, C. (2020). Impact of Channel Hot-Hole Stressing on Gate-Oxide Trap’s Emission. **IEEE Transactions on Electron Devices**, 67(11), 4720-4727. [10.1109/ted.2020.3019982](https://doi.org/10.1109/ted.2020.3019982){:target="_blank"} <span class="small_rectangle" data-doi="10.1109/ted.2020.3019982" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Ju, X., & Ang, D. S. (2020). Alteration of Gate-Oxide Trap Capture/Emission Time Constants by Channel Hot-Carrier Effect in the Metal-Oxide-Semiconductor Field-Effect Transistor. IEEE Access, 8, 14048-14053. [10.1109/access.2020.2966577](https://doi.org/10.1109/access.2020.2966577){:target="_blank"}
+* Ju, X., & Ang, D. S. (2020). Alteration of Gate-Oxide Trap Capture/Emission Time Constants by Channel Hot-Carrier Effect in the Metal-Oxide-Semiconductor Field-Effect Transistor. IEEE Access, 8, 14048-14053. [10.1109/access.2020.2966577](https://doi.org/10.1109/access.2020.2966577){:target="_blank"} <span class="small_rectangle" data-doi="10.1109/access.2020.2966577" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Ju, X., & Ang, D. S. (2020, 2020-04-01). Gate-Oxide Trapping Enabled Synaptic Logic Transistor. 2020 IEEE International Reliability Physics Symposium (IRPS)
 
