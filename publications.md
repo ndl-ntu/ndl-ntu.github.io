@@ -57,6 +57,8 @@ tabs:
 * Xu, Y., Lai, K., Gu, C., Jiang, T., Shen, X., Zeng, S., Ho, A.H., Ang, D.S. and Zhou, J. (2021), Electrical Tuning of MoOx/Ag Hybrids and Investigation of their Surface-Enhanced Raman Scattering Performance. Phys. Status Solidi RRL, 15: 2000499. [pssr.202000499](https://doi.org/10.1002/pssr.202000499){:target="_blank"} <span class="small_rectangle" data-doi="10.1002/pssr.202000499" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
+
+
 ### 2020
 
 * Kumar, D., Kalaga, P. S., & Ang, D. S. (2020). Visible Light Detection and Memory Capabilities in MgO/HfO₂ Bilayer-Based Transparent Structure for Photograph Sensing. **IEEE Transactions on Electron Devices**, 67(10), 4274-4280. [10.1109/ted.2020.3014271](https://doi.org/10.1109/ted.2020.3014271){:target="_blank"} <span class="small_rectangle" data-doi="10.1109/ted.2020.3014271" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
