@@ -20,7 +20,7 @@ tabs:
 
 * Li, Jiayi, Haider Abbas, Diing Shenp Ang, Asif Ali, and Xin Ju. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. **Nanoscale Horizons** (2023). [doi: 10.1039/D3NH00180F](https://doi.org/10.1039/D3NH00180F){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1039/D3NH00180F" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Xu, Y., Chen, R., Jiang, S., Zhou, L., Jiang, T., Gu, C., Ang, D. S., Petti, L., Zhang, Q., Shen, X., Han, J., & Zhou, J. (2023). Insights into the Semiconductor SERS Activity: The Impact of the Defect-Induced Energy Band Offset and Electron Lifetime Change. **ACS Applied Materials & Interfaces**. [doi: 10.1021/acsami.3c06363](https://doi.org/10.1021/acsami.3c06363){:target="_blank"}
+* Xu, Y., Chen, R., Jiang, S., Zhou, L., Jiang, T., Gu, C., Ang, D. S., Petti, L., Zhang, Q., Shen, X., Han, J., & Zhou, J. (2023). Insights into the Semiconductor SERS Activity: The Impact of the Defect-Induced Energy Band Offset and Electron Lifetime Change. **ACS Applied Materials & Interfaces**. [doi: 10.1021/acsami.3c06363](https://doi.org/10.1021/acsami.3c06363){:target="_blank"}<span class="__dimensions_badge_embed__" data-doi="10.1021/acsami.3c06363" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Asif Ali, Haider Abbas, Jiayi Li, Diing Shenp Ang; GeS conducting-bridge resistive memory device with IGZO buffer layer for highly uniform and repeatable switching. **Appl. Phys. Lett.** 15 May 2023; 122 (20): 203503. [doi: 10.1063/5.0149760](https://doi.org/10.1063/5.0149760){:target="_blank"}
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -187,7 +187,7 @@ tabs:
 
 * H. Z. Zhang*, D. S. Ang, C. J. Gu*, K. S. Yew#, X. P. Wang, and G. Q. Lo, “Role of interfacial layer on complementary resistive switching in the TiN/HfOx/TiN resistive memory device,” **Applied Physics Letters**, vol. 105, no. 22, art no. 222106, Dec. 2014.
 
-* T. L. Duan*, J. S. Pan, and D. S. Ang, “Interfacial chemistry and valence band offset between GaN and Al2O3 studied by X-ray photoelectron spectroscopy,” **Applied Physics Letters**, vol. 102, no. 20, art. no. 201604, May 2013.
+* T. L. Duan*, J. S. Pan, and D. S. Ang, “Interfacial chemistry and valence band offset between GaN and Al2O3 studied by X-ray photoelectron spectroscopy,” **Applied Physics Letters**, vol. 102, no. 20, art. no. 201604, May 2013. <span class="__dimensions_badge_embed__" data-doi="10.1063/1.4807736" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * T. L. Duan* and D. S. Ang, “Capacitance hysteresis in the high-k/metal gate stack from pulsed measurement,” **IEEE Transactions on Electron Devices**, vol. 60, no. 4, pp. 1349-1354, Apr. 2013.
 
@@ -233,7 +233,7 @@ tabs:
 
 * S. Wang*, D. S. Ang, and G. A. Du*, “Effect of nitrogen on the frequency dependence of dynamic NBTI induced threshold voltage shift of the ultra-thin oxynitride gate P-MOSFET,” **IEEE Electron Device Letters**, vol. 29, no. 5, pp. 483-486, May 2008.
 	
-* (Invited) D. S. Ang, S. Wang*, G. A. Du*, and Y. Z. Hu*, “A consistent deep-level hole trapping model for negative-bias temperature instability,” IEEE Transactions on Device and Materials Reliability, vol. 8, no. 1, pp. 22-34, Mar. 2008. 
+* (Invited) D. S. Ang, S. Wang*, G. A. Du*, and Y. Z. Hu*, “A consistent deep-level hole trapping model for negative-bias temperature instability,” IEEE Transactions on Device and Materials Reliability, vol. 8, no. 1, pp. 22-34, Mar. 2008. <span class="__dimensions_badge_embed__" data-doi="10.1109/TDMR.2007.912275" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Y. C. Ong*, D. S. Ang, K. L. Pey, Z. R. Wang, S. J. O’Shea, C. H. Tung, T. Kawanago, K. Kakushima, and H. Iwai, “Electronic trap characterization of the Sc2O3/La2O3 high- gate stack by scanning tunneling microscopy,” **Applied Physics Letters**, vol. 92, no. 2, art. no. 022904, Jan. 2008. 
 
