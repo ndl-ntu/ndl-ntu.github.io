@@ -10,7 +10,7 @@ tabs:
 
 ### 2024
 
-* Haizhong Zhang, Jiayi Li, Xin Ju, ..., Diing Shenp Ang, Wei Hu, ..., Highly textured CMOS-compatible hexagonal boron nitride-based neuristor for reservoir computing. **Chemical Engineering Journal**. 2024. 155651. [10.1016/j.cej.2024.155651](https://doi.org/10.1016/j.cej.2024.155651){:target="_blank"}<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cej.2024.155651" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Haizhong Zhang, Jiayi Li, Xin Ju, ..., Diing Shenp Ang, ..., Highly textured CMOS-compatible hexagonal boron nitride-based neuristor for reservoir computing. **Chemical Engineering Journal**. 2024. 155651. [10.1016/j.cej.2024.155651](https://doi.org/10.1016/j.cej.2024.155651){:target="_blank"}<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cej.2024.155651" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
   
 * Haider Abbas, Jiayi Li, Asif Ali, ..., Ang, D.S., 2024. Emulation of short-term and long-term synaptic plasticity with high uniformity in chalcogenide-based diffusive memristor device for neuromorphic applications. **Journal of Materials Science & Technology**, TBA. [doi: 10.1016/j.jmst.2024.07.033](https://doi.org/10.1016/j.jmst.2024.07.033){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jmst.2024.07.033" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
