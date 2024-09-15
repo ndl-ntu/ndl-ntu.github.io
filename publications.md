@@ -18,9 +18,9 @@ tabs:
 
 ### 2023
 
-* Li, Jiayi, Haider Abbas, Diing Shenp Ang, Asif Ali, and Xin Ju. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. **Nanoscale Horizons** (2023). [doi: 10.1039/D3NH00180F](https://doi.org/10.1039/D3NH00180F){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1039/D3NH00180F" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Li, Jiayi, Haider Abbas, Diing Shenp Ang, Asif Ali, and Xin Ju. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. **Nanoscale Horizons** (2023). [doi: 10.1039/D3NH00180F](https://doi.org/10.1039/D3NH00180F) [**Nanoscale Horizons Highly Cited Articles**]{:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1039/D3NH00180F" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Xu, Y., Chen, R., Jiang, S., Zhou, L., Jiang, T., Gu, C., Ang, D. S., Petti, L., Zhang, Q., Shen, X., Han, J., & Zhou, J. (2023). Insights into the Semiconductor SERS Activity: The Impact of the Defect-Induced Energy Band Offset and Electron Lifetime Change. **ACS Applied Materials & Interfaces**. [doi: 10.1021/acsami.3c06363](https://doi.org/10.1021/acsami.3c06363){:target="_blank"}
+* Xu, Y., ..., Ang, D. S., ... (2023). Insights into the Semiconductor SERS Activity: The Impact of the Defect-Induced Energy Band Offset and Electron Lifetime Change. **ACS Applied Materials & Interfaces**. [doi: 10.1021/acsami.3c06363](https://doi.org/10.1021/acsami.3c06363){:target="_blank"}
 
 * Asif Ali, Haider Abbas, Jiayi Li, Diing Shenp Ang; GeS conducting-bridge resistive memory device with IGZO buffer layer for highly uniform and repeatable switching. **Appl. Phys. Lett.** 15 May 2023; 122 (20): 203503. [doi: 10.1063/5.0149760](https://doi.org/10.1063/5.0149760){:target="_blank"}
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -36,7 +36,7 @@ tabs:
    data-style="small_rectangle">
 </a>
 
-* Huang, X., Wang, F., Ma, L., Wang, J., Zhang, T., Hao, X., ... & Ang, D. S. (2023). Reversion of catalyst valence states for highly efficient water oxidation. Catalysis Science & Technology.
+* Huang, X., Wang, F., Ma, L., Wang, J., Zhang, T., Hao, X., ... & Ang, D. S. (2023). Reversion of catalyst valence states for highly efficient water oxidation. Catalysis Science & Technology. [10.1039/d3cy00217a](https://doi.org/10.1039/d3cy00217a){:target="_blank"}. <span class="__dimensions_badge_embed__" data-doi="10.1116/6.0001186" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ### 2022
 
