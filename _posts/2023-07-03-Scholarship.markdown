@@ -31,8 +31,8 @@ Ph.D. research scholarship funded by Singapore Economic Development Board and **
 
 | ![EDB](https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/EDB_2021_logo.svg/400px-EDB_2021_logo.svg.png) | ![GF](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/500px-GlobalFoundries_logo.svg.png) | ![STM](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ST_logo_2020_blue_V.svg/440px-ST_logo_2020_blue_V.svg.png) |
 
-| <img src="[path_to_graph_1](https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/EDB_2021_logo.svg/400px-EDB_2021_logo.svg.png)" width="600"/> |
-|<img src="[path_to_graph_1](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/500px-GlobalFoundries_logo.svg.png)" width="300"/>|<img src="[path_to_graph_1](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ST_logo_2020_blue_V.svg/440px-ST_logo_2020_blue_V.svg.png)" width="300"/>|
+| <img src="[https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/EDB_2021_logo.svg/400px-EDB_2021_logo.svg.png" width="600"/> |
+|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/500px-GlobalFoundries_logo.svg.png" width="300"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ST_logo_2020_blue_V.svg/440px-ST_logo_2020_blue_V.svg.png" width="300"/>|
 
 ### Research topics:
 
