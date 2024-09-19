@@ -41,7 +41,7 @@
 
 - title: Graduate Research Student
   images:
-    - link: 
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Mr. Elliot SEW
       description: |-
         ### <a href="https://www.linkedin.com/in/elliot-seow-662153202/">Mr. Elliot SEW</a> 
@@ -64,7 +64,7 @@
         * <p align = "justify"> Li, Jiayi, et al. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. Nanoscale Horizons (2023). <a href="https://doi.org/10.1039/D3NH00180F">online</a></p>
         * <p align = "justify"> Abbas, H., Li, Jiayi. & Ang, D. S. Conductive Bridge Random Access Memory (CBRAM): Challenges and Opportunities for Memory and Neuromorphic Computing Applications. Micromachines 13, 725, <a href="https://www.mdpi.com/2072-666X/13/5/725">online</a></p>
       ratio: is-16by9
-    - link: 
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Mr. LIAO Jia Hui
       description: |-
         ### <a href="https://www.linkedin.com/in/jia-hui-liao-87303020a/">Mr. LIAO Jia Hui</a> 
@@ -74,7 +74,7 @@
         #### About
         Mr. Liao Jia Hui obtained his B.Eng degree from NTU in 2024. He is now a PhD student at Nanyang Technological University, Singapore.
       ratio: is-16by9
-    - link: 
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Mr. JI Bolin
       description: |-
         ### <a href="">JI Bolin</a> 
@@ -84,7 +84,7 @@
         #### About
         Mr. Ji Bolin obtained his B.Eng degree from Xidian University, China in 2024. He is now a MSc. student (Electronics) at Nanyang Technological University, Singapore.
       ratio: is-16by9
-    - link: 
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Mr. HE Zhiyuan
       description: |-
         ### <a href="">Mr. HE Zhiyuan</a> 
@@ -94,7 +94,7 @@
         #### About
         Mr. He Zhiyuan obtained his B.Eng degree from Huazhong University of Science and Technology, China in 2024. He is now a MSc. student (Electronics) at Nanyang Technological University, Singapore.
       ratio: is-16by9
-    - link: 
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Mr. ZHANG Chen
       description: |-
         ### <a href="">Mr. ZHANG Chen</a> 
