@@ -25,7 +25,7 @@ Scholarships now available for **Aug 2024 admission**. On-line application deadl
  
 Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) or **talk with us**.
 
-## Singaporeans/ Singapore Permanent Residents
+## Industrial Postgraduate Programme (IPP) (for Singaporeans/ Singapore Permanent Residents)
 
 Ph.D. research scholarship funded by Singapore Economic Development Board and **GlobalFoundries Singapore** or **ST Microelectronics** are also available for **Singaporeans/PRs**.
 
