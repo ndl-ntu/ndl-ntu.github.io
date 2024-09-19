@@ -29,14 +29,7 @@ Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/progr
 
 Ph.D. research scholarship funded by Singapore Economic Development Board and **GlobalFoundries Singapore** or **ST Microelectronics** are also available for **Singaporeans/PRs**.
 
-<div style="display: flex; justify-content: space-around;">
-    <div style="width: 45%;">
-        ![Graph 1](https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/EDB_2021_logo.svg/400px-EDB_2021_logo.svg.png)
-    </div>
-    <div style="width: 45%;">
-        ![Graph 2](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/500px-GlobalFoundries_logo.svg.png)
-    </div>
-</div>
+| ![Graph 1]([path_to_graph_1](https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/EDB_2021_logo.svg/400px-EDB_2021_logo.svg.png)) | ![Graph 2]([path_to_graph_2](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/500px-GlobalFoundries_logo.svg.png)) |
 
 ### Research topics:
 
