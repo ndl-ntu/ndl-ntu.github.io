@@ -11,9 +11,9 @@ tabs:
 ### 2024
 
 * <ins>Asif Ali</ins>, Haider Abbas, Jiayi Li, and Diing Shenp Ang. Ag/GeS/Ag Bidirectional Conductive-Bridge Selector with High Endurance, Low Turn-Off Latency and Switching Variability. 2024 International Conference on Solid State Devices and Materials (SSDM 2024). Hyogo, Japan.
-* **INVITED TALK** <ins>Diing Shenp Ang</ins>. Chalcogenide based Conductive Bridge Resistive Switching Device for Universal Storage Memory – Opportunities and Challenges. Global Conference on Innovation Materials 2024 (GCIM 2024). Jeju, Korea
-* **Best Paper Award** Silicon FET reservoir for dynamic EDGE vision. <ins>D. S. Ang</ins>, **X. Y. Lin**, X. Ju, and J. Y. Li. Smart System Integration 2024 (SSI 2024). Hamburg, Germany.
-* **INVITED TALK** <ins>Diing Shenp Ang</ins>. Chalcogenide based Conductive Bridge Resistive Switching Device for Universal Storage Memory – Opportunities and Challenges. 1st Open BRICS Conference on Smart Materials and Devices 2024. Shenzhen, China
+* **[INVITED TALK]** <ins>Diing Shenp Ang</ins>. Chalcogenide based Conductive Bridge Resistive Switching Device for Universal Storage Memory – Opportunities and Challenges. Global Conference on Innovation Materials 2024 (GCIM 2024). Jeju, Korea
+* **[Best Paper Award]** Silicon FET reservoir for dynamic EDGE vision. <ins>D. S. Ang</ins>, **X. Y. Lin**, X. Ju, and J. Y. Li. Smart System Integration 2024 (SSI 2024). Hamburg, Germany.
+* **[INVITED TALK]** <ins>Diing Shenp Ang</ins>. Chalcogenide based Conductive Bridge Resistive Switching Device for Universal Storage Memory – Opportunities and Challenges. 1st Open BRICS Conference on Smart Materials and Devices 2024. Shenzhen, China
 
 ### 2023
 
