@@ -27,7 +27,7 @@ Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/progr
 
 ## Industrial Postgraduate Programme (IPP) (for Singaporeans/ Singapore Permanent Residents)
 
-Ph.D. research scholarship funded by Singapore Economic Development Board and **GlobalFoundries Singapore** or **ST Microelectronics** are also available for **Singaporeans/PRs**.
+[Industrial Postgraduate Programme (IPP)](https://www.ntu.edu.sg/graduate-college/admissions/programme/industrial-postgraduate-programme-(ipp)) based Ph.D. research scholarship funded by Singapore Economic Development Board and **GlobalFoundries Singapore** or **ST Microelectronics** are also available for **Singaporeans/PRs**.
 
 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/EDB_2021_logo.svg/400px-EDB_2021_logo.svg.png" width="100" style="display: block; margin: auto;"/> |
 
