@@ -23,11 +23,11 @@ Scholarships now available for **Aug 2024 admission**. On-line application deadl
 
 # Interested? Contact us.
  
-Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) or **talk with us**.
+Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission){:target="_blank"} and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide){:target="_blank"} or **talk with us**.
 
 ## Industrial Postgraduate Programme (IPP) (for Singaporeans/ Singapore Permanent Residents)
 
-[Industrial Postgraduate Programme (IPP)](https://www.ntu.edu.sg/graduate-college/admissions/programme/industrial-postgraduate-programme-(ipp)) based Ph.D. research scholarship funded by Singapore Economic Development Board and **GlobalFoundries Singapore** or **ST Microelectronics** are also available for **Singaporeans/PRs**.
+[Industrial Postgraduate Programme (IPP)](https://www.ntu.edu.sg/graduate-college/admissions/programme/industrial-postgraduate-programme-(ipp)){:target="_blank"} based Ph.D. research scholarship funded by Singapore Economic Development Board and **GlobalFoundries Singapore** or **ST Microelectronics** are also available for **Singaporeans/PRs**.
 
 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/EDB_2021_logo.svg/400px-EDB_2021_logo.svg.png" width="100" style="display: block; margin: auto;"/> |
 
@@ -43,8 +43,8 @@ Only eligible to *Singaporeans/Singapore Permanent Residents*. Applicants must h
 
 ## Important Websites
 
-[NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission)
+[NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission){:target="_blank"}
 
-[NTU Online Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide)
+[NTU Online Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide){:target="_blank"}
 
-[Contact us](https://ndl-ntu.github.io/contact/)
+[Contact us](https://ndl-ntu.github.io/contact/){:target="_blank"}
