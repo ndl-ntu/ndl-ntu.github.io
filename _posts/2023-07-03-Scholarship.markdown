@@ -31,7 +31,7 @@ Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/progr
 
 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/EDB_2021_logo.svg/400px-EDB_2021_logo.svg.png" width="100" style="display: block; margin: auto;"/> |
 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/500px-GlobalFoundries_logo.svg.png" width="250" style="display: block; margin: auto;"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ST_logo_2020_blue_V.svg/440px-ST_logo_2020_blue_V.svg.png" width="100" style="display: block; margin: auto;"/> |
+| <a href="https://gf.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/500px-GlobalFoundries_logo.svg.png" width="250" style="display: block; margin: auto;"/></a> | <a href="https://www.st.com/"<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ST_logo_2020_blue_V.svg/440px-ST_logo_2020_blue_V.svg.png" width="100" style="display: block; margin: auto;"/></a> |
 
 ### Research topics:
 
