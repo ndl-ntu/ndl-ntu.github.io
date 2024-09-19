@@ -6,7 +6,7 @@ email: EDSANG at ntu dot edu dot sg
 description: >
   Prof. Ang Diing Shenp Group at Nanyang Technological University(NTU), Singapore.
 baseurl: "/"
-url: "ndl-ntu.com"
+url: "ndl-ntu.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 # gh_sponsor: chrisrhymes

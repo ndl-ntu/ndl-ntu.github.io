@@ -30,12 +30,14 @@
 #     - name: Recipe Page
 #       link: /example-recipe/
 - name: Research
-  link: /highlights/
+  link: /publications/
 - name: Works
   link: /#
   dropdown:
     - name: Publications
       link: /publications/
+    - name: Conferences
+      link: /conferences/      
     - name: Highlights
       link: /highlights/
     # - name: Projects
@@ -50,8 +52,8 @@
   link: /blog/
 - name: Files
   link: /files/
-- name: Booking
-  link: /book/
+# - name: Booking
+#   link: /book/
 - name: Contact Us
   link: /contact/
 - name: Scholarship
