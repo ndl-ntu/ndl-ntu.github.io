@@ -10,7 +10,7 @@ tabs:
 
 ### 2024
 
-* Jiayi Li, Yuxi Guo, Xin Ju, and Diing Shenp Ang. Hyperpolarizing photoreceptor inspired biomimetic energy-saving sensor for dynamic machine vision. **Nano Research**. 2024. [10.26599/NR.2025.94907057](https://doi.org/10.26599/NR.2025.94907057). [Open Access](https://www.sciopen.com/article/pdf/10.26599/NR.2025.94907057.pdf?ifPreview=0)
+* Jiayi Li, Yuxi Guo, Xin Ju, and Diing Shenp Ang. Hyperpolarizing photoreceptor inspired biomimetic energy-saving sensor for dynamic machine vision. **Nano Research**. 2024. [10.26599/NR.2025.94907057](https://doi.org/10.26599/NR.2025.94907057){:target="_blank"}. [[Open Access](https://www.sciopen.com/article/pdf/10.26599/NR.2025.94907057.pdf?ifPreview=0){:target="_blank"}] <span class="__dimensions_badge_embed__" data-doi="10.26599/NR.2025.94907057" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Haizhong Zhang, Jiayi Li, Xin Ju, ..., Diing Shenp Ang, ..., Highly textured CMOS-compatible hexagonal boron nitride-based neuristor for reservoir computing. **Chemical Engineering Journal**. 2024. 155651. [10.1016/j.cej.2024.155651](https://doi.org/10.1016/j.cej.2024.155651){:target="_blank"}<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cej.2024.155651" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
   
