@@ -12,41 +12,6 @@ published: true
 
 ---
 
-<div class="row" data-sf-element="Row">
-    <div id="Content_C196_Col00" class="sf_colsIn col-md-3 col-sm-6" data-sf-element="Column 1" data-placeholder-label="Column 1"><div class="text-icon bg-lightgrey">
-    <div class="text-icon__icon"><img src="" alt=""></div>
-    <p class="text-icon__text">
-            <span class="figure">2<sup>nd</sup></span>
-        <span class="text">2024 QS World University Rankings by Subject in Singapore and Asia</span>
-    </p>
-</div>
-    </div>
-     <div id="Content_C196_Col01" class="sf_colsIn col-md-3 col-sm-6" data-sf-element="Column 2" data-placeholder-label="Column 2"><div class="text-icon bg-lightgrey">
-    <div class="text-icon__icon"><img src="" alt=""></div>
-    <p class="text-icon__text">
-            <span class="figure">10<sup>th</sup></span>
-        <span class="text">2024 QS World University Rankings by Subject</span>
-    </p>
-</div>
-    </div>
-     <div id="Content_C196_Col02" class="sf_colsIn col-md-3 col-sm-6" data-sf-element="Column 3" data-placeholder-label="Column 3"><div class="text-icon bg-lightgrey">
-    <div class="text-icon__icon"><img src="" alt=""></div>
-    <p class="text-icon__text">
-            <span class="figure">1<sup>st</sup></span>
-        <span class="text">2024 Best Global Universities for EEE in US News and World Report</span>
-    </p>
-</div>
-    </div>
-     <div id="Content_C196_Col03" class="sf_colsIn col-md-3 col-sm-6" data-sf-element="Column 4" data-placeholder-label="Column 4"><div class="text-icon bg-lightgrey">
-    <div class="text-icon__icon"><img src="" alt=""></div>
-    <p class="text-icon__text">
-            <span class="figure">7<sup>th</sup></span>
-        <span class="text">2023 Shanghai Ranking&#39;s Global Ranking of Academic Subjects</span>
-    </p>
-</div>
-    </div>
-
-
 ## ALL NATIONALITIES
 
 ### PhD Scholarship Opportunites for Research in the Following Areas:
