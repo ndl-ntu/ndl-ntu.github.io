@@ -12,6 +12,8 @@ published: true
 
 ---
 
+![NTU_EEE](/assets/img/NTU_EEE.png)
+
 ## ALL NATIONALITIES
 
 ### PhD Scholarship Opportunites for Research in the Following Areas:
