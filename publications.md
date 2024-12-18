@@ -19,11 +19,13 @@ tabs:
   
 * Haider Abbas, Jiayi Li, Asif Ali, ..., Ang, D.S., 2024. Emulation of short-term and long-term synaptic plasticity with high uniformity in chalcogenide-based diffusive memristor device for neuromorphic applications. **Journal of Materials Science & Technology**, TBA. [doi: 10.1016/j.jmst.2024.07.033](https://doi.org/10.1016/j.jmst.2024.07.033){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1016/j.jmst.2024.07.033" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Yuan, K., ..., Ang, D.S. and Gu, C., 2024. A WOx/MoOx hybrid oxide based SERS FET and investigation on its tunable SERS performance. Physical Chemistry Chemical Physics, 26(14), pp.10814-10823. [doi: 10.1039/D4CP00641K](https://doi.org/10.1039/D4CP00641K){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1039/D4CP00641K" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script><div class='altmetric-embed' data-doi='10.1039/D4CP00641K'></div>
+* Yuan, K., ..., Ang, D.S. and Gu, C., 2024. A WOx/MoOx hybrid oxide based SERS FET and investigation on its tunable SERS performance. Physical Chemistry Chemical Physics, 26(14), pp.10814-10823. [doi: 10.1039/D4CP00641K](https://doi.org/10.1039/D4CP00641K){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1039/D4CP00641K" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ### 2023
 
 * Li, Jiayi, Haider Abbas, Diing Shenp Ang, Asif Ali, and Xin Ju. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. **Nanoscale Horizons** (2023). [doi: 10.1039/D3NH00180F](https://doi.org/10.1039/D3NH00180F){:target="_blank"} [**Nanoscale Horizons Highly Cited Articles**] <span class="__dimensions_badge_embed__" data-doi="10.1039/D3NH00180F" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* 
+<div class='altmetric-embed' data-doi='10.1039/D3NH00180F'></div>
 
 * Xu, Y., ..., Ang, D. S., ... (2023). Insights into the Semiconductor SERS Activity: The Impact of the Defect-Induced Energy Band Offset and Electron Lifetime Change. **ACS Applied Materials & Interfaces**. [doi: 10.1021/acsami.3c06363](https://doi.org/10.1021/acsami.3c06363){:target="_blank"}
 
