@@ -23,8 +23,9 @@ tabs:
 ### 2023
 
 * Li, Jiayi, Haider Abbas, Diing Shenp Ang, Asif Ali, and Xin Ju. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. **Nanoscale Horizons** (2023). [doi: 10.1039/D3NH00180F](https://doi.org/10.1039/D3NH00180F){:target="_blank"} [**Nanoscale Horizons Highly Cited Articles**]
+
 <span class="__dimensions_badge_embed__" data-doi="10.1039/D3NH00180F" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<div class='altmetric-embed' data-doi='10.1039/D3NH00180F'></div>
+<div data-badge-popover="right" data-badge-type="4" data-doi="10.26599/NR.2025.94907057" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div>
 
 * Xu, Y., ..., Ang, D. S., ... (2023). Insights into the Semiconductor SERS Activity: The Impact of the Defect-Induced Energy Band Offset and Electron Lifetime Change. **ACS Applied Materials & Interfaces**. [doi: 10.1021/acsami.3c06363](https://doi.org/10.1021/acsami.3c06363){:target="_blank"}
 
