@@ -307,4 +307,6 @@ tabs:
 
 * R. Ranjan, K. L. Pey, C. H. Tung, D. S. Ang, L. J. Tang, T. Kauerauf, R. Degraeve, G. Groeseneken, S. De Gendt, and L. K. Bera, “Ultrafast progressive breakdown associated with metal-like filament formation of breakdown path in HfO2/TaN/TiN transistor,” **Applied Physics Letters**., vol. 88, no. 12, art. no. 122907, Mar. 2006.
 
-* R. Ranjan, K. L. Pey, C. H. Tung, L. J. Tang, D. S. Ang, G. Groeseneken, S. De Gendt, and L. K. Bera, “Breakdown-induced thermochemical reactions in HfO2 high-/poly-silicon gate stacks”, **Applied Physics Letters**, vol. 87, no. 24, art. no. 242907, Dec. 2005.
+* R. Ranjan, K. L. Pey, C. H. Tung, L. J. Tang, D. S. Ang, G. Groeseneken, S. De Gendt, and L. K. Bera, “Breakdown-induced thermochemical reactions in HfO2 high-k/poly-silicon gate stacks”, **Applied Physics Letters**, vol. 87, no. 24, art. no. 242907, Dec. 2005.
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
