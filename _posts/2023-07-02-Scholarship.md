@@ -29,11 +29,11 @@ Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/progr
 
 ## Industrial Postgraduate Programme (IPP) (for Singaporeans/ Singapore Permanent Residents)
 
-[Industrial Postgraduate Programme (IPP)](https://www.ntu.edu.sg/graduate-college/admissions/programme/industrial-postgraduate-programme-(ipp)){:target="_blank"} based Ph.D. research scholarship funded by Singapore Economic Development Board and **GlobalFoundries Singapore** or **ST Microelectronics** are also available for **Singaporeans/PRs**.
+[Industrial Postgraduate Programme (IPP)](https://www.ntu.edu.sg/graduate-college/admissions/programme/industrial-postgraduate-programme-(ipp)){:target="_blank"} based Ph.D. research scholarship funded by Singapore Economic Development Board and **Micron Singapore**, **GlobalFoundries Singapore** are also available for **Singaporeans/PRs**.
 
 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/EDB_2021_logo.svg/400px-EDB_2021_logo.svg.png" width="100" style="display: block; margin: auto;"/> |
 
-| <a href="https://sg.micron.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Micron_Technology_logo_2024.svg/2560px-Micron_Technology_logo_2024.svg.png" width="100" style="display: block; margin: auto;"/></a> | <a href="https://gf.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/500px-GlobalFoundries_logo.svg.png" width="250" style="display: block; margin: auto;"/></a> | <a href="https://www.st.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ST_logo_2020_blue_V.svg/440px-ST_logo_2020_blue_V.svg.png" width="100" style="display: block; margin: auto;"/></a> |
+| <a href="https://sg.micron.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Micron_Technology_logo_2024.svg/2560px-Micron_Technology_logo_2024.svg.png" width="100" style="display: block; margin: auto;"/></a> | <a href="https://gf.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/500px-GlobalFoundries_logo.svg.png" width="250" style="display: block; margin: auto;"/></a> |
 
 ### Research topics:
 
