@@ -16,12 +16,12 @@ published: true
 
 ## ALL NATIONALITIES
 
-### PhD Scholarship Opportunites for Research in the Following Areas:
+### PhD Positions for Research in the Following Areas:
 
 1. Conductive Bridge Random Access Memory
 2. Semiconductor Devices for Retinomorphic/Neuromorphic Computing
 
-Scholarships now available for **Aug 2025 admission**. On-line application deadline: 31 Jan 2025
+Scholarships now available for **Jan 2026 admission**. On-line application deadline: 31 Aug 2025
 
 # Interested? Contact us.
  
@@ -37,10 +37,15 @@ Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/progr
 
 ### Research topics:
 
-1. Machine learning aided modelling/prediction of RF reliability of power amplifier for 6G and above communications
-2. Conducting bridge random access memory (CBRAM) enabled RF switches for 6G and above communications
+1. NAND charge trap memory cell tunneling layer valence band offset and trap energy quantification and material searching (Micron)
+2. Chalcogenide-based conductive bridge random access memory for high-density in-processor integration (GlobalFoundries)
 
-Only eligible to *Singaporeans/Singapore Permanent Residents*. Applicants must have good undergraduate academic performance (GPA > 4.0/5.0) from Local universities or equivalent GPA from other universities."
+Only eligible to *Singaporeans/Singapore Permanent Residents*.
+
+### Eligibility
+
+* Nationality: SC/PR
+* NTU admission requirement for [Ph.D.](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme#admission).
 
 
 ## Important Websites

@@ -78,7 +78,7 @@ Research topics:
 
 * Nationality: SC/PR
 <!-- * Minimum GPA: 4.0/5.0 -->
-* NTU admission requirement for [Ph.D.](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [M.Eng](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy-(ph.d)-and-master-of-engineering-(m.eng)-programme#admission). Note that GRE/GATE is required.
+* NTU admission requirement for [Ph.D.](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [M.Eng](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy-(ph.d)-and-master-of-engineering-(m.eng)-programme#admission).
 
 #### International Students
 
