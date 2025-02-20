@@ -10,14 +10,9 @@ show_sidebar: true
 {% include notification.html
 message=" **Important info for all prospective students**
 
-Scholarship opportunities available for ALL PhD level research in the following areas:
+Scholarships now available for **Jan 2026 admission**. On-line application deadline: 31 Aug 2025.
 
-1. Conductive Bridge Random Access Memory
-2. Semiconductor Devices for Retinomorphic/Neuromorphic Computing
-
-Scholarships now available for **Aug 2025 admission**. On-line application deadline: 31 Jan 2025
-
-**Interested? Contact us.**
+**Interested? Click [Here](https://ndl-ntu.github.io/news/2023/07/02/Scholarship/).**
  
 Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) or **talk with us**."
 
