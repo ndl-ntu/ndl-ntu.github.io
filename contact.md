@@ -7,37 +7,43 @@ show_sidebar: false
 menubar: example_menu
 ---
 
-{% include notification.html
-message=" **Important info for all prospective students**
+<!-- {% include notification.html
+message=" **Important info for prospective students**
 
-Scholarship opportunities available for ALL PhD level research in the following areas:
+IPP scholarship opportunities available in the following areas:
 
-1. Conductive Bridge Random Access Memory
-2. Semiconductor Devices for Retinomorphic/Neuromorphic Computing
+1. NAND charge trap memory cell tunneling layer valence band offset and trap energy quantification and material searching (Micron)
+2. Chalcogenide-based conductive bridge random access memory for high-density in-processor integration (GlobalFoundries)
 
-Scholarships now available for **Aug 2025 admission**. On-line application deadline: 31 Jan 2025
+Scholarships now available for **Aug 2025/Jan 2026 admission**. On-line application deadline: 31 Aug 2025
 
 **Interested? Contact us.**
  
 Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) or **talk with us**."
 
 status="is-warning"
-dismissable="true" %}
+dismissable="true" %} -->
 
-<!-- {% include notification.html
+{% include notification.html
 message=" **Important info for prospective students**
 
-Ph.D. research scholarship funded by Singapore Economic Development Board and GlobalFoundries Singapore are also available for **Aug 2024 admission**.
+IPP scholarship (PhD) opportunities are available for **Aug 2025/Jan 2026 admission**.
 
 Research topics:
 
-1. Machine learning aided modelling/prediction of RF reliability of power amplifier for 6G and above communications
-2. Conducting bridge random access memory (CBRAM) enabled RF switches for 6G and above communications
+1. NAND charge trap memory cell tunneling layer valence band offset and trap energy quantification and material searching (Micron)
+2. Chalcogenide-based conductive bridge random access memory for high-density in-processor integration (GlobalFoundries)
 
-Only eligible to *Singaporeans/Singapore Permanent Residents*. Applicants must have good undergraduate academic performance (GPA > 4.0/5.0) from Local universities or equivalent GPA from other universities."
+Only eligible to *Singaporeans/Singapore Permanent Residents*."
+
+**Benefits:**​
+
+* Full-time research while drawing an engineer’s salary with CPF contribution and enjoying employee benefits​
+* Fully sponsored tuition fees for four years​
+* Guaranteed job placement upon graduation
 
 status="is-info"
-dismissable="true" %} -->
+dismissable="true" %}
 
 {% include notification.html
 message="**Important info for research staff candidates**
@@ -53,22 +59,30 @@ OUR LAB has openings FOR RESEARCH STUDENTS (M.Eng and Ph.D.)
 
 #### Singapore Citizen/Singapore PR
 
+[UPDATED 20 FEB 2025] IPP scholarship (PhD) opportunities are available for **Aug 2025/Jan 2026 admission**.
+
 We offer **FULL** tuition grant and ~$4500 stipend per month(including CPF)# for fulltime:
 
-* M.Eng student (2 Years) Details refer to [NTU Admission MEng Programme](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy-(ph.d)-and-master-of-engineering-(m.eng)-programme).
+<!-- * M.Eng student (2 Years) Details refer to [NTU Admission MEng Programme](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy-(ph.d)-and-master-of-engineering-(m.eng)-programme). -->
 * Ph.D. student (4 Years) Details refer to [NTU Admission PhD Programme](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme).
 
-\# *Sponsered by EDB and GLOBALFOUNDRIES, Singapore.*
+Research topics:
+
+1. NAND charge trap memory cell tunneling layer valence band offset and trap energy quantification and material searching (Micron)
+2. Chalcogenide-based conductive bridge random access memory for high-density in-processor integration (GlobalFoundries)
+
+
+\# *Sponsered by EDB, Micron, and GLOBALFOUNDRIES.*
 
 ##### Eligibility
 
 * Nationality: SC/PR
-* Minimum GPA: 4.0/5.0
+<!-- * Minimum GPA: 4.0/5.0 -->
 * NTU admission requirement for [Ph.D.](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [M.Eng](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy-(ph.d)-and-master-of-engineering-(m.eng)-programme#admission). Note that GRE/GATE is required.
 
 #### International Students
 
-[UPDATED 23 JUN 2023] We have opening **SCHOLARSHIPS** for fulltime PhD students!
+[UPDATED 20 FEB 2025] We have openings for fulltime PhD students!
 
 We welcome international students from all over the world to join us as M.Eng or Ph.D. students. NTU is an internationally-friendly university and Singapore is an amazing place for you to explore. Below are information of each programme.
 
