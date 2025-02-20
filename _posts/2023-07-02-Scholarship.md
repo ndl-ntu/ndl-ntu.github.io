@@ -23,7 +23,7 @@ published: true
 
 Scholarships now available for **Jan 2026 admission**. On-line application deadline: 31 Aug 2025
 
-# Interested? Contact us.
+# Interested? Contact us ([EDSANG at NTU dot EDU dot SG]()).
  
 Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission){:target="_blank"} and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide){:target="_blank"} or **talk with us**.
 
@@ -61,3 +61,5 @@ Only eligible to *Singaporeans/Singapore Permanent Residents*.
 [NTU Online Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide){:target="_blank"}
 
 [Contact us](https://ndl-ntu.github.io/contact/){:target="_blank"}
+
+# Interested? Contact us ([EDSANG at NTU dot EDU dot SG]()).
