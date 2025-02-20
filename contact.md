@@ -7,24 +7,8 @@ show_sidebar: false
 menubar: example_menu
 ---
 
+
 <!-- {% include notification.html
-message=" **Important info for prospective students**
-
-IPP scholarship opportunities available in the following areas:
-
-1. NAND charge trap memory cell tunneling layer valence band offset and trap energy quantification and material searching (Micron)
-2. Chalcogenide-based conductive bridge random access memory for high-density in-processor integration (GlobalFoundries)
-
-Scholarships now available for **Aug 2025/Jan 2026 admission**. On-line application deadline: 31 Aug 2025
-
-**Interested? Contact us.**
- 
-Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) or **talk with us**."
-
-status="is-warning"
-dismissable="true" %} -->
-
-{% include notification.html
 message=" **Important info for prospective students**
 
 IPP scholarship (PhD) opportunities are available for **Aug 2025/Jan 2026 admission**.
@@ -51,7 +35,7 @@ message="**Important info for research staff candidates**
 Please contact us for more information."
 
 status="is-info"
-dismissable="true" %}
+dismissable="true" %} -->
 
 ### Prospective students
 
