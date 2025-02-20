@@ -62,4 +62,5 @@ Only eligible to *Singaporeans/Singapore Permanent Residents*.
 
 [Contact us](https://ndl-ntu.github.io/contact/){:target="_blank"}
 
-# Interested? Contact us ([EDSANG at NTU dot EDU dot SG]()).
+# Interested? Contact us.
+**([EDSANG at NTU dot EDU dot SG]())**
