@@ -33,7 +33,7 @@ Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/progr
 https://1drv.ms/p/c/af8015a3fb32f2bb/EVUX3gagVHdPpmRklpdOHpgBXX4qiCNfVNsUn9wZnSoBDw -->
 
 
-<iframe src="https://1drv.ms/p/c/af8015a3fb32f2bb/EVUX3gagVHdPpmRklpdOHpgBXX4qiCNfVNsUn9wZnSoBDw?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://1drv.ms/p/c/af8015a3fb32f2bb/IQRVF94GoFR3T6ZkZJaXTh6YAdvmQ0dKpIlRtWFy7uzewGM?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 [Industrial Postgraduate Programme (IPP)](https://www.ntu.edu.sg/graduate-college/admissions/programme/industrial-postgraduate-programme-(ipp)){:target="_blank"} based Ph.D. research scholarship funded by Singapore Economic Development Board and **Micron Singapore**, **GlobalFoundries Singapore** are also available for **Singaporeans/PRs**.
 
