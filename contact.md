@@ -7,36 +7,6 @@ show_sidebar: false
 menubar: example_menu
 ---
 
-
-<!-- {% include notification.html
-message=" **Important info for prospective students**
-
-IPP scholarship (PhD) opportunities are available for **Aug 2025/Jan 2026 admission**.
-
-Research topics:
-
-1. NAND charge trap memory cell tunneling layer valence band offset and trap energy quantification and material searching (Micron)
-2. Chalcogenide-based conductive bridge random access memory for high-density in-processor integration (GlobalFoundries)
-
-Only eligible to *Singaporeans/Singapore Permanent Residents*."
-
-**Benefits:**​
-
-* Full-time research while drawing an engineer’s salary with CPF contribution and enjoying employee benefits​
-* Fully sponsored tuition fees for four years​
-* Guaranteed job placement upon graduation
-
-status="is-info"
-dismissable="true" %}
-
-{% include notification.html
-message="**Important info for research staff candidates**
-
-Please contact us for more information."
-
-status="is-info"
-dismissable="true" %} -->
-
 ### Prospective students
 
 OUR LAB has openings FOR RESEARCH STUDENTS (M.Eng and Ph.D.)
