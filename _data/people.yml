@@ -38,8 +38,8 @@
         
         ![AStar Logo](https://upload.wikimedia.org/wikipedia/en/8/8b/A%2ASTAR_logo.png) ![NTU](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/1920px-Nanyang_Technological_University.svg.png)
       ratio: is-1by1
-    - link: assets/img/ZhangFan.jpg
-      large_link: assets/img/ZhangFan.jpg
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/ZhangFan.jpg
+      large_link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/ZhangFan.jpg
       alt: Dr. ZHANG Fan
       description: |-
         ### [Dr. Zhang Fan]()
