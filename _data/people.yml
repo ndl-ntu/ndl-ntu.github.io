@@ -32,13 +32,32 @@
         He obtained his PhD degree from Nanyang Technological Univerisy, Singapore in Oct 2021 and joined as a research fellow at NTU and A*STAR since then.
         </p>
         #### Selected Publications
-        * <p align = "justify"> X. Ju, D. S. Ang and C. Gu, "Impact of Channel Hot-Hole Stressing on Gate-Oxide Trap’s Emission," in IEEE Transactions on Electron Devices, vol. 67, no. 11, pp. 4720-4727, Nov. 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9199307">Online</a></p>
+        * <p align = "justify"> X. Ju, D. S. Ang and C. Gu, "Impact of Channel Hot-Hole Stressing on Gate-Oxide Trap’s Emission," in <strong>IEEE Transactions on Electron Devices</strong>, vol. 67, no. 11, pp. 4720-4727, Nov. 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9199307">Online</a></p>
         * <p align = "justify"> H. Zhang, X. Ju, K. S. Yew, and D. S. Ang, “Implementation of simple but powerful Trilayer oxide-based artificial synapses with a tailored bio-synapse-like structure,” <strong>ACS Applied Materials & Interfaces</strong>, 12(1), pp.1036-1045. <a href="https://pubs.acs.org/doi/10.1021/acsami.9b17026">Online</a></p>
         
         
         ![AStar Logo](https://upload.wikimedia.org/wikipedia/en/8/8b/A%2ASTAR_logo.png) ![NTU](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/1920px-Nanyang_Technological_University.svg.png)
       ratio: is-1by1
+    - link: /assets/img/ZhangFan.jpg
+      large_link: /assets/img/ZhangFan.jpg
+      alt: Dr. ZHANG Fan
+      description: |-
+        ### [Dr. JU Xin](https://www.researchgate.net/scientific-contributions/Xin-Ju-2152156249)
+        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/0000-0001-6393-5960)
+        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/scientific-contributions/)
+        #### About
+        <p align = "justify">
+        Dr. Zhang Fan obtained his B.Eng degree from Xidian University, China in 2018.
+        He completed his Ph.D. at Xidian University in 2024, during which he also participated in a joint training program at the Institute of Microelectronics, Chinese Academy of Sciences. He joined School of EEE at NTU as a research fellow since then.
 
+        </p>
+        #### Selected Publications
+        * <p align = "justify"> F. Zhang et al., “Unique Consecutive RTN Characteristics Coupled With Ferroelectric Nanodomain Switching in Advanced Fe-FinFETs,” <strong>IEEE Electron Device Lett.</strong>, vol. 45, no. 4, pp. 566–569, Apr. 2024. <a href="https://doi.org/10.1109/LED.2024.3362801">Online</a></p>
+        * <p align = "justify"> F. Zhang et al., “Evolution of the Interfacial Layer and Its Impact on Electric-Field-Cycling Behaviors in Ferroelectric Hf1–xZrxO2,” <strong>ACS Appl. Mater. Interfaces</strong>, vol. 14, no. 8, pp. 11028–11037, Mar. 2022. <a href="https://doi.org/10.1021/acsami.1c22426">Online</a></p>
+        
+        
+        ![NTU](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/1920px-Nanyang_Technological_University.svg.png)
+      ratio: is-1by1
 - title: Graduate Research Student
   images:
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/Elliot.jpg
