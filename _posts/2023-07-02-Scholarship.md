@@ -16,31 +16,42 @@ published: true
 
 ## ALL NATIONALITIES
 
-### PhD Scholarship Opportunites for Research in the Following Areas:
+### PhD Positions for Research in the Following Areas:
 
 1. Conductive Bridge Random Access Memory
 2. Semiconductor Devices for Retinomorphic/Neuromorphic Computing
 
-Scholarships now available for **Aug 2025 admission**. On-line application deadline: 31 Jan 2025
+Scholarships now available for **Jan 2026 admission**. On-line application deadline: 31 Aug 2025
 
 # Interested? Contact us.
  
-Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission){:target="_blank"} and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide){:target="_blank"} or **talk with us**.
+Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission){:target="_blank"} and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide){:target="_blank"} or **talk with us ([EDSANG at NTU dot EDU dot SG]())**.
 
 ## Industrial Postgraduate Programme (IPP) (for Singaporeans/ Singapore Permanent Residents)
 
-[Industrial Postgraduate Programme (IPP)](https://www.ntu.edu.sg/graduate-college/admissions/programme/industrial-postgraduate-programme-(ipp)){:target="_blank"} based Ph.D. research scholarship funded by Singapore Economic Development Board and **GlobalFoundries Singapore** or **ST Microelectronics** are also available for **Singaporeans/PRs**.
+<!-- poster
+https://1drv.ms/p/c/af8015a3fb32f2bb/EVUX3gagVHdPpmRklpdOHpgBXX4qiCNfVNsUn9wZnSoBDw -->
+
+
+<iframe src="https://1drv.ms/p/c/af8015a3fb32f2bb/IQRVF94GoFR3T6ZkZJaXTh6YAdvmQ0dKpIlRtWFy7uzewGM?em=2&amp;wdAr=1.7777777777777777" width="476px" height="288px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+[Industrial Postgraduate Programme (IPP)](https://www.ntu.edu.sg/graduate-college/admissions/programme/industrial-postgraduate-programme-(ipp)){:target="_blank"} based Ph.D. research scholarship funded by Singapore Economic Development Board and **Micron Singapore**, **GlobalFoundries Singapore** are also available for **Singaporeans/PRs**.
 
 | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/EDB_2021_logo.svg/400px-EDB_2021_logo.svg.png" width="100" style="display: block; margin: auto;"/> |
 
-| <a href="https://gf.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/500px-GlobalFoundries_logo.svg.png" width="250" style="display: block; margin: auto;"/></a> | <a href="https://www.st.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ST_logo_2020_blue_V.svg/440px-ST_logo_2020_blue_V.svg.png" width="100" style="display: block; margin: auto;"/></a> |
+| <a href="https://sg.micron.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Micron_Technology_logo_2024.svg/2560px-Micron_Technology_logo_2024.svg.png" width="100" style="display: block; margin: auto;"/></a> | <a href="https://gf.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/500px-GlobalFoundries_logo.svg.png" width="250" style="display: block; margin: auto;"/></a> |
 
 ### Research topics:
 
-1. Machine learning aided modelling/prediction of RF reliability of power amplifier for 6G and above communications
-2. Conducting bridge random access memory (CBRAM) enabled RF switches for 6G and above communications
+1. NAND charge trap memory cell tunneling layer valence band offset and trap energy quantification and material searching (Micron)
+2. Chalcogenide-based conductive bridge random access memory for high-density in-processor integration (GlobalFoundries)
 
-Only eligible to *Singaporeans/Singapore Permanent Residents*. Applicants must have good undergraduate academic performance (GPA > 4.0/5.0) from Local universities or equivalent GPA from other universities."
+Only eligible to *Singaporeans/Singapore Permanent Residents*.
+
+### Eligibility
+
+* Nationality: SC/PR
+* NTU admission requirement for [Ph.D.](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme#admission).
 
 
 ## Important Websites
@@ -50,3 +61,6 @@ Only eligible to *Singaporeans/Singapore Permanent Residents*. Applicants must h
 [NTU Online Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide){:target="_blank"}
 
 [Contact us](https://ndl-ntu.github.io/contact/){:target="_blank"}
+
+# Interested? Contact us.
+**([EDSANG at NTU dot EDU dot SG]())**
