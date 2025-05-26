@@ -14,7 +14,7 @@ published: true
 
 ![NTU_EEE](/assets/img/NTU_EEE.png)
 
-## ALL NATIONALITIES 🇺🇳🌐
+## 🇺🇳🌐 ALL NATIONALITIES
 
 ### PhD Positions for Research in the Following Areas:
 
@@ -27,7 +27,7 @@ Scholarships now available for **Jan 2026 admission**. On-line application deadl
  
 Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission){:target="_blank"} and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide){:target="_blank"} or **talk with us ([EDSANG at NTU dot EDU dot SG]())**.
 
-## Singapore Citizens 🇸🇬
+## 🇸🇬 Singapore Citizens
 
 ### PhD Scholarship in
 
@@ -45,7 +45,7 @@ Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/progr
  
 **Talk with us ([EDSANG at NTU dot EDU dot SG]())**.
 
-## Industrial Postgraduate Programme (IPP) (for Singapore Citizens / Singapore Permanent Residents 🇸🇬)
+## 🇸🇬 Industrial Postgraduate Programme (IPP) (for Singapore Citizens / Singapore Permanent Residents)
 
 <!-- poster
 https://1drv.ms/p/c/af8015a3fb32f2bb/EVUX3gagVHdPpmRklpdOHpgBXX4qiCNfVNsUn9wZnSoBDw -->
