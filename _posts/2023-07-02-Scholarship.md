@@ -36,11 +36,11 @@ Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/progr
 #### **Dynamic edge AI systems**
 
 ### Eligibility
-* BEng/BS degree in Computer Science/Electronics/Microelectronics
+* Singapore Citizens with BEng/BS degree in Computer Science/Electronics/Microelectronics
 * Minimum Bachelor’s GPA of 4.0/5.0 (Candidates with a master’s degree in related fields must still meet the Bachelor’s degree requirements.)
 
 ### Offer
-* Monthly stipend: $6000 (additional CPF payable at prevailing employer contribution rate)
+* Monthly stipend: SGD 6000 (additional CPF payable at prevailing employer contribution rate)
 * One-year overseas attachment at collaborator’s institution (SONDRA lab)
 
 ### Interested? Contact us.
@@ -49,7 +49,9 @@ Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/progr
 
 ---
 
-## 🇸🇬 Industrial Postgraduate Programme (IPP) (for Singapore Citizens / Singapore Permanent Residents)
+## 🇸🇬 Singapore Citizens / Singapore Permanent Residents
+
+### Industrial Postgraduate Programme (IPP)
 
 <!-- poster
 https://1drv.ms/p/c/af8015a3fb32f2bb/EVUX3gagVHdPpmRklpdOHpgBXX4qiCNfVNsUn9wZnSoBDw -->
@@ -63,7 +65,7 @@ https://1drv.ms/p/c/af8015a3fb32f2bb/EVUX3gagVHdPpmRklpdOHpgBXX4qiCNfVNsUn9wZnSo
 
 | <a href="https://sg.micron.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Micron_Technology_logo_2024.svg/2560px-Micron_Technology_logo_2024.svg.png" width="100" style="display: block; margin: auto;"/></a> | <a href="https://gf.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/GlobalFoundries_logo.svg/500px-GlobalFoundries_logo.svg.png" width="250" style="display: block; margin: auto;"/></a> |
 
-### Research topics:
+### PhD Scholarship in the Following Areas:
 
 1. NAND charge trap memory cell tunneling layer valence band offset and trap energy quantification and material searching (Micron)
 2. Chalcogenide-based conductive bridge random access memory for high-density in-processor integration (GlobalFoundries)
@@ -76,7 +78,7 @@ Only eligible to *Singaporeans/Singapore Permanent Residents*.
 * NTU admission requirement for [Ph.D.](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme#admission).
 
 ### Offer
-* Monthly stipend: $4500 (additional CPF payable at prevailing employer contribution rate)
+* Monthly stipend: SGD 4500 (additional CPF payable at prevailing employer contribution rate)
 
 ## Important Websites
 
