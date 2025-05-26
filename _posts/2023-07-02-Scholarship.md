@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "[NEWS]Scholarship opportunities!"
-date:   2023-07-02 08:00:00
+date:   2025-05-24 08:00:00
 categories: News
-description: "Scholarships avaiable for Jan incoming students!"
+description: "New scholarships avaiable for incoming students!"
 hero_image: 'https://www.ntu.edu.sg/images/default-source/cco-images/the-hive-select-4-min-min9b752fe7-c4ac-48f1-baed-c83ee71d9c2d.jpg'
 image: 'https://www.ntu.edu.sg/images/default-source/corporate/ntu-30-anniversary-logoc1850609-db51-4cc8-9788-62c50778e47b.svg'
 published: true
