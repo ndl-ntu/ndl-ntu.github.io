@@ -27,6 +27,8 @@ Scholarships now available for **Jan 2026 admission**. On-line application deadl
  
 Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission){:target="_blank"} and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide){:target="_blank"} or **talk with us ([EDSANG at NTU dot EDU dot SG]())**.
 
+---
+
 ## 🇸🇬 Singapore Citizens
 
 ### PhD Scholarship in
@@ -44,6 +46,8 @@ Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/progr
 ### Interested? Contact us.
  
 **Talk with us ([EDSANG at NTU dot EDU dot SG]())**.
+
+---
 
 ## 🇸🇬 Industrial Postgraduate Programme (IPP) (for Singapore Citizens / Singapore Permanent Residents)
 
@@ -71,6 +75,8 @@ Only eligible to *Singaporeans/Singapore Permanent Residents*.
 * Nationality: SC/PR
 * NTU admission requirement for [Ph.D.](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme#admission).
 
+### Offer
+* Monthly stipend: $4500 (additional CPF payable at prevailing employer contribution rate)
 
 ## Important Websites
 
