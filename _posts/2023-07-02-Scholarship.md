@@ -27,6 +27,21 @@ Scholarships now available for **Jan 2026 admission**. On-line application deadl
  
 Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission){:target="_blank"} and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide){:target="_blank"} or **talk with us ([EDSANG at NTU dot EDU dot SG]())**.
 
+## Singapore Citizens
+
+### Research Topic
+
+#### **Dynamic edge AI systems**
+
+### Eligibility
+* BEng/BS degree in computer engineering/electronics/microelectronics
+* Minimum Bachelor’s GPA of 4.0/5.0 (Candidates with a master’s degree in related fields must still meet the Bachelor’s degree requirements.)
+
+### Offer
+* Monthly stipend: $6000 (additional CPF payable at prevailing employer contribution rate)
+* One-year overseas attachment at collaborator’s institution (SONDRA lab)
+
+
 ## Industrial Postgraduate Programme (IPP) (for Singaporeans/ Singapore Permanent Residents)
 
 <!-- poster
