@@ -30,7 +30,7 @@
 #     - name: Recipe Page
 #       link: /example-recipe/
 - name: Research
-  link: /publications/
+  link: /highlights/
 - name: Works
   link: /#
   dropdown:
@@ -56,5 +56,5 @@
 #   link: /book/
 - name: Contact Us
   link: /contact/
-- name: Scholarship
+- name: Join Us
   link: /news/2025/05/24/Scholarship/

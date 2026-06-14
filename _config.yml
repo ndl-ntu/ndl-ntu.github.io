@@ -4,7 +4,7 @@ title: Neuromorphic Device Lab
 tagline: NTU
 email: EDSANG at ntu dot edu dot sg
 description: >
-  Prof. Ang Diing Shenp Group at Nanyang Technological University(NTU), Singapore.
+  Prof. Ang Diing Shenp's group at Nanyang Technological University (NTU), Singapore.
 baseurl: "/"
 url: "ndl-ntu.github.io"
 permalink: pretty
@@ -64,7 +64,7 @@ defaults:
     values:
       author: "Jiayi"
       layout: post
-      image: https://via.placeholder.com/1200x800
+      image: /assets/img/ntu30logo.png
       show_sidebar: true
 
 markdown: kramdown
@@ -76,5 +76,5 @@ collections:
   products: 
     output: true
     layout: product
-    image: https://via.placeholder.com/800x600
+    image: /assets/img/ntu30logo.png
     show_sidebar: false

@@ -10,7 +10,7 @@ show_sidebar: true
 {% include notification.html
 message=" **Important info for all prospective students**
 
-Scholarships now available for **Jan 2026 admission**. On-line application deadline: 31 Aug 2025.
+Research student opportunities are available for upcoming PhD/M.Eng intakes.
 
 **Interested? Click [Here](https://ndl-ntu.github.io/news/2023/07/02/Scholarship/).**
  
@@ -50,6 +50,16 @@ Prof. Ang obtained both his B. Eng. (Hons) and Ph.D. degrees in electrical engin
 Prof. Ang’s research interests lie mainly in neuromorphic RRAM device, device reliability physics and characterization.
 
 </p>
+
+## Research Focus
+
+The Neuromorphic Device Lab studies semiconductor and memory devices for energy-efficient computing, sensing, and reliability-aware electronics. Current research directions include:
+
+* Neuromorphic and retinomorphic devices for bio-inspired machine vision
+* Conductive-bridge and resistive random-access memory devices
+* High-k gate dielectrics, transistor reliability, and device characterization
+
+Prospective students and collaborators are welcome to contact the lab through the [Contact Us](/contact/) page.
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/0000-0002-8139-1984)
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?&user=vPrA2cMAAAAJ)

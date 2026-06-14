@@ -9,13 +9,13 @@ menubar: example_menu
 
 ### Prospective students
 
-OUR LAB has openings FOR RESEARCH STUDENTS (M.Eng and Ph.D.)
+Our lab welcomes applications from research students (M.Eng and Ph.D.).
 
 #### Singapore Citizen/Singapore PR
 
-[UPDATED 20 FEB 2025] IPP scholarship (PhD) opportunities are available for **Aug 2025/Jan 2026 admission**.
+IPP scholarship (PhD) opportunities are available for upcoming intakes, subject to NTU and sponsor timelines.
 
-We offer **FULL** tuition grant and ~$4500 stipend per month(including CPF)# for fulltime:
+We offer **full** tuition support and a monthly stipend of approximately SGD 4500, including CPF where applicable, for full-time:
 
 <!-- * M.Eng student (2 Years) Details refer to [NTU Admission MEng Programme](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy-(ph.d)-and-master-of-engineering-(m.eng)-programme). -->
 * Ph.D. student (4 Years) Details refer to [NTU Admission PhD Programme](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme).
@@ -26,7 +26,7 @@ Research topics:
 2. Chalcogenide-based conductive bridge random access memory for high-density in-processor integration (GlobalFoundries)
 
 
-\# *Sponsered by EDB, Micron, and GLOBALFOUNDRIES.*
+\# *Sponsored by EDB, Micron, and GLOBALFOUNDRIES.*
 
 ##### Eligibility
 
@@ -36,9 +36,9 @@ Research topics:
 
 #### International Students
 
-[UPDATED 20 FEB 2025] We have openings for fulltime PhD students!
+We have openings for full-time PhD students.
 
-We welcome international students from all over the world to join us as M.Eng or Ph.D. students. NTU is an internationally-friendly university and Singapore is an amazing place for you to explore. Below are information of each programme.
+We welcome international students from all over the world to join us as M.Eng or Ph.D. students. NTU is an internationally friendly university and Singapore is an exciting place to study and work. Below is information for each programme.
 
 * M.Eng student (2 Years) Details refer to [NTU Admission MEng Programme](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy-(ph.d)-and-master-of-engineering-(m.eng)-programme).
 * Ph.D. student (4 Years) Details refer to [NTU Admission PhD Programme](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme).
@@ -47,14 +47,14 @@ NTU offers a variety of scholarships covering tuition and monthly stipends for i
 
 ##### Eligibility
 
-* NTU admission requirement for [Ph.D.](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [M.Eng](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy-(ph.d)-and-master-of-engineering-(m.eng)-programme#admission). Note that GRE/GATE is required and IELTS/TOEFL may be required for whose native language is not English.
+* NTU admission requirement for [Ph.D.](https://www.ntu.edu.sg/education/graduate-programme/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [M.Eng](https://www.ntu.edu.sg/education/graduate-programme/doctor-of-philosophy-(ph.d)-and-master-of-engineering-(m.eng)-programme#admission). Note that GRE/GATE may be required, and IELTS/TOEFL may be required for applicants whose native language is not English.
 
 #### Contact
 
-Although these scholarships could be competitive sometimes, the applicants are strongly encouraged to try eligible ones. **For any inquiries regarding applications/scholarships, please feel free to email us at ([EDSANG at NTU dot EDU dot SG]()) for further information.**  
+These scholarships can be competitive, but eligible applicants are strongly encouraged to apply. **For inquiries regarding applications or scholarships, please email us at EDSANG at NTU dot EDU dot SG.**
 
-You are encouraged to email with title "*Prospective PhD/MEng Student_ NAME*". The body can be a short **personal statement** for us to know you, including your **academic/career development** and **published papers or projects**(if any). A **brief CV** attached is also helpful.
+You are encouraged to use the email title "*Prospective PhD/MEng Student_ NAME*". The body can be a short **personal statement** to help us know you, including your **academic/career development** and **published papers or projects** (if any). A **brief CV** attached is also helpful.
 
-### Reserch fellow/Collaboration partners
+### Research fellows and collaboration partners
 
-If you are seeking research fellow position/collaboration, please email us at ([EDSANG at NTU dot EDU dot SG]()) for further connections.
+If you are seeking a research fellow position or collaboration, please email us at EDSANG at NTU dot EDU dot SG.

@@ -10,7 +10,7 @@ tabs:
 
 ### 2024
 
-* Asif Ali\*, Haider Abbas, JiayiLi, Jongwan Jung, Diing Shenp Ang\*. Ag/Ti/GeS/Ag Bidirectional Conductive-Bridge Selector with Low Turn-Off Latency, High Endurance and Enhanced Switching Uniformity. **ACS Applied Electronic Materials**. 2024. [10.1021/acsaelm.4c01392](https://doi.org/10.1021/acsaelm.4c01392){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Asif Ali\*, Haider Abbas, Jiayi Li, Jongwan Jung, Diing Shenp Ang\*. Ag/Ti/GeS/Ag Bidirectional Conductive-Bridge Selector with Low Turn-Off Latency, High Endurance and Enhanced Switching Uniformity. **ACS Applied Electronic Materials**. 2024. [10.1021/acsaelm.4c01392](https://doi.org/10.1021/acsaelm.4c01392){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1021/acsaelm.4c01392" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Jiayi Li, Yuxi Guo, Xin Ju, and Diing Shenp Ang. Hyperpolarizing photoreceptor inspired biomimetic energy-saving sensor for dynamic machine vision. **Nano Research**. 2024. [10.26599/NR.2025.94907057](https://www.sciopen.com/article/10.26599/NR.2025.94907057){:target="_blank"}. [[FullText](https://www.sciopen.com/article/pdf/10.26599/NR.2025.94907057.pdf?ifPreview=0){:target="_blank"}]
 <div data-badge-popover="right" data-badge-type="4" data-doi="10.26599/NR.2025.94907057" data-condensed="true" data-hide-no-mentions="true" class="altmetric-embed"></div><span class="__dimensions_badge_embed__" data-doi="10.26599/NR.2025.94907057" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
@@ -41,7 +41,7 @@ tabs:
    data-style="small_rectangle">
 </a>
 
-* Huang, X., Wang, F., Ma, L., Wang, J., Zhang, T., Hao, X., ... & Ang, D. S. (2023). Reversion of catalyst valence states for highly efficient water oxidation. Catalysis Science & Technology. [10.1039/d3cy00217a](https://doi.org/10.1039/d3cy00217a){:target="_blank"}. <span class="__dimensions_badge_embed__" data-doi="10.1116/6.0001186" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Huang, X., Wang, F., Ma, L., Wang, J., Zhang, T., Hao, X., ... & Ang, D. S. (2023). Reversion of catalyst valence states for highly efficient water oxidation. Catalysis Science & Technology. [10.1039/d3cy00217a](https://doi.org/10.1039/d3cy00217a){:target="_blank"}. <span class="__dimensions_badge_embed__" data-doi="10.1039/d3cy00217a" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 ### 2022
 
@@ -87,7 +87,7 @@ tabs:
 
 * Berco, D., Ang, D. S., & Kalaga, P. S. (2020). Programmable Photoelectric Memristor Gates for In Situ Image Compression. **Advanced Intelligent Systems**, 2(9), 2000079. [10.1002/aisy.202000079](https://doi.org/10.1002/aisy.202000079){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1002/aisy.202000079" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
-* Berco, D., & Ang, D. S. (2020). Analysis of large bandgap dielectrics by dual plasmon-photon excitation. Journal of Physics D: Applied Physics, 53(25), 25LT02. [](https://doi.org/10.1088/1361-6463/ab81d2){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1088/1361-6463/ab81d2" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+* Berco, D., & Ang, D. S. (2020). Analysis of large bandgap dielectrics by dual plasmon-photon excitation. Journal of Physics D: Applied Physics, 53(25), 25LT02. [10.1088/1361-6463/ab81d2](https://doi.org/10.1088/1361-6463/ab81d2){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1088/1361-6463/ab81d2" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 * Niu, Z., Zhou, C., Wang, J., Xu, Y., Gu, C., Jiang, T., Zeng, S., Zhang, Y., Ang, D. S., & Zhou, J. (2020). UV-light-assisted preparation of MoO3−x/Ag NPs film and investigation on the SERS performance. Journal of Materials Science, 55(21), 8868-8880. [10.1007/s10853-020-04669-5](https://doi.org/10.1007/s10853-020-04669-5){:target="_blank"} <span class="__dimensions_badge_embed__" data-doi="10.1007/s10853-020-04669-5" data-style="small_rectangle" data-hide-zero-citations="true"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
