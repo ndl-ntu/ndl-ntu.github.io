@@ -1,14 +1,45 @@
 # NDL Site Maintenance Tool
 
-`ndl_site_tool.sh` is a small Bash helper for routine edits to the Jekyll site. Run it from the repository root.
+`ndl_site_tool.sh` is a small helper for routine edits to the Jekyll site.
+
+## Easiest Use On Windows
+
+Double-click this file in the repository folder:
+
+```text
+RUN_SITE_TOOL.bat
+```
+
+It opens a menu:
+
+```text
+1. Write a news post
+2. Add research staff/student/alumni
+3. Remove research staff/student/alumni
+4. Add publication by DOI
+5. Run Jekyll build
+0. Exit
+```
+
+Follow the prompts. The tool will ask for only the fields needed for that action.
+
+## Command-Line Use
+
+From Git Bash, WSL, macOS, or Linux:
+
+```bash
+scripts/ndl_site_tool.sh menu
+```
+
+Keep `scripts/ndl_site_tool.sh` and `scripts/ndl_site_tool.py` together; the Bash file launches the Python program.
 
 ## Requirements
 
-- Bash
+- Bash, such as Git Bash on Windows
 - Python 3
 - Internet access for `add-publication`, because it reads DOI metadata from Crossref
 
-On Windows, use Git Bash, WSL, or another Bash shell.
+For the double-click launcher on Windows, install Git for Windows so that `bash` is available.
 
 ## Create A News Post
 
