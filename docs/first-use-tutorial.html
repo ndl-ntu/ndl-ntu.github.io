@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NDL Website First Use Tutorial</title>
+  <style>
+    :root {
+      --ink: #1d2730;
+      --line: #dce3e8;
+      --soft: #f5f8fa;
+      --accent: #188eac;
+      --accent-dark: #0f6379;
+      --ok: #157347;
+      --warn: #8a5a00;
+    }
+    body { margin: 0; color: var(--ink); font-family: Arial, Helvetica, sans-serif; line-height: 1.55; background: white; }
+    main { max-width: 980px; margin: 0 auto; padding: 28px 20px 56px; }
+    h1, h2, h3 { line-height: 1.2; margin: 1.35em 0 0.45em; }
+    h1 { margin-top: 0; color: var(--accent-dark); font-size: 2rem; }
+    h2 { border-top: 1px solid var(--line); padding-top: 1rem; font-size: 1.35rem; }
+    h3 { font-size: 1.05rem; }
+    a { color: var(--accent-dark); }
+    code { padding: 0.12rem 0.28rem; border-radius: 4px; background: var(--soft); font-family: Consolas, "Courier New", monospace; font-size: 0.92em; }
+    pre { overflow-x: auto; padding: 0.85rem 1rem; border: 1px solid var(--line); border-radius: 6px; background: var(--soft); }
+    pre code { padding: 0; background: transparent; }
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0; font-size: 0.95rem; }
+    th, td { vertical-align: top; padding: 0.65rem; border: 1px solid var(--line); }
+    th { text-align: left; background: var(--soft); }
+    .note { border-left: 4px solid var(--accent); background: #eef8fb; padding: 0.8rem 1rem; margin: 1rem 0; }
+    .success { border-left-color: var(--ok); background: #eefaf3; }
+    .warning { border-left-color: var(--warn); background: #fff7e6; }
+    .step { border: 1px solid var(--line); border-radius: 6px; padding: 1rem; margin: 1rem 0; }
+    .step h3 { margin-top: 0; }
+    @media (max-width: 720px) { table { display: block; overflow-x: auto; } }
+  </style>
+</head>
+<body>
+<main>
+  <h1>NDL Website First Use Tutorial</h1>
+  <p>This tutorial starts from a blank Windows computer and shows how to download the NDL website project, make simple updates, preview them, and publish them to GitHub Pages.</p>
+
+  <div class="note">
+    <strong>For regular use:</strong> after setup is complete, most updates can be done by double-clicking <code>RUN_SITE_TOOL.bat</code>.
+  </div>
+
+  <h2>What You Are Working With</h2>
+  <table>
+    <tr><th>Name</th><th>Simple meaning</th></tr>
+    <tr><td>Website repository</td><td>The folder containing all files for the lab website.</td></tr>
+    <tr><td>Git</td><td>The software that downloads the website project and saves/publishes changes.</td></tr>
+    <tr><td>GitHub</td><td>The online place where the official copy of the website files is stored.</td></tr>
+    <tr><td>GitHub Pages</td><td>The service that turns the repository into the public website.</td></tr>
+    <tr><td>Jekyll</td><td>The website builder used by GitHub Pages.</td></tr>
+    <tr><td><code>RUN_SITE_TOOL.bat</code></td><td>A double-click menu for common editing tasks.</td></tr>
+  </table>
+
+  <h2>Part 1: Install The Required Software</h2>
+  <div class="step">
+    <h3>1. Install Git For Windows</h3>
+    <ol>
+      <li>Open <a href="https://git-scm.com/download/win">https://git-scm.com/download/win</a>.</li>
+      <li>Download and run the Windows installer.</li>
+      <li>For most screens, keep the default choices and click <strong>Next</strong>.</li>
+      <li>Make sure <strong>Git Bash</strong> is installed. The website tool uses it.</li>
+    </ol>
+  </div>
+
+  <div class="step">
+    <h3>2. Install Python 3</h3>
+    <ol>
+      <li>Open <a href="https://www.python.org/downloads/windows/">https://www.python.org/downloads/windows/</a>.</li>
+      <li>Download and run Python 3 for Windows.</li>
+      <li>Important: tick <strong>Add python.exe to PATH</strong> if the installer shows that option.</li>
+      <li>Click <strong>Install Now</strong>.</li>
+    </ol>
+  </div>
+
+  <div class="step">
+    <h3>3. Optional: Install Ruby For Local Preview</h3>
+    <p>GitHub Pages can build the website online after publishing. Ruby is useful if you want to preview or test the site before publishing.</p>
+    <ol>
+      <li>Open <a href="https://rubyinstaller.org/downloads/">https://rubyinstaller.org/downloads/</a>.</li>
+      <li>Download the recommended Ruby+Devkit installer.</li>
+      <li>Run the installer and keep the default choices.</li>
+      <li>After installation, open Git Bash in the website folder and run <code>bundle install</code> once.</li>
+    </ol>
+  </div>
+
+  <h2>Part 2: Download The Website Project</h2>
+  <div class="step">
+    <h3>1. Choose A Folder</h3>
+    <p>Choose where the website folder should live. For example:</p>
+    <pre><code>Documents\Neuromorphic Device Lab\Repository</code></pre>
+  </div>
+
+  <div class="step">
+    <h3>2. Open Git Bash In That Folder</h3>
+    <ol>
+      <li>Open the parent folder in File Explorer.</li>
+      <li>Right-click empty space inside the folder.</li>
+      <li>Choose <strong>Open Git Bash here</strong>.</li>
+    </ol>
+  </div>
+
+  <div class="step">
+    <h3>3. Clone The Repository</h3>
+    <p>In Git Bash, type or paste:</p>
+    <pre><code>git clone https://github.com/ndl-ntu/ndl-ntu.github.io.git</code></pre>
+    <p>This creates a new folder named <code>ndl-ntu.github.io</code>.</p>
+  </div>
+
+  <h2>Part 3: Before Editing, Pull The Latest Version</h2>
+  <p>If another person may have edited the website, always pull first.</p>
+  <div class="step">
+    <h3>Pull With Git Bash</h3>
+    <ol>
+      <li>Open the <code>ndl-ntu.github.io</code> folder.</li>
+      <li>Right-click empty space and choose <strong>Open Git Bash here</strong>.</li>
+      <li>Run:</li>
+    </ol>
+    <pre><code>git pull origin master</code></pre>
+  </div>
+
+  <h2>Part 4: Use The Click-To-Run Tool</h2>
+  <div class="step">
+    <h3>Open The Menu</h3>
+    <ol>
+      <li>Double-click <code>RUN_SITE_TOOL.bat</code>.</li>
+      <li>A terminal window opens.</li>
+      <li>Choose a number and press Enter.</li>
+    </ol>
+    <pre><code>1. Write a news post
+2. Add research staff/student/alumni
+3. Remove research staff/student/alumni
+4. Add publication by DOI
+5. Run Jekyll build
+6. Publish changes to GitHub
+0. Exit</code></pre>
+  </div>
+
+  <div class="step">
+    <h3>Common Examples</h3>
+    <ul>
+      <li>Choose <code>1</code> to add news. The post appears on the News page.</li>
+      <li>Choose <code>2</code> to add a staff member, student, intern, or alumni profile.</li>
+      <li>Choose <code>3</code> to remove a person profile by name.</li>
+      <li>Choose <code>4</code> to add a publication by DOI. The tool fetches Crossref metadata and adds the citation badge.</li>
+      <li>Choose <code>5</code> to check that Jekyll can build the site.</li>
+    </ul>
+  </div>
+
+  <h2>Part 5: Preview The Website</h2>
+  <div class="step">
+    <h3>Simple Build Check</h3>
+    <p>In the tool menu, choose <code>5. Run Jekyll build</code>. If it finishes without an error, the source files are valid.</p>
+  </div>
+  <div class="step">
+    <h3>Browser Preview</h3>
+    <p>If Ruby/Jekyll is installed, open Git Bash in the website folder and run:</p>
+    <pre><code>bundle exec jekyll serve</code></pre>
+    <p>Then open the address shown in the terminal, usually <code>http://127.0.0.1:4000/</code>.</p>
+  </div>
+
+  <h2>Part 6: Publish Changes To GitHub</h2>
+  <div class="note success">
+    <strong>Yes, publishing is integrated in the BAT menu.</strong> Choose <code>6. Publish changes to GitHub</code>. The tool will show changed files, optionally run a build, ask for a commit message, commit all changed files, and push to GitHub.
+  </div>
+  <div class="step">
+    <h3>Publish With The Menu</h3>
+    <ol>
+      <li>Double-click <code>RUN_SITE_TOOL.bat</code>.</li>
+      <li>Choose <code>6</code>.</li>
+      <li>Review the changed files shown by the tool.</li>
+      <li>Choose whether to run Jekyll build.</li>
+      <li>Enter a short commit message, for example <code>Update people and publications</code>.</li>
+      <li>Confirm that you want to commit and push.</li>
+    </ol>
+    <p>After pushing, GitHub Pages may take a few minutes to update the public website.</p>
+  </div>
+
+  <h2>Part 7: If Something Goes Wrong</h2>
+  <table>
+    <tr><th>Problem</th><th>What to try</th></tr>
+    <tr><td><code>bash was not found</code></td><td>Install Git for Windows, then double-click <code>RUN_SITE_TOOL.bat</code> again.</td></tr>
+    <tr><td><code>python was not found</code></td><td>Install Python 3 and tick <strong>Add python.exe to PATH</strong>.</td></tr>
+    <tr><td>Git asks for login</td><td>Sign in with the GitHub account that has permission to edit the repository.</td></tr>
+    <tr><td>Build error after editing people</td><td>There may be a spacing problem in <code>_data/people.yml</code>. Compare the changed entry with nearby entries.</td></tr>
+    <tr><td>Live website does not update immediately</td><td>Wait a few minutes. GitHub Pages needs time to rebuild.</td></tr>
+  </table>
+
+  <h2>Part 8: Advanced Full Guide</h2>
+  <p>After the first setup, read the complete guide for a file-by-file explanation of the repository:</p>
+  <p><a href="site-guide.html">Open the full NDL website editing guide</a></p>
+
+  <div class="note warning">
+    <strong>Important habit:</strong> pull first, edit second, preview third, publish last.
+  </div>
+</main>
+</body>
+</html>

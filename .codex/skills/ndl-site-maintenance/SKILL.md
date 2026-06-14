@@ -57,6 +57,7 @@ The tool supports:
 - Removing a research staff/student/alumni profile.
 - Adding a publication by DOI.
 - Running a Jekyll build.
+- Publishing changes to GitHub.
 
 If the tool cannot express the requested change, edit the relevant source file directly.
 
@@ -173,18 +174,21 @@ Expected generated folders such as `_site/` and `.sass-cache/` should remain unt
 - Use clear commits, for example `Update site maintenance guide`.
 - Push to `origin master` when the user asks to update GitHub Pages or when continuing the established publish workflow.
 
-Typical publish sequence:
+The menu publish option uses this sequence:
 
 ```bash
 git status
-git add .
+bundle exec jekyll build
+git add -A
 git commit -m "Update site content"
 git push origin master
 ```
 
 ## Professor-Friendly Explanation To Preserve
 
-The guide for non-programmers is `docs/site-guide.html`. Keep it written in plain language and update it whenever the repo structure or maintenance tool changes. It should explain:
+The first-use tutorial is `docs/first-use-tutorial.html`. It should start from a blank Windows computer and explain installing Git/Python/Ruby, cloning the repository, pulling latest changes, using `RUN_SITE_TOOL.bat`, previewing, and publishing.
+
+The full guide for non-programmers is `docs/site-guide.html`. Keep it written in plain language and update it whenever the repo structure or maintenance tool changes. It should explain:
 
 - What GitHub Pages, Jekyll, Markdown, HTML, YAML, and Git mean.
 - Which file changes which visible page.

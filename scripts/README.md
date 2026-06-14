@@ -18,6 +18,7 @@ It opens a menu:
 3. Remove research staff/student/alumni
 4. Add publication by DOI
 5. Run Jekyll build
+6. Publish changes to GitHub
 0. Exit
 ```
 
@@ -104,6 +105,22 @@ If the year should be forced:
 
 ```bash
 scripts/ndl_site_tool.sh add-publication --doi 10.1039/D3NH00180F --year 2023
+```
+
+## Publish Changes To GitHub
+
+From the menu, choose:
+
+```text
+6. Publish changes to GitHub
+```
+
+The tool will show the changed files, offer to run a Jekyll build, ask for a commit message, commit all changed files, and push to the current GitHub branch.
+
+Command-line use:
+
+```bash
+scripts/ndl_site_tool.sh publish --message "Update website"
 ```
 
 ## After Running The Tool

@@ -46,6 +46,57 @@ def run_build() -> None:
         print("Note: Jekyll build was not completed. Please run `bundle exec jekyll build` manually.", file=sys.stderr)
 
 
+def run_checked(command: list[str], label: str) -> None:
+    try:
+        subprocess.run(command, cwd=ROOT, check=True)
+    except FileNotFoundError:
+        die(f"{label} failed because `{command[0]}` was not found.")
+    except subprocess.CalledProcessError as exc:
+        die(f"{label} failed with exit code {exc.returncode}.")
+
+
+def git_output(command: list[str]) -> str:
+    try:
+        result = subprocess.run(command, cwd=ROOT, check=True, text=True, capture_output=True)
+    except FileNotFoundError:
+        die("Git was not found. Please install Git for Windows first.")
+    except subprocess.CalledProcessError as exc:
+        message = exc.stderr.strip() or exc.stdout.strip() or str(exc)
+        die(f"Git command failed: {message}")
+    return result.stdout.strip()
+
+
+def publish_changes(args: argparse.Namespace) -> None:
+    status = git_output(["git", "status", "--short"])
+    if not status:
+        print("No website changes to publish.")
+        return
+
+    print("\nFiles changed:")
+    print(status)
+
+    if not getattr(args, "skip_build", False):
+        answer = "y" if getattr(args, "yes", False) else ask("Run Jekyll build before publishing? y/n", "y").lower()
+        if answer.startswith("y"):
+            run_build()
+
+    message = getattr(args, "message", None) or ask("Commit message", "Update website")
+    if not message.strip():
+        die("Commit message cannot be blank.")
+
+    if not getattr(args, "yes", False):
+        confirm = ask("Commit all changed files and push to GitHub? y/n", "n").lower()
+        if not confirm.startswith("y"):
+            print("Cancelled. No commit or push was made.")
+            return
+
+    run_checked(["git", "add", "-A"], "Git add")
+    run_checked(["git", "commit", "-m", message], "Git commit")
+    branch = git_output(["git", "rev-parse", "--abbrev-ref", "HEAD"])
+    run_checked(["git", "push", "origin", branch], "Git push")
+    print(f"Published changes to GitHub branch: {branch}")
+
+
 def add_post(args: argparse.Namespace) -> None:
     POSTS.mkdir(exist_ok=True)
     date = args.date or dt.date.today().isoformat()
@@ -305,6 +356,7 @@ def menu(args: argparse.Namespace) -> None:
             3. Remove research staff/student/alumni
             4. Add publication by DOI
             5. Run Jekyll build
+            6. Publish changes to GitHub
             0. Exit
             """).strip())
         choice = ask("Choose an option")
@@ -319,10 +371,12 @@ def menu(args: argparse.Namespace) -> None:
                 menu_add_publication()
             elif choice == "5":
                 run_build()
+            elif choice == "6":
+                publish_changes(argparse.Namespace(message=None, skip_build=False, yes=False))
             elif choice == "0":
                 return
             else:
-                print("Please choose 0, 1, 2, 3, 4, or 5.")
+                print("Please choose 0, 1, 2, 3, 4, 5, or 6.")
         except Exception as exc:
             print(f"\nError: {exc}", file=sys.stderr)
         pause()
@@ -340,6 +394,7 @@ def main() -> None:
               scripts/ndl_site_tool.sh add-person --section student --name "Mr. Example" --about "He is a PhD student."
               scripts/ndl_site_tool.sh remove-person --name "Mr. Example"
               scripts/ndl_site_tool.sh add-publication --doi 10.1039/D3NH00180F
+              scripts/ndl_site_tool.sh publish --message "Update website"
             """
         ),
     )
@@ -375,6 +430,12 @@ def main() -> None:
     p.add_argument("--doi", required=True)
     p.add_argument("--year", type=int)
     p.set_defaults(func=add_publication)
+
+    p = sub.add_parser("publish", help="Commit all changed files and push to GitHub.")
+    p.add_argument("--message", "-m")
+    p.add_argument("--skip-build", action="store_true")
+    p.add_argument("--yes", "-y", action="store_true", help="Do not ask for confirmation.")
+    p.set_defaults(func=publish_changes)
 
     args = parser.parse_args()
     args.func(args)

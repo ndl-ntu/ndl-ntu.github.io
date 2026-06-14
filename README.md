@@ -4,6 +4,7 @@
 
 ## Website maintenance guides
 
+- First-use tutorial: open `docs/first-use-tutorial.html` in a browser.
 - Professor-friendly guide: open `docs/site-guide.html` in a browser.
 - Codex/site-maintainer skill: `.codex/skills/ndl-site-maintenance/SKILL.md`.
 - Click-to-run maintenance tool: double-click `RUN_SITE_TOOL.bat`, or read `scripts/README.md`.
