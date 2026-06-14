@@ -1,6 +1,20 @@
 {% if page.gallery %}
     {% assign galleries=site.data.[page.gallery] %}
     {% for gallery in galleries %}
+    {% if gallery.title == "Alumni" %}
+    <div class="alumni-archive">
+        <p class="title is-3 has-text-centered">{{ gallery.title }}</p>
+        <div class="columns is-multiline">
+            {% for image in gallery.images %}
+            <div class="column is-6-desktop is-12-tablet">
+                <div class="alumni-entry content">
+                    {{ image.description | markdownify }}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% else %}
     <div class="columns is-multiline">
         <div class="column is-12">
             <p class="title is-3 has-text-centered">{{ gallery.title }}</p>
@@ -8,9 +22,11 @@
         {% for image in gallery.images %}
         <div class="column is-4-desktop is-6-tablet">
             <div class="card">
+                {% unless image.link contains "blank.png" %}
                 <div class="card-image">
                     {% include image-modal.html ratio=image.ratio link=image.link alt=image.alt large_link=image.large_link %}
                 </div>
+                {% endunless %}
                 <div class="card-content">
                     <div class="content">
                         {{ image.description | markdownify }}
@@ -21,5 +37,6 @@
         </div>
         {% endfor %}
     </div>
+    {% endif %}
     {% endfor %}
 {% endif %}

@@ -1,65 +1,71 @@
 ---
 title: Neuromorphic Device Lab
-subtitle: 
+subtitle:
 layout: page
-hero_image: /assets/img/ntu30logo.png
-callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
+
+<section class="lab-intro">
+  <p class="lab-kicker">Nanyang Technological University | School of Electrical and Electronic Engineering</p>
+  <h1>Neuromorphic Device Lab</h1>
+  <p class="lab-mission">We develop semiconductor memory and sensing devices for energy-efficient computing, bio-inspired vision, and reliability-aware electronics.</p>
+  <div class="lab-theme-row">
+    <a href="/highlights/#neuromorphic-memory-devices">Neuromorphic memory</a>
+    <a href="/highlights/#retinomorphic-vision-sensors">Retinomorphic vision</a>
+    <a href="/highlights/#high-k-reliability-and-trap-dynamics">Device reliability</a>
+  </div>
+  <a class="button is-primary is-small" href="/join-us/">Join Us</a>
+</section>
 
 {% include notification.html
 message=" **Important info for all prospective students**
 
 Research student opportunities are available for upcoming PhD/M.Eng intakes.
 
-**Interested? Click [Here](https://ndl-ntu.github.io/news/2023/07/02/Scholarship/).**
- 
+**Interested? Visit the [Join Us](/join-us/) page.**
+
 Check [NTU Admission Criteria (EEE)](https://www.ntu.edu.sg/eee/admissions/programmes/graduate-programmes/detail/eee-doctor-of-philosophy-(ph.d)-programme#admission) and [Apply Online at NTU Admission](https://www.ntu.edu.sg/admissions/graduate/radmissionguide) or **talk with us**."
 
-status="is-warning"
+status="is-light"
 dismissable="true" %}
 
-<!-- {% include notification.html
-message=" **Important info for prospective students**
+## Lab Mission
 
-Ph.D. research scholarship funded by Singapore Economic Development Board and GlobalFoundries Singapore are also available for **Aug 2024 admission**.
+The Neuromorphic Device Lab at Nanyang Technological University develops semiconductor memory and sensing devices for energy-efficient computing, bio-inspired vision, and reliability-aware electronics. We connect materials, device physics, circuit-relevant characterization, and neuromorphic system concepts.
 
-Research topics:
+## Research Themes
 
-1. Machine learning aided modelling/prediction of RF reliability of power amplifier for 6G and above communications
-2. Conducting bridge random access memory (CBRAM) enabled RF switches for 6G and above communications
+<div class="profile-grid">
+  <section class="profile-card">
+    <h3>Neuromorphic Memory Devices</h3>
+    <p>RRAM, CBRAM, and transistor-based devices that emulate synaptic and neuronal functions for compact, low-power computing hardware.</p>
+  </section>
+  <section class="profile-card">
+    <h3>Retinomorphic Vision Sensors</h3>
+    <p>Bio-inspired optoelectronic devices and sensor concepts for dynamic machine vision, in-sensor preprocessing, and visual memory.</p>
+  </section>
+  <section class="profile-card">
+    <h3>Device Reliability Physics</h3>
+    <p>Trap dynamics, high-k gate dielectrics, nanoscale variability, and reliability mechanisms in advanced semiconductor devices.</p>
+  </section>
+</div>
 
-Only eligible to *Singaporeans/Singapore Permanent Residents*. Applicants must have good undergraduate academic performance (GPA > 4.0/5.0) from Local universities or equivalent GPA from other universities."
+## Selected Recent Publications
 
-status="is-info"
-dismissable="true" %} -->
+* Jiayi Li, Yuxi Guo, Xin Ju, and Diing Shenp Ang. Hyperpolarizing photoreceptor inspired biomimetic energy-saving sensor for dynamic machine vision. **Nano Research**. 2025. [10.26599/NR.2025.94907057](https://www.sciopen.com/article/10.26599/NR.2025.94907057){:target="_blank"}
+* Asif Ali, Haider Abbas, Jiayi Li, Jongwan Jung, and Diing Shenp Ang. Ag/Ti/GeS/Ag bidirectional conductive-bridge selector with low turn-off latency, high endurance and enhanced switching uniformity. **ACS Applied Electronic Materials**. 2024. [10.1021/acsaelm.4c01392](https://doi.org/10.1021/acsaelm.4c01392){:target="_blank"}
+* Li, Jiayi, Haider Abbas, Diing Shenp Ang, Asif Ali, and Xin Ju. Emerging memristive artificial neuron and synapse devices for the neuromorphic electronics era. **Nanoscale Horizons**. 2023. [10.1039/D3NH00180F](https://doi.org/10.1039/D3NH00180F){:target="_blank"}
 
+## Join The Lab
 
-## Prof. ANG Diing Shenp
+We welcome motivated PhD, M.Eng, MSc, and undergraduate researchers interested in semiconductor devices for memory, sensing, and neuromorphic computing. See [Join Us](/join-us/) for current topics, funding routes, and application guidance.
 
-### Biography
+## Principal Investigator
 
- <p align = "justify"> 
+### Prof. ANG Diing Shenp
 
-Prof. Ang obtained both his B. Eng. (Hons) and Ph.D. degrees in electrical engineering from the National University of Singapore. He joined the School of EEE, NTU in July 2002 as an assistant professor and was promoted to associate professor in April 2008. He is American Chemical Society (ACS) member since 2019 and IEEE senior member since 2009. Prof. Ang served as IEEE Electron Device Society – Device Reliability Physics Committee Member(Jan 2013 – Dec 2017) and sub-committee member of IEEE International Reliability Physics Symposium for four years, IEEE International Integrated Reliability Workshop for five years, and IEEE International Symposium on the Physical and Failure Analysis of Integrated Circuits since 2004. He was listed in the 2000 Outstanding Intellectuals of the 21st Century (2008) by the International Biographical Centre, Cambridge, England and in Marquis *Who’s Who in the World* for seven years.
+Prof. Ang obtained both his B. Eng. (Hons) and Ph.D. degrees in electrical engineering from the National University of Singapore. He joined the School of Electrical and Electronic Engineering, NTU in July 2002 and was promoted to associate professor in April 2008.
 
-</p>
+Prof. Ang's research interests lie mainly in neuromorphic RRAM devices, device reliability physics, and characterization.
 
- <p align = "justify"> 
-
-Prof. Ang’s research interests lie mainly in neuromorphic RRAM device, device reliability physics and characterization.
-
-</p>
-
-## Research Focus
-
-The Neuromorphic Device Lab studies semiconductor and memory devices for energy-efficient computing, sensing, and reliability-aware electronics. Current research directions include:
-
-* Neuromorphic and retinomorphic devices for bio-inspired machine vision
-* Conductive-bridge and resistive random-access memory devices
-* High-k gate dielectrics, transistor reliability, and device characterization
-
-Prospective students and collaborators are welcome to contact the lab through the [Contact Us](/contact/) page.
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/0000-0002-8139-1984)
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?&user=vPrA2cMAAAAJ)
+[![ORCID](/assets/img/orcid.logo.icon.svg){:.orcid-icon} ORCID](https://orcid.org/0000-0002-8139-1984){:target="_blank"} | [Google Scholar](https://scholar.google.com/citations?&user=vPrA2cMAAAAJ){:target="_blank"}

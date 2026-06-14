@@ -12,6 +12,8 @@ published: true
 
 ---
 
+For the latest research student opportunities and application guidance, please visit the standing [Join Us](/join-us/) page.
+
 ![NTU_EEE](/assets/img/NTU_EEE.png)
 
 ## All Nationalities

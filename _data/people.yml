@@ -1,3 +1,16 @@
+- title: Principal Investigator
+  images:
+    - link: /assets/img/ntu30logo.png
+      large_link: /assets/img/ntu30logo.png
+      alt: Prof. ANG Diing Shenp
+      description: |-
+        ### [Prof. ANG Diing Shenp](https://scholar.google.com/citations?&user=vPrA2cMAAAAJ)
+        [![ORCID](/assets/img/orcid.logo.icon.svg){:.orcid-icon}](https://orcid.org/0000-0002-8139-1984)
+        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?&user=vPrA2cMAAAAJ)
+        #### About
+        Prof. Ang's research interests include neuromorphic RRAM devices, device reliability physics, and semiconductor device characterization. His group develops memory and sensing devices for energy-efficient neuromorphic and retinomorphic systems.
+      ratio: is-4by3
+
 - title: Research Staff
   images:
     - link: https://s1.ax1x.com/2022/06/19/XXGHKS.jpg
@@ -5,7 +18,7 @@
       alt: Dr. Asif ALI
       description: |-
         ### <a href="https://scholar.google.com/citations?user=rIkywgYAAAAJ&hl=en">Dr. Asif ALI</a> 
-        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/0000-0003-0943-4385)
+        [![ORCID](/assets/img/orcid.logo.icon.svg){:.orcid-icon}](https://orcid.org/0000-0003-0943-4385)
         [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?user=rIkywgYAAAAJ&hl=en)
         [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/profile/Asif-Ali-67)
         #### About
@@ -15,7 +28,7 @@
          He joined School of EEE at NTU as a research fellow since then.
         </p>
         #### Selected Publications
-        * <p align = "justify"> Asif Ali, Haider Abbas et al. (2022). Versatile GeS-based CBRAM with compliance-current-controlled threshold and bipolar resistive switching for electronic synapses. <strong>Applied Materials Today</strong>, 29, 101554. <a href="https://doi.org/https://doi.org/10.1016/j.apmt.2022.101554">Online</a></p>
+        * <p align = "justify"> Asif Ali, Haider Abbas et al. (2022). Versatile GeS-based CBRAM with compliance-current-controlled threshold and bipolar resistive switching for electronic synapses. <strong>Applied Materials Today</strong>, 29, 101554. <a href="https://doi.org/10.1016/j.apmt.2022.101554">Online</a></p>
         * <p align = "justify"> Asif Ali, et al. Thickness-dependent monochalcogenide GeSe-based CBRAM for memory and artificial electronic synapses. <strong>Nano Res</strong>. 15, 2263–2277 (2022).  <a href="https://doi.org/10.1007/s12274-021-3793-1">Online</a></p>
         ![NTU](https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Nanyang_Technological_University.svg/1920px-Nanyang_Technological_University.svg.png)
       ratio: is-1by1
@@ -24,12 +37,12 @@
       alt: Dr. JU Xin
       description: |-
         ### [Dr. JU Xin](https://www.researchgate.net/scientific-contributions/Xin-Ju-2152156249)
-        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/0000-0003-2742-3719)
+        [![ORCID](/assets/img/orcid.logo.icon.svg){:.orcid-icon}](https://orcid.org/0000-0003-2742-3719)
         [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/scientific-contributions/Xin-Ju-2152156249)
         #### About
         <p align = "justify">
         Dr. JU xin obtained his B.S degree from Tianjin University, China, then he got his M.S. degree from Peking University. 
-        He obtained his PhD degree from Nanyang Technological Univerisy, Singapore in Oct 2021 and joined as a research fellow at NTU and A*STAR since then.
+        He obtained his PhD degree from Nanyang Technological University, Singapore in Oct 2021 and joined as a research fellow at NTU and A*STAR since then.
         </p>
         #### Selected Publications
         * <p align = "justify"> X. Ju, D. S. Ang and C. Gu, "Impact of Channel Hot-Hole Stressing on Gate-Oxide Trap’s Emission," in <strong>IEEE Transactions on Electron Devices</strong>, vol. 67, no. 11, pp. 4720-4727, Nov. 2020. <a href="https://ieeexplore.ieee.org/abstract/document/9199307">Online</a></p>
@@ -42,9 +55,8 @@
       large_link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/ZhangFan.jpg
       alt: Dr. ZHANG Fan
       description: |-
-        ### [Dr. Zhang Fan]()
-        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/0000-0001-6393-5960)
-        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/scientific-contributions/)
+        ### Dr. Zhang Fan
+        [![ORCID](/assets/img/orcid.logo.icon.svg){:.orcid-icon}](https://orcid.org/0000-0001-6393-5960)
         #### About
         <p align = "justify">
         Dr. Zhang Fan obtained his B.Eng degree from Xidian University, China in 2018.
@@ -67,60 +79,67 @@
         #### About
         Mr. Elliot Seow obtained his B.Eng degree from National University of Singapore in 2023. He is now a PhD student at Nanyang Technological University, Singapore.
       ratio: is-3by4
-    - link: https://shieldjy.github.io/assets/img/jiayi_pic.jpg
-      alt: Mr. LI Jiayi
-      description: |-
-        ### <a href="https://shieldjy.github.io/about/">Mr. LI Jiayi</a> 
-        [![orcid](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/0000-0001-5016-4239)
-        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?&user=2col4G4AAAAJ)
-        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/profile/Jiayi-Li-128)
-        #### About
-        Mr. Li Jiayi obtained his B.Eng degree from Tongji University, China in 2021. He is now a PhD student at Nanyang Technological University, Singapore.
-        #### Selected Publications
-        * <p align = "justify"> Li Jiayi, et al. Hyperpolarizing photoreceptor inspired biomimetic energy-saving sensor for dynamic machine vision. Nano Research (2024). <a href="https://doi.org/10.26599/NR.2025.94907057">online</a></p>
-        * <p align = "justify"> Li, Jiayi, et al. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. Nanoscale Horizons (2023). <a href="https://doi.org/10.1039/D3NH00180F">online</a></p>
-        * <p align = "justify"> Abbas, Haider, Jiayi Li, Asif Ali, Sajjad Hussain, Jongwan Jung, and Diing Shenp Ang. "Emulation of short-term and long-term synaptic plasticity with high uniformity in chalcogenide-based diffusive memristor device for neuromorphic applications." Journal of Materials Science & Technology (2024).<a href="https://doi.org/10.1016/j.jmst.2024.07.033">online</a></p>
-      ratio: is-16by9
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/JiaHui.jpg
       alt: Mr. LIAO Jia Hui
       description: |-
-        ### <a href="https://www.linkedin.com/in/jia-hui-liao-87303020a/">Mr. LIAO Jia Hui</a> 
+        ### <a href="https://www.linkedin.com/in/jia-hui-liao-87303020a/">Mr. LIAO Jia Hui</a>
         #### About
         Mr. Liao Jia Hui obtained his B.Eng degree from NTU in 2023. He is now a PhD student at Nanyang Technological University, Singapore.
       ratio: is-3by4
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
-      alt: Mr. JI Bolin
+      alt: Mr. JIN Tian
       description: |-
-        ### Mr. JI Bolin
+        ### Mr. JIN Tian
         #### About
-        Mr. Ji Bolin obtained his B.Eng degree from Xidian University, China in 2024. He is now a MSc. student (Electronics) at Nanyang Technological University, Singapore.
+        Mr. Jin Tian commenced his PhD study at Nanyang Technological University, Singapore in Aug 2025.
+      ratio: is-16by9
+
+- title: Undergraduate Intern
+  images:
+
+- title: Alumni
+  images:
+    - link: https://shieldjy.github.io/assets/img/jiayi_pic.jpg
+      alt: Dr. LI Jiayi
+      description: |-
+        ### <a href="https://shieldjy.github.io/about/">Dr. LI Jiayi</a>
+        [![ORCID](/assets/img/orcid.logo.icon.svg){:.orcid-icon}](https://orcid.org/0000-0001-5016-4239)
+        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?&user=2col4G4AAAAJ)
+        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/profile/Jiayi-Li-128)
+        #### About
+        Dr. Li Jiayi obtained his B.Eng degree from Tongji University, China in 2021 and his PhD degree from Nanyang Technological University, Singapore. He now works in Micron TD as Senior Cell Engineer.
+        #### Selected Publications
+        * <p align = "justify"> Li Jiayi, et al. Hyperpolarizing photoreceptor inspired biomimetic energy-saving sensor for dynamic machine vision. Nano Research (2024). <a href="https://doi.org/10.26599/NR.2025.94907057">online</a></p>
+        * <p align = "justify"> Li, Jiayi, et al. Emerging Memristive Artificial Neuron and Synapse Devices for the Neuromorphic Electronics Era. Nanoscale Horizons (2023). <a href="https://doi.org/10.1039/D3NH00180F">online</a></p>
+        * <p align = "justify"> Abbas, Haider, Jiayi Li, Asif Ali, Sajjad Hussain, Jongwan Jung, and Diing Shenp Ang. "Emulation of short-term and long-term synaptic plasticity with high uniformity in chalcogenide-based diffusive memristor device for neuromorphic applications." Journal of Materials Science & Technology (2024).<a href="https://doi.org/10.1016/j.jmst.2024.07.033">online</a></p>
       ratio: is-16by9
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Mr. HE Zhiyuan
       description: |-
         ### Mr. HE Zhiyuan
         #### About
-        Mr. He Zhiyuan obtained his B.Eng degree from Huazhong University of Science and Technology, China in 2024. He is now a MSc. student (Electronics) at Nanyang Technological University, Singapore.
+        Mr. He Zhiyuan obtained his B.Eng degree from Huazhong University of Science and Technology, China in 2024 and his MSc degree from Nanyang Technological University, Singapore. He now works in COMAC (中国商飞).
+      ratio: is-16by9
+    - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
+      alt: Mr. JI Bolin
+      description: |-
+        ### Mr. JI Bolin
+        #### About
+        Mr. Ji Bolin obtained his B.Eng degree from Xidian University, China in 2024 and his MSc degree from Nanyang Technological University, Singapore. He is now studying as a PhD student at NTU EEE.
       ratio: is-16by9
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Mr. ZHANG Chen
       description: |-
         ### Mr. ZHANG Chen
         #### About
-        Mr. Zhang Chen obtained his B.Eng degree from Beihang University, China in 2024. He is now a MSc. student (Electronics) at Nanyang Technological University, Singapore.
+        Mr. Zhang Chen obtained his B.Eng degree from Beihang University, China in 2024 and his MSc degree from Nanyang Technological University, Singapore.
       ratio: is-16by9
-
-- title: Undergraduate Intern
-  images:
-    
-- title: Alumni
-  images:
     - link: https://publons.com/media/thumbs/academic/photos/3c1737d2-f774-4242-bb02-24fc2df9be62.png.200x200_q95_crop_detail_upscale.png
       large_link: https://publons.com/media/thumbs/academic/photos/3c1737d2-f774-4242-bb02-24fc2df9be62.png.200x200_q95_crop_detail_upscale.png
       alt: Dr. Haider ABBAS
       description: |-
         ### <a href="https://sites.google.com/view/HaiderAbbas">Dr. Haider ABBAS</a> 
-        [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ORCID_-_SuperTinyIcons.svg/32px-ORCID_-_SuperTinyIcons.svg.png)](https://orcid.org/0000-0003-4372-2639)
+        [![ORCID](/assets/img/orcid.logo.icon.svg){:.orcid-icon}](https://orcid.org/0000-0003-4372-2639)
         [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/32px-Google_Scholar_logo.svg.png)](https://scholar.google.com/citations?user=Gr-rIZIAAAAJ&hl=en)
         [![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/32px-ResearchGate_icon_SVG.svg.png)](https://www.researchgate.net/profile/Haider-Abbas-4)
         #### About
@@ -305,8 +324,8 @@
     - link: https://raw.githubusercontent.com/ndl-ntu/ndl-ntu.github.io/master/assets/img/blank.png
       alt: Alumni
       description: |-
-        ### Wang Shuang
-        PhD, degree conferred in 2009
+        ### [Dr. WANG Shuang](https://www.linkedin.com/in/shuang-wang-001923272/)
+        PhD, degree conferred in 2009. Now working as F10 PIE Director at Micron
         #### Research Topic
         Characterization of negative-bias temperature instability of the ultra-thin oxynitride gate P-MOSFET
       ratio: is-16by9
