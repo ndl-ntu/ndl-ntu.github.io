@@ -27,7 +27,6 @@
     {% include head.html %}
   <body>
     {% include header.html %}
-    {% include callouts.html %}
     <section class="section">
         <div class="container">
             <div class="columns is-multiline">
@@ -43,8 +42,6 @@
                 {% endif %}
                 <div class="column {{ content_width }}">
                     {% include tabs.html %}
-                    {% include showcase.html %}
-                    {% include sponsors.html %}
                     {% include gallery.html %}
                     {{ content }}
                 </div>

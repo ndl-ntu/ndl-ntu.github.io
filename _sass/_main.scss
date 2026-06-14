@@ -9,13 +9,11 @@ $tabs-link-active-border-bottom-color: $primary;
 
 $modal-content-width: 800px;
 
-@import "../node_modules/bulma/bulma.sass";
-$hero-darken: $dark !default;
+@import "vendor/bulma/bulma.sass";
 
 @import "layout";
 @import "syntax";
-@import "showcase";
-@import "../node_modules/bulma-block-list/src/block-list.scss";
+@import "vendor/bulma-block-list/block-list.scss";
 
 .gh-sponsor {
   color: #ea4aaa;

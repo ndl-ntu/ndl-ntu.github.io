@@ -36,7 +36,6 @@ exclude:
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
-  - node_modules
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
@@ -71,10 +70,3 @@ markdown: kramdown
 highlighter: rouge
 
 footer_menu: example_footer_menu
-
-collections:
-  products: 
-    output: true
-    layout: product
-    image: /assets/img/ntu30logo.png
-    show_sidebar: false
