@@ -2,6 +2,12 @@
 
 ## Nanyang Technological University, Singapore
 
+## Website maintenance guides
+
+- Professor-friendly guide: open `docs/site-guide.html` in a browser.
+- Codex/site-maintainer skill: `.codex/skills/ndl-site-maintenance/SKILL.md`.
+- Click-to-run maintenance tool: double-click `RUN_SITE_TOOL.bat`, or read `scripts/README.md`.
+
 ## Description and disclaimer
 
 This is the group website of Prof. ANG Diing Shenp, who is an associate professor at school of electrical and electronic engineering, NTU.
@@ -27,4 +33,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/chrisr
 ### License
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-

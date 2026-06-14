@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>NDL Website Editing Guide</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #1d2730;
+      --muted: #5c6873;
+      --line: #dce3e8;
+      --soft: #f5f8fa;
+      --accent: #188eac;
+      --accent-dark: #0f6379;
+      --warn: #8a5a00;
+    }
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.55;
+      background: white;
+    }
+    main {
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 28px 20px 56px;
+    }
+    h1, h2, h3 {
+      line-height: 1.2;
+      margin: 1.4em 0 0.45em;
+    }
+    h1 {
+      margin-top: 0;
+      font-size: 2rem;
+      color: var(--accent-dark);
+    }
+    h2 {
+      border-top: 1px solid var(--line);
+      padding-top: 1rem;
+      font-size: 1.35rem;
+    }
+    h3 {
+      font-size: 1.05rem;
+    }
+    p, li {
+      font-size: 1rem;
+    }
+    a {
+      color: var(--accent-dark);
+    }
+    code {
+      padding: 0.12rem 0.28rem;
+      border-radius: 4px;
+      background: var(--soft);
+      font-family: Consolas, "Courier New", monospace;
+      font-size: 0.92em;
+    }
+    pre {
+      overflow-x: auto;
+      padding: 0.85rem 1rem;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--soft);
+    }
+    pre code {
+      padding: 0;
+      background: transparent;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1rem 0;
+      font-size: 0.95rem;
+    }
+    th, td {
+      vertical-align: top;
+      padding: 0.65rem;
+      border: 1px solid var(--line);
+    }
+    th {
+      background: var(--soft);
+      text-align: left;
+    }
+    .note {
+      border-left: 4px solid var(--accent);
+      background: #eef8fb;
+      padding: 0.8rem 1rem;
+      margin: 1rem 0;
+    }
+    .warning {
+      border-left-color: var(--warn);
+      background: #fff7e6;
+    }
+    .toc {
+      padding: 1rem;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--soft);
+    }
+    .toc ul {
+      columns: 2;
+      margin: 0;
+    }
+    @media (max-width: 720px) {
+      .toc ul {
+        columns: 1;
+      }
+      table {
+        display: block;
+        overflow-x: auto;
+      }
+    }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Neuromorphic Device Lab Website Editing Guide</h1>
+  <p>This guide explains how the NDL website repository is organized and which files control each visible part of the website. It is written for maintainers who may not have programming, Git, HTML, or Markdown experience.</p>
+
+  <div class="note">
+    <strong>Most routine edits should use the click-to-run tool:</strong> double-click <code>RUN_SITE_TOOL.bat</code> in the repository folder. Use manual editing only when the tool does not cover the change.
+  </div>
+
+  <nav class="toc" aria-label="Contents">
+    <strong>Contents</strong>
+    <ul>
+      <li><a href="#basic-ideas">Basic Ideas</a></li>
+      <li><a href="#quick-map">Quick File Map</a></li>
+      <li><a href="#routine-edits">Routine Edits</a></li>
+      <li><a href="#page-guide">Page By Page Guide</a></li>
+      <li><a href="#people">People Page</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#news">News Posts</a></li>
+      <li><a href="#images">Images</a></li>
+      <li><a href="#style">Style And Layout</a></li>
+      <li><a href="#preview">Preview And Publish</a></li>
+      <li><a href="#safety">Safety Checklist</a></li>
+    </ul>
+  </nav>
+
+  <h2 id="basic-ideas">Basic Ideas</h2>
+  <p>The website is a <strong>GitHub Pages</strong> site built with <strong>Jekyll</strong>. Jekyll reads text files in this folder and turns them into website pages.</p>
+  <table>
+    <tr><th>Term</th><th>Plain meaning</th></tr>
+    <tr><td>Repository, or repo</td><td>The folder that contains all website files and the saved history of changes.</td></tr>
+    <tr><td>Git</td><td>The history system. It records what changed, who changed it, and allows the site to be pushed to GitHub.</td></tr>
+    <tr><td>GitHub Pages</td><td>The hosting service that publishes this repository as the public website.</td></tr>
+    <tr><td>Jekyll</td><td>The website builder. It converts Markdown, YAML, layouts, and styles into HTML pages.</td></tr>
+    <tr><td>Markdown</td><td>A simple text format. For example, <code>## Title</code> becomes a heading and <code>* item</code> becomes a bullet.</td></tr>
+    <tr><td>HTML</td><td>The web page language. It is used when Markdown is not flexible enough, for example publication badges or profile sections.</td></tr>
+    <tr><td>YAML</td><td>A structured text format used for lists such as people and navigation. Spaces are important in YAML.</td></tr>
+  </table>
+
+  <h2 id="quick-map">Quick File Map</h2>
+  <table>
+    <tr><th>Visible website area</th><th>Edit this file</th><th>What changes on the website</th></tr>
+    <tr><td>Homepage</td><td><code>index.md</code></td><td>Lab name, mission, research theme blocks, selected recent publications, Join Us callout, PI biography.</td></tr>
+    <tr><td>People page title and FYP list</td><td><code>people.md</code></td><td>Page title and undergraduate FYP student lists near the bottom.</td></tr>
+    <tr><td>People profiles</td><td><code>_data/people.yml</code></td><td>PI, research staff, graduate students, interns, and alumni profile cards.</td></tr>
+    <tr><td>Research page</td><td><code>highlights.md</code></td><td>Research theme descriptions, images, related papers, and active people.</td></tr>
+    <tr><td>Publications page</td><td><code>publications.md</code></td><td>Selected publications, recent publications, year sections, DOI links, and citation widgets.</td></tr>
+    <tr><td>Join Us page</td><td><code>join-us.md</code></td><td>Recruitment topics, eligibility, funding routes, and email instructions.</td></tr>
+    <tr><td>Conferences page</td><td><code>conferences.md</code></td><td>Conference list.</td></tr>
+    <tr><td>Patents page</td><td><code>patents.md</code></td><td>Patent list.</td></tr>
+    <tr><td>Files page</td><td><code>files.md</code></td><td>Internal file/request information shown on the Files page.</td></tr>
+    <tr><td>Request page</td><td><code>request.md</code></td><td>Request instructions or forms.</td></tr>
+    <tr><td>Contact page</td><td><code>contact.md</code></td><td>Contact information and affiliation details.</td></tr>
+    <tr><td>Top navigation menu</td><td><code>_data/navigation.yml</code></td><td>Navbar links such as Research, Works, People, News, Files, Contact Us, Join Us.</td></tr>
+    <tr><td>Footer links</td><td><code>_data/example_footer_menu.yml</code></td><td>Footer menu links.</td></tr>
+    <tr><td>News page</td><td><code>_posts/YYYY-MM-DD-title.md</code></td><td>Individual news posts listed on <code>/blog/</code>.</td></tr>
+    <tr><td>Images</td><td><code>assets/img/</code></td><td>Photos, diagrams, logos, and placeholder images.</td></tr>
+    <tr><td>Site-wide settings</td><td><code>_config.yml</code></td><td>Site title, URL, analytics, plugins, and build settings.</td></tr>
+    <tr><td>Visual style</td><td><code>_sass/_layout.scss</code> and <code>_sass/_main.scss</code></td><td>Spacing, typography, publication widget layout, profile card style, research theme layout.</td></tr>
+    <tr><td>Page templates</td><td><code>_layouts/</code> and <code>_includes/</code></td><td>Shared page structure, header, footer, galleries, post cards, tabs, and reusable blocks.</td></tr>
+  </table>
+
+  <h2 id="routine-edits">Routine Edits</h2>
+  <h3>Use The Click-To-Run Tool</h3>
+  <ol>
+    <li>Open the repository folder.</li>
+    <li>Double-click <code>RUN_SITE_TOOL.bat</code>.</li>
+    <li>Choose one action from the menu.</li>
+    <li>Follow the questions shown in the terminal window.</li>
+    <li>Preview the website before publishing.</li>
+  </ol>
+  <p>The tool can create a news post, add or remove people, add a publication by DOI, and run a Jekyll build.</p>
+
+  <h3>Manual Editing Rules</h3>
+  <ul>
+    <li>Use a plain text editor such as VS Code, Notepad++, or GitHub web editor.</li>
+    <li>Do not edit files in <code>_site/</code>. That folder is generated output and should not be used as the source.</li>
+    <li>Keep filenames simple: English letters, numbers, hyphens, and dots are safest.</li>
+    <li>After changing a file, preview locally or let GitHub Pages build it.</li>
+  </ul>
+
+  <h2 id="page-guide">Page By Page Guide</h2>
+  <h3>Homepage: <code>index.md</code></h3>
+  <p>The first part between <code>---</code> lines is page information for Jekyll. Do not remove it. The visible homepage content starts after the second <code>---</code>.</p>
+  <table>
+    <tr><th>Text in file</th><th>Where it appears</th></tr>
+    <tr><td><code>&lt;h1&gt;Neuromorphic Device Lab&lt;/h1&gt;</code></td><td>Main lab name at the top of the homepage.</td></tr>
+    <tr><td><code>lab-mission</code> paragraph</td><td>One-sentence homepage mission.</td></tr>
+    <tr><td><code>lab-theme-row</code> links</td><td>The three compact research area buttons.</td></tr>
+    <tr><td><code>{% include notification.html ... %}</code></td><td>The dismissible recruitment notice on the homepage.</td></tr>
+    <tr><td><code>## Research Themes</code></td><td>The three homepage research blocks.</td></tr>
+    <tr><td><code>## Selected Recent Publications</code></td><td>Short selected publication list on the homepage.</td></tr>
+    <tr><td><code>## Principal Investigator</code></td><td>PI biography lower on the homepage.</td></tr>
+  </table>
+
+  <h3>Research Page: <code>highlights.md</code></h3>
+  <p>This is the research profile page. Each research theme is written as a block with an image, a title, a short summary, related papers, and active people. Images used here normally live in <code>assets/img/</code>.</p>
+
+  <h3>Join Us Page: <code>join-us.md</code></h3>
+  <p>This should stay as a standing recruitment page. Update it when research topics, eligibility, scholarship routes, or email instructions change. News posts can link to this page instead of repeating all recruitment information.</p>
+
+  <h2 id="people">People Page</h2>
+  <p>The People page has two source files:</p>
+  <ul>
+    <li><code>people.md</code> controls the page title and the FYP student list.</li>
+    <li><code>_data/people.yml</code> controls profile cards for PI, research staff, graduate students, interns, and alumni.</li>
+  </ul>
+  <p>In <code>_data/people.yml</code>, each section starts with a title such as:</p>
+  <pre><code>- title: Graduate Research Student
+  images:
+    - link: /assets/img/blank.png
+      alt: Mr. Example Student
+      description: |-
+        ### Mr. Example Student
+        #### About
+        Mr. Example Student is now a PhD student at NTU EEE.
+      ratio: is-16by9</code></pre>
+  <table>
+    <tr><th>Field</th><th>Meaning</th></tr>
+    <tr><td><code>title</code></td><td>The group heading, for example Research Staff or Alumni.</td></tr>
+    <tr><td><code>link</code></td><td>The image shown for the person. Use <code>/assets/img/name.jpg</code> for local images or a full web URL.</td></tr>
+    <tr><td><code>large_link</code></td><td>Optional larger image used when opening the image. Often same as <code>link</code>.</td></tr>
+    <tr><td><code>alt</code></td><td>Person name used for accessibility and image fallback.</td></tr>
+    <tr><td><code>description</code></td><td>The text inside the profile card. Markdown headings and links work here.</td></tr>
+    <tr><td><code>ratio</code></td><td>Image shape, such as <code>is-1by1</code>, <code>is-3by4</code>, <code>is-4by3</code>, or <code>is-16by9</code>.</td></tr>
+  </table>
+  <div class="note warning">
+    <strong>YAML spacing matters.</strong> Keep the same indentation as nearby people. If spacing is changed incorrectly, Jekyll may fail to build.
+  </div>
+
+  <h2 id="publications">Publications</h2>
+  <p>The publications page is <code>publications.md</code>. It has a top navigation area, a Selected Publications section, a Recent Publications section, and year headings.</p>
+  <p>A typical publication line looks like this:</p>
+  <pre><code>* Author A, Author B, and D. S. Ang. Paper title. **Journal Name**. 2026. [doi: 10.xxxx/example](https://doi.org/10.xxxx/example){:target="_blank"} &lt;span class="publication-metrics"&gt;&lt;span class="__dimensions_badge_embed__" data-doi="10.xxxx/example" data-style="small_rectangle" data-hide-zero-citations="true"&gt;&lt;/span&gt;&lt;/span&gt;</code></pre>
+  <table>
+    <tr><th>Part</th><th>Where it appears</th></tr>
+    <tr><td><code>*</code></td><td>Starts one bullet item.</td></tr>
+    <tr><td><code>**Journal Name**</code></td><td>Shows the journal in bold.</td></tr>
+    <tr><td><code>[doi: ...](https://doi.org/...)</code></td><td>Clickable DOI link.</td></tr>
+    <tr><td><code>publication-metrics</code></td><td>Inline citation badge beside the publication.</td></tr>
+    <tr><td><code>tag is-warning is-light</code></td><td>Small "Highly Cited" label in Selected Publications.</td></tr>
+  </table>
+  <p>For routine publication updates, use <code>RUN_SITE_TOOL.bat</code> and choose <strong>Add publication by DOI</strong>. The tool inserts metadata and the citation widget automatically.</p>
+
+  <h2 id="news">News Posts</h2>
+  <p>News posts are files in <code>_posts/</code>. The filename must start with a date:</p>
+  <pre><code>2026-06-14-example-news-title.md</code></pre>
+  <p>Each post starts with a small header:</p>
+  <pre><code>---
+title: Example news title
+layout: post
+author: NDL
+---
+
+Write the news here.</code></pre>
+  <p>The post appears automatically on the News page at <code>/blog/</code>. The date comes from the filename.</p>
+
+  <h2 id="images">Images</h2>
+  <p>Put local images in <code>assets/img/</code>. Recommended formats are <code>.jpg</code>, <code>.png</code>, and <code>.svg</code>. Keep image files reasonably small for fast loading.</p>
+  <table>
+    <tr><th>Use case</th><th>Recommended path</th><th>Example text</th></tr>
+    <tr><td>People photo</td><td><code>assets/img/Name.jpg</code></td><td><code>link: /assets/img/Name.jpg</code></td></tr>
+    <tr><td>Research diagram</td><td><code>assets/img/DeviceDiagram.png</code></td><td><code>&lt;img src="/assets/img/DeviceDiagram.png" alt="Short description"&gt;</code></td></tr>
+    <tr><td>Markdown image</td><td><code>assets/img/image.png</code></td><td><code>![Short description](/assets/img/image.png)</code></td></tr>
+  </table>
+
+  <h2 id="style">Style And Layout</h2>
+  <p>Only edit style files when changing appearance rather than content.</p>
+  <table>
+    <tr><th>File</th><th>Purpose</th></tr>
+    <tr><td><code>_sass/_layout.scss</code></td><td>Main custom site styling: compact spacing, profile cards, research themes, publication badges, alumni archive, ORCID icon size.</td></tr>
+    <tr><td><code>_sass/_main.scss</code></td><td>Loads fonts, theme color, Bulma, and the custom layout styles.</td></tr>
+    <tr><td><code>assets/css/app.scss</code></td><td>Entry file that Jekyll compiles into the website CSS.</td></tr>
+    <tr><td><code>_layouts/default.html</code></td><td>Overall page shell: header, content area, gallery include, footer, scripts.</td></tr>
+    <tr><td><code>_includes/header.html</code></td><td>Top navigation bar.</td></tr>
+    <tr><td><code>_includes/footer.html</code></td><td>Footer display.</td></tr>
+  </table>
+
+  <h2 id="preview">Preview And Publish</h2>
+  <h3>Preview Locally</h3>
+  <p>If Ruby/Jekyll is installed, run this in the repository folder:</p>
+  <pre><code>bundle exec jekyll serve</code></pre>
+  <p>Then open the local address shown by the command, usually <code>http://127.0.0.1:4000/</code>. For a build-only check, run:</p>
+  <pre><code>bundle exec jekyll build</code></pre>
+
+  <h3>Publish To GitHub Pages</h3>
+  <p>Publishing requires Git. A typical command sequence is:</p>
+  <pre><code>git status
+git add .
+git commit -m "Describe the website update"
+git push origin master</code></pre>
+  <p>After pushing, GitHub Pages rebuilds the public website. It may take a few minutes before the live site updates.</p>
+
+  <h2 id="safety">Safety Checklist</h2>
+  <ul>
+    <li>Before editing, make sure you are in the repository folder, not the generated <code>_site</code> folder.</li>
+    <li>For people edits, keep YAML indentation exactly like nearby entries.</li>
+    <li>For publication edits, keep DOI text and citation widget DOI the same.</li>
+    <li>After image changes, confirm the image path starts with <code>/assets/img/</code> or a full <code>https://</code> URL.</li>
+    <li>Run <code>bundle exec jekyll build</code> before publishing when possible.</li>
+    <li>Use a clear Git commit message, for example <code>Update people and publications</code>.</li>
+  </ul>
+</main>
+</body>
+</html>
